@@ -278,6 +278,7 @@
 	- [Spring by example](https://www.springbyexample.org/) - interesting website
 	- [Spring by example - github repository](https://github.com/spring-by-example/spring-by-example)
 	- [Spring Framework Documentation - Version 5.1.0.RELEASE](https://docs.spring.io/spring/docs/5.1.0.RELEASE/spring-framework-reference/)
+	- [Java Programming Style Guide](https://javaranch.com/style.jsp)
 - ## Aspect Programing
 	- [Aspect programing - AspectJ](http://www.runtime-verification.org/course09/lecture2/lecture2.pdf)
 	
