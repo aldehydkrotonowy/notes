@@ -200,6 +200,16 @@
 	- [Passport. Another tutorial](https://msdn.microsoft.com/en-us/magazine/mt707533.aspx)
 	- [Understanding autentication flow](http://toon.io/understanding-passportjs-authentication-flow/)
 	- [Express, Passport and JWT Authentication for Beginners](https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/) <img src="./images/star.png" width="auto" height="20">
+	- [Learn using JWT with Passport authentication](https://medium.com/front-end-hacking/learn-using-jwt-with-passport-authentication-9761539c4314)
+	- [Implementing JWT using passport](https://blog.jscrambler.com/implementing-jwt-using-passport/)
+	- [Using JSON Web Token for Authentication](https://hptechblogs.com/using-json-web-token-for-authentication/)
+	- [API authentication with JSON Web Tokens and Passport](https://scotch.io/@devGson/api-authentication-with-json-web-tokensjwt-and-passport)
+	- [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
+	- [Github - passport mongo example](https://github.com/tutsplus/passport-mongo/blob/master/passport/signup.js)
+	- [Authentication with JWT in NodeJS/Express](https://www.youtube.com/watch?v=TcwngmeqLRk)<img src="./images/youtube.png" width="auto" height="20">
+	- [OAuth (Passport.js) Tutorial #5 - Pasport Initial Setup](https://www.youtube.com/watch?v=kDhYUPcDS28&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x&index=5)<img src="./images/youtube.png" width="auto" height="20">
+- 	Session management
+	- [Session handling in Node](https://codeforgeek.com/2014/09/manage-session-using-node-js-express-4/)
 - 	Routes organization
 	- [How to organize routes](https://www.caffeinecoding.com/better-express-routing-for-nodejs/)
 
