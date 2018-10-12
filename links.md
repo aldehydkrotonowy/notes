@@ -223,7 +223,7 @@
 - [Serverless Stack](https://serverless-stack.com/) -- an open source guide for building and deploying full-stack apps
 
 ### JS basics [[TOP]](#top)<a name="jsbasic"></a>
-- [Coordinates](https://javascript.info/coordinates)
+- [Coordinates](https://javascript.info/coordinates):black_large_square:
 
 ### PWA technology [[TOP]](#top)<a name="pwa"></a>
 - [PWA Pl](https://geek.justjoin.it/progressive-web-apps-koncepcja-wokol-ktorej-gromadza-sie-webowe-api/)
@@ -313,8 +313,8 @@
 
 ### GitHub tutorials
 - [10 Common Git Problems and How to Fix Them](https://citizen428.net/10-common-git-problems-and-how-to-fix-them-e8d809299f08)
-<a name="videos"></a>
-# Videos [[TOP]](#top)
+
+# Videos [[TOP]](#top)<a name="videos"></a>
 ### Math and physics
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NaL_Cb42WyY" target="_blank"><img src="http://img.youtube.com/vi/NaL_Cb42WyY/0.jpg"  width="150" height="150" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6eZQu120A80" target="_blank"><img src="http://img.youtube.com/vi/6eZQu120A80/0.jpg" width="150" height="150" border="10" /></a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=YTBFSmExXRc" target="_blank"><img src="http://img.youtube.com/vi/YTBFSmExXRc/0.jpg"  width="150" height="150" border="10" /></a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=MzRCDLre1b4" target="_blank"><img src="http://img.youtube.com/vi/MzRCDLre1b4/0.jpg" width="150" height="150" border="10" /></a>
@@ -364,14 +364,3 @@ part 5
 ### Off-topic
 - [X - files](https://www.nasze-kino.tv/serial-online/256/z-archiwum-x-the-x-files)
 
-
-<details>
-	<summary>Title 1</summary>
-	<p>
-	### Java [[TOP]](#top)<a name="java"></a>
-	- ## Database
-		- [Sample database with test suite](https://launchpad.net/test-db/) - sample database with employees
-		- [Sample DB from o7planning](https://o7planning.org/en/10241/sample-sql-server-database-for-learning-sql)
-		- [SO topic on sample DB for exercises](https://stackoverflow.com/questions/719259/sample-database-for-exercise)
-	</p>
-</details>
