@@ -3,6 +3,7 @@
 - [Mathematic](#math)
 - [Java](#java)
 - [Online JS Editors](#editors)
+- [JS basic](#jsbasic)
 - [Artificial Inteligence](#ai)
 - [React](#react)
 - [Videos](#videos)
@@ -115,6 +116,7 @@
 - [Deep Learning - MIT](http://www.deeplearningbook.org/) - good and interesting BOOK
 - [Jeremy Jordan Blog](https://www.jeremyjordan.me/author/jeremy/)
 - [Introduction to ML](http://www.infocobuild.com/education/audio-video-courses/computer-science/IntroToMachineLearning-IIT-Kharagpur/lecture-38.html) - youtube tutorial
+
 ### Project ideas [[TOP]](#top)
 - [fun apps to build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
@@ -122,7 +124,7 @@
 ### Web API [[TOP]](#top)
 - [Web API mozilla.org](https://developer.mozilla.org/en-US/docs/Web/API)
 
-### C/C++
+### C/C++ [[TOP]](#top)
 - [How does WSAStartup function initiates use of the Winsock DLL?](https://stackoverflow.com/questions/4991967/how-does-wsastartup-function-initiates-use-of-the-winsock-dll)
 - [TCP/IP Network Programming Design Pattens in C++](https://vichargrave.github.io/articles/2013-02/tcp-ip-network-programming-design-patterns-in-cpp)
 - [Source Codes World.com](http://www.sourcecodesworld.com/source/show.asp?ScriptID=1096)
@@ -141,7 +143,7 @@
 - [Web app from scratch: part I](https://defn.io/2018/02/25/web-app-from-scratch-01/)
 - [Web app from scratch: part II](https://defn.io/2018/03/04/web-app-from-scratch-02//)
 
-## CSS
+## CSS [[TOP]](#top)
 - [How to Write CSS That Works in Every Browser](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/)
 - [PostCSS](http://postcss.org/)
 - [How to build a responsive navbar using CSS Flexbox and Javascript](https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf)
@@ -220,6 +222,8 @@
 ### Serverless guide [[TOP]](#top)
 - [Serverless Stack](https://serverless-stack.com/) -- an open source guide for building and deploying full-stack apps
 
+### JS basics [[TOP]](#top)<a name="jsbasic"></a>
+- [Coordinates](https://javascript.info/coordinates)
 
 ### PWA technology [[TOP]](#top)<a name="pwa"></a>
 - [PWA Pl](https://geek.justjoin.it/progressive-web-apps-koncepcja-wokol-ktorej-gromadza-sie-webowe-api/)
@@ -263,7 +267,7 @@
 - [Introduction to Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)
 - [Regular Exp engine online](https://regexr.com/)
 
-### HTML5
+### HTML5 [[TOP]](#top)
 - [IndexedDB](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501)
 
 ### Online JS Editors<a name="editors"></a>
@@ -359,3 +363,15 @@ part 5
 
 ### Off-topic
 - [X - files](https://www.nasze-kino.tv/serial-online/256/z-archiwum-x-the-x-files)
+
+
+<details>
+	<summary>Title 1</summary>
+	<p>
+	### Java [[TOP]](#top)<a name="java"></a>
+	- ## Database
+		- [Sample database with test suite](https://launchpad.net/test-db/) - sample database with employees
+		- [Sample DB from o7planning](https://o7planning.org/en/10241/sample-sql-server-database-for-learning-sql)
+		- [SO topic on sample DB for exercises](https://stackoverflow.com/questions/719259/sample-database-for-exercise)
+	</p>
+</details>
