@@ -3,6 +3,8 @@
 #### Table of Contents  <a name="top"></a>
 - [Mathematic](#math)
 - [Java](#java)
+- [Online JS Editors](#editors)
+- [JS basic](#jsbasic)
 - [Artificial Inteligence](#ai)
 - [React](#react)
 - [Videos](#videos)
@@ -115,6 +117,7 @@
 - [Deep Learning - MIT](http://www.deeplearningbook.org/) - good and interesting BOOK
 - [Jeremy Jordan Blog](https://www.jeremyjordan.me/author/jeremy/)
 - [Introduction to ML](http://www.infocobuild.com/education/audio-video-courses/computer-science/IntroToMachineLearning-IIT-Kharagpur/lecture-38.html) - youtube tutorial
+
 ### Project ideas [[TOP]](#top)
 - [fun apps to build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
@@ -122,7 +125,7 @@
 ### Web API [[TOP]](#top)
 - [Web API mozilla.org](https://developer.mozilla.org/en-US/docs/Web/API)
 
-### C/C++
+### C/C++ [[TOP]](#top)
 - [How does WSAStartup function initiates use of the Winsock DLL?](https://stackoverflow.com/questions/4991967/how-does-wsastartup-function-initiates-use-of-the-winsock-dll)
 - [TCP/IP Network Programming Design Pattens in C++](https://vichargrave.github.io/articles/2013-02/tcp-ip-network-programming-design-patterns-in-cpp)
 - [Source Codes World.com](http://www.sourcecodesworld.com/source/show.asp?ScriptID=1096)
@@ -141,7 +144,7 @@
 - [Web app from scratch: part I](https://defn.io/2018/02/25/web-app-from-scratch-01/)
 - [Web app from scratch: part II](https://defn.io/2018/03/04/web-app-from-scratch-02//)
 
-## CSS
+## CSS [[TOP]](#top)
 - [How to Write CSS That Works in Every Browser](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/)
 - [PostCSS](http://postcss.org/)
 - [How to build a responsive navbar using CSS Flexbox and Javascript](https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf)
@@ -220,6 +223,8 @@
 ### Serverless guide [[TOP]](#top)
 - [Serverless Stack](https://serverless-stack.com/) -- an open source guide for building and deploying full-stack apps
 
+### JS basics [[TOP]](#top)<a name="jsbasic"></a>
+- [Coordinates](https://javascript.info/coordinates):black_large_square:
 
 ### PWA technology [[TOP]](#top)<a name="pwa"></a>
 - [PWA Pl](https://geek.justjoin.it/progressive-web-apps-koncepcja-wokol-ktorej-gromadza-sie-webowe-api/)
@@ -263,10 +268,11 @@
 - [Introduction to Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)
 - [Regular Exp engine online](https://regexr.com/)
 
-### HTML5
+### HTML5 [[TOP]](#top)
 - [IndexedDB](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501)
 
-
+### Online JS Editors<a name="editors"></a>
+- [playcode.io](https://playcode.io/132833?tabs=console&script.js&output)
 
 ### Math [[TOP]](#top)<a name="math"></a>
 - MIT
@@ -289,6 +295,7 @@
 	- [Spring by example](https://www.springbyexample.org/) - interesting website
 	- [Spring by example - github repository](https://github.com/spring-by-example/spring-by-example)
 	- [Spring Framework Documentation - Version 5.1.0.RELEASE](https://docs.spring.io/spring/docs/5.1.0.RELEASE/spring-framework-reference/)
+	- [Java Programming Style Guide](https://javaranch.com/style.jsp)
 - ## Aspect Programing
 	- [Aspect programing - AspectJ](http://www.runtime-verification.org/course09/lecture2/lecture2.pdf)
 	
@@ -307,8 +314,8 @@
 
 ### GitHub tutorials
 - [10 Common Git Problems and How to Fix Them](https://citizen428.net/10-common-git-problems-and-how-to-fix-them-e8d809299f08)
-<a name="videos"></a>
-# Videos [[TOP]](#top)
+
+# Videos [[TOP]](#top)<a name="videos"></a>
 ### Math and physics
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NaL_Cb42WyY" target="_blank"><img src="http://img.youtube.com/vi/NaL_Cb42WyY/0.jpg"  width="150" height="150" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6eZQu120A80" target="_blank"><img src="http://img.youtube.com/vi/6eZQu120A80/0.jpg" width="150" height="150" border="10" /></a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=YTBFSmExXRc" target="_blank"><img src="http://img.youtube.com/vi/YTBFSmExXRc/0.jpg"  width="150" height="150" border="10" /></a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=MzRCDLre1b4" target="_blank"><img src="http://img.youtube.com/vi/MzRCDLre1b4/0.jpg" width="150" height="150" border="10" /></a>
@@ -357,3 +364,4 @@ part 5
 
 ### Off-topic
 - [X - files](https://www.nasze-kino.tv/serial-online/256/z-archiwum-x-the-x-files)
+
