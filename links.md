@@ -1,4 +1,5 @@
 
+:exclamation: - very good, 
 #### Table of Contents  <a name="top"></a>
 - [Mathematic](#math)
 - [Java](#java)
@@ -196,7 +197,7 @@
 - 	Authentication
 	- [How to user passport. Code example](https://github.com/tutsplus/passport-mongo/blob/master/passport/signup.js) - passport
 	- [Authentication strategies. Passport and others middleware](https://stormpath.com/blog/choosing-nodejs-authentication-strategy)
-	- [passport strategies. Local, Basic, Digest](https://stackoverflow.com/questions/19187345/what-are-the-differences-between-local-basic-and-digest-strategy-in-passportjs)
+	- [passport strategies. Local, Basic, Digest](https://stackoverflow.com/questions/19187345/what-are-the-differences-between-local-basic-and-digest-strategy-in-passportjs):exclamation:
 	- [Passport. Another tutorial](https://msdn.microsoft.com/en-us/magazine/mt707533.aspx)
 	- [Understanding autentication flow](http://toon.io/understanding-passportjs-authentication-flow/)
 	- [Express, Passport and JWT Authentication for Beginners](https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/) <img src="./images/star.png" width="auto" height="20">
