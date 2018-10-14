@@ -285,8 +285,8 @@
 - Tensors
 	- [Tensors for begginers](https://www.youtube.com/watch?v=uDRzJIaN2qw&index=15&list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG) <img src="./images/youtube.png" width="auto" height="20"/>
 - Group theory
-	- [Permutation Puzzles: A Mathematical Perspective](http://www.sfu.ca/~jtmulhol/math302/notes/302notes-May29-2015.pdf)  <img src="./images/pdf2.png" width="auto" height="20"/>
-
+	- [Permutation Puzzles: A Mathematical Perspective](http://www.sfu.ca/~jtmulhol/math302/notes/302notes-May29-2015.pdf)  <img src="./images/pdf2.png" width="auto" height="20"/> - __Rubik’s Cube__
+	
 ### Java [[TOP]](#top)<a name="java"></a>
 - ## Database
 	- [Sample database with test suite](https://launchpad.net/test-db/) - sample database with employees
