@@ -1,5 +1,5 @@
 
-:exclamation: - very good; :recycle: - resources;
+:exclamation: - very good; :recycle: - resources; :gem: - nice snippets of code; :book: - side information; :gear: - technical details
 #### Table of Contents  <a name="top"></a>
 - [Mathematic](#math)
 - [Java](#java)
@@ -201,17 +201,19 @@
 	- [How to user passport. Code example](https://github.com/tutsplus/passport-mongo/blob/master/passport/signup.js) - passport
 	- [Authentication strategies. Passport and others middleware](https://stormpath.com/blog/choosing-nodejs-authentication-strategy)
 	- [passport strategies. Local, Basic, Digest](https://stackoverflow.com/questions/19187345/what-are-the-differences-between-local-basic-and-digest-strategy-in-passportjs):exclamation:
-	- [Passport. Another tutorial](https://msdn.microsoft.com/en-us/magazine/mt707533.aspx)
+	- [Passport. Another tutorial](https://msdn.microsoft.com/en-us/magazine/mt707533.aspx) :book: 
 	- [Understanding autentication flow](http://toon.io/understanding-passportjs-authentication-flow/)
 	- [Express, Passport and JWT Authentication for Beginners](https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/) <img src="./images/star.png" width="auto" height="20">
 	- [Learn using JWT with Passport authentication](https://medium.com/front-end-hacking/learn-using-jwt-with-passport-authentication-9761539c4314)
-	- [Implementing JWT using passport](https://blog.jscrambler.com/implementing-jwt-using-passport/)
+	- [Implementing JWT using passport](https://blog.jscrambler.com/implementing-jwt-using-passport/) :gem:
 	- [Using JSON Web Token for Authentication](https://hptechblogs.com/using-json-web-token-for-authentication/)
 	- [API authentication with JSON Web Tokens and Passport](https://scotch.io/@devGson/api-authentication-with-json-web-tokensjwt-and-passport)
 	- [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
 	- [Github - passport mongo example](https://github.com/tutsplus/passport-mongo/blob/master/passport/signup.js)
 	- [Authentication with JWT in NodeJS/Express](https://www.youtube.com/watch?v=TcwngmeqLRk)<img src="./images/youtube.png" width="auto" height="20">
 	- [OAuth (Passport.js) Tutorial #5 - Pasport Initial Setup](https://www.youtube.com/watch?v=kDhYUPcDS28&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x&index=5)<img src="./images/youtube.png" width="auto" height="20">
+	- [Create-react-app v2.0 - new features](https://www.fullstackreact.com/articles/fullstack-guide-whats-new-in-create-react-app-and-how-to-use-it/)
+	- [What is “done” callback function in Passport](https://stackoverflow.com/questions/32153865/what-is-done-callback-function-in-passport-strategy-configure-use-function) :gear:
 - 	Session management
 	- [Session handling in Node](https://codeforgeek.com/2014/09/manage-session-using-node-js-express-4/)
 - 	Routes organization
@@ -282,7 +284,8 @@
 - [ Supervised learning](http://scikit-learn.org/stable/supervised_learning.html#supervised-learning) <img src="./images/suple.png" width="auto" height="20"/>
 - Tensors
 	- [Tensors for begginers](https://www.youtube.com/watch?v=uDRzJIaN2qw&index=15&list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG) <img src="./images/youtube.png" width="auto" height="20"/>
-
+- Group theory
+	- [Permutation Puzzles: A Mathematical Perspective](http://www.sfu.ca/~jtmulhol/math302/notes/302notes-May29-2015.pdf)<img src="./images/pdf.png" width="auto" height="20"/>
 
 ### Java [[TOP]](#top)<a name="java"></a>
 - ## Database
