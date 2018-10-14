@@ -1,5 +1,5 @@
 
-:exclamation: - very good, 
+:exclamation: - very good; :recycle: - resources;
 #### Table of Contents  <a name="top"></a>
 - [Mathematic](#math)
 - [Java](#java)
@@ -224,7 +224,7 @@
 - [Serverless Stack](https://serverless-stack.com/) -- an open source guide for building and deploying full-stack apps
 
 ### JS basics [[TOP]](#top)<a name="jsbasic"></a>
-- [Coordinates](https://javascript.info/coordinates):black_large_square:
+- [Coordinates](https://javascript.info/coordinates)
 
 ### PWA technology [[TOP]](#top)<a name="pwa"></a>
 - [PWA Pl](https://geek.justjoin.it/progressive-web-apps-koncepcja-wokol-ktorej-gromadza-sie-webowe-api/)
