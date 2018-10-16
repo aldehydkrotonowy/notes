@@ -285,7 +285,7 @@
 - Tensors
 	- [Tensors for begginers](https://www.youtube.com/watch?v=uDRzJIaN2qw&index=15&list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG) <img src="./images/youtube.png" width="auto" height="20"/>
 - Group theory
-	- [Permutation Puzzles: A Mathematical Perspective](http://www.sfu.ca/~jtmulhol/math302/notes/302notes-May29-2015.pdf)  <img src="./images/pdf2.png" width="auto" height="20"/> - __Rubik’s Cube__
+	- [Permutation Puzzles: A Mathematical Perspective](http://www.sfu.ca/~jtmulhol/math302/notes/302notes-May29-2015.pdf)  <img src="./images/pdf2.png" width="auto" height="20"/> - _Rubik’s Cube_
 	
 ### Java [[TOP]](#top)<a name="java"></a>
 - ## Database
@@ -309,6 +309,8 @@
 ### Other random stuff
 - [Trello app - organize your work](https://trello.com/)
 - [Open Graph protocool](http://ogp.me/) - enables any web page to become a rich object in a social graph
+- [TLS communication protocol](https://tls.ulfheim.net/) :exclamation: - detailed description
+- [About cryptography](https://www.crypto101.io/) <img src='./images/pdf2.png' widht='auto' height='20'> :exclamation: 
 
 ### Express.js
 - [Middleware explained](https://stackoverflow.com/questions/35676259/understanding-middleware-and-route-handler-in-express-js)
