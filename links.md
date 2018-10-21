@@ -54,6 +54,7 @@
 	- [V8 engine: objects and its prperties](https://v8project.blogspot.com/2017/08/fast-properties.html)
 
 ### Articles to broaden horizons [[TOP]](#top)
+- [GraphQL tutorial](http://www.youtube.com/watch?feature=player_embedded&v=bUD6ERbcXrQ)  <img src="./images/youtube.png" width="auto" height="20"/>
 - [Intelligent Tracking Prevention](https://webkit.org/blog/7675/intelligent-tracking-prevention/)
 - [Introducing Storage Access API](https://webkit.org/blog/8124/introducing-storage-access-api/)
 - [Play safely in sandboxed IFrames](https://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/)
@@ -359,9 +360,6 @@
 
 ### Creating a blog with Node, React, and Redux.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1rc4HxJZ30g" target="_blank"><img src="http://img.youtube.com/vi/1rc4HxJZ30g/0.jpg"  width="150" height="150" border="10" /></a>	
-
-### GraphQL tutorial <a name="graphql">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bUD6ERbcXrQ" target="_blank"><img src="http://img.youtube.com/vi/bUD6ERbcXrQ/0.jpg"  width="150" height="150" border="10" /></a>
 
 ### Off-topic
 - [X - files](https://www.nasze-kino.tv/serial-online/256/z-archiwum-x-the-x-files)

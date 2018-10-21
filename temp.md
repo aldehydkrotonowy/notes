@@ -6,3 +6,4 @@ A Markov Decision Process  **(MDP)** is a discrete time stochastic control proce
  Thus the next state depends on the current state and the decision maker action but nothing more. For given *s* and *a* is conditionally
  independent of all previous states and actions. This condition is called Markov property. **MDPs** are extension of Markov chains;
  the difference here is presence of action (allowing choice) and reward (giving motivation). 
+ $c^2 = a^2 +b^2$
