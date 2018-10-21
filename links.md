@@ -34,16 +34,24 @@
 - [MSDN Magazine Issues and Downloads](https://msdn.microsoft.com/magazine/mt668395)
 
 ### JavaScript Learning materials [[TOP]](#top)
-- #### TypeScript
-	- :recycle:[Learn TypeScript](https://github.com/snipcart/learn-typescript)  <img src="./images/github.png" width="auto" height="20"/>
-- [JS functions under the hood](https://wanago.io/2018/05/28/diving-into-functions-passing-by-reference-is-a-lie/)
-- [Iterables and Iterators](http://exploringjs.com/es6/ch_iteration.html#sec_overview-iteration)
-- [WebSocket Server how it works](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
-- [V8 engine: properties with integer names](https://v8project.blogspot.com/2017/09/elements-kinds-in-v8.html)
-- [V8 engine: objects and its prperties](https://v8project.blogspot.com/2017/08/fast-properties.html)
-- [jak działają fat arrows](http://bedekodzic.pl/function-vs/)
-- [Promise Races and Limits](https://hackernoon.com/async-await-essentials-for-production-loops-control-flows-limits-23eb40f171bd)
-- [__Rectiflux learning materials__](https://www.reactiflux.com/learning/#learning-current-javascript-es6) - <img src="./images/rectiflux.png" width="auto" height="20"/>
+- :recycle: [__Rectiflux learning materials__](https://www.reactiflux.com/learning/#learning-current-javascript-es6) - <img src="./images/rectiflux.png" width="auto" height="20"/>
+- TypeScript
+	- :recycle: [Learn TypeScript](https://github.com/snipcart/learn-typescript)  <img src="./images/github.png" width="auto" height="20"/>
+- basics
+	- [Coordinates](https://javascript.info/coordinates)
+	- [JS loop](https://www.youtube.com/watch?feature=player_embedded&v=cCOL7MC4Pl0)  <img src="./images/youtube.png" width="auto" height="20"/>
+	- [jak działają fat arrows](http://bedekodzic.pl/function-vs/)
+	- [Promise Races and Limits](https://hackernoon.com/async-await-essentials-for-production-loops-control-flows-limits-23eb40f171bd)
+	- [JS functions under the hood](https://wanago.io/2018/05/28/diving-into-functions-passing-by-reference-is-a-lie/)
+	- [Iterables and Iterators](http://exploringjs.com/es6/ch_iteration.html#sec_overview-iteration)
+- WebSocket
+	- [WebSockets (using Socket.io) Tutorial #5](https://www.youtube.com/watch?feature=player_embedded&v=FvArk8-qgCk) <img src="./images/youtube.png" width="auto" height="20"/>
+	- [WebSocket Server how it works](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
+- ES6 features
+	- [Proxy](https://www.atyantik.com/proxy-javascript-es6-feature/)
+- V8 Engine 
+	- [V8 engine: properties with integer names](https://v8project.blogspot.com/2017/09/elements-kinds-in-v8.html)
+	- [V8 engine: objects and its prperties](https://v8project.blogspot.com/2017/08/fast-properties.html)
 
 ### Articles to broaden horizons [[TOP]](#top)
 - [Intelligent Tracking Prevention](https://webkit.org/blog/7675/intelligent-tracking-prevention/)
@@ -147,16 +155,21 @@
 - [Web app from scratch: part II](https://defn.io/2018/03/04/web-app-from-scratch-02//)
 
 ## CSS [[TOP]](#top)
-- [How to Write CSS That Works in Every Browser](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/)
-- [PostCSS](http://postcss.org/)
-- [How to build a responsive navbar using CSS Flexbox and Javascript](https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf)
-- [CSS in JS comparison of different methods](https://github.com/MicheleBertoli/css-in-js)
-- [Grid layout - examples](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df)
-- [Media Queries  in 2018 - Best Practices](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
+- 	CSS
+	- [How to Write CSS That Works in Every Browser](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/)
+	- [How to build a responsive navbar using CSS Flexbox and Javascript](https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf)
+	- [CSS in JS comparison of different methods](https://github.com/MicheleBertoli/css-in-js)
+	- [Media Queries  in 2018 - Best Practices](https://www.smashingmagazine.com/2018/02/media-queries-responsive-design-2018/)
+- 	GridLayout
+	- [Grid layout - examples](https://medium.com/samsung-internet-dev/common-responsive-layouts-with-css-grid-and-some-without-245a862f48df)
+	- [Grid Layout - tutorial](https://www.youtube.com/watch?feature=player_embedded&v=HgwCeNVPlo0)
+- 	PostCSS
+	- [Some things you may think about PostCSS...](http://julian.io/some-things-you-may-think-about-postcss-and-you-might-be-wrong/)
+	- [PostCSS](http://postcss.org/)
 
 
 ### React [[TOP]](#top)<a name="react"></a>
--	Documentation
+-   Documentation
 	- [React top level API](https://reactjs.org/docs/react-api.html#react.children)
 	- [Forms](https://reactjs.org/docs/forms.html)
 	- [Transition Group](https://reactcommunity.org/react-transition-group/)
@@ -212,10 +225,11 @@
 	- [API authentication with JSON Web Tokens and Passport](https://scotch.io/@devGson/api-authentication-with-json-web-tokensjwt-and-passport)
 	- [Introduction to JSON Web Tokens](https://jwt.io/introduction/)
 	- [Github - passport mongo example](https://github.com/tutsplus/passport-mongo/blob/master/passport/signup.js)
-	- [Authentication with JWT in NodeJS/Express](https://www.youtube.com/watch?v=TcwngmeqLRk)<img src="./images/youtube.png" width="auto" height="20">
-	- [OAuth (Passport.js) Tutorial #5 - Pasport Initial Setup](https://www.youtube.com/watch?v=kDhYUPcDS28&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x&index=5)<img src="./images/youtube.png" width="auto" height="20">
+	- [Authentication with JWT in NodeJS/Express](https://www.youtube.com/watch?v=TcwngmeqLRk) <img src="./images/youtube.png" width="auto" height="20">
+	- [OAuth (Passport.js) Tutorial #5 - Pasport Initial Setup](https://www.youtube.com/watch?v=kDhYUPcDS28&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x&index=5) <img src="./images/youtube.png" width="auto" height="20">
 	- [Create-react-app v2.0 - new features](https://www.fullstackreact.com/articles/fullstack-guide-whats-new-in-create-react-app-and-how-to-use-it/)
 	- [What is “done” callback function in Passport](https://stackoverflow.com/questions/32153865/what-is-done-callback-function-in-passport-strategy-configure-use-function) :gear:
+	- [Node Auth Tutorial – Part 2](https://www.youtube.com/watch?feature=player_embedded&v=NWGDcv54Q4Q) <img src="./images/youtube.png" width="auto" height="20">
 - 	Session management
 	- [Session handling in Node](https://codeforgeek.com/2014/09/manage-session-using-node-js-express-4/)
 - 	Routes organization
@@ -227,21 +241,12 @@
 ### Serverless guide [[TOP]](#top)
 - [Serverless Stack](https://serverless-stack.com/) -- an open source guide for building and deploying full-stack apps
 
-### JS basics [[TOP]](#top)<a name="jsbasic"></a>
-- [Coordinates](https://javascript.info/coordinates)
-
 ### PWA technology [[TOP]](#top)<a name="pwa"></a>
 - [PWA Pl](https://geek.justjoin.it/progressive-web-apps-koncepcja-wokol-ktorej-gromadza-sie-webowe-api/)
 
 ### AWS services [[TOP]](#top)
 - [Full guide to developing REST API’s with AWS API Gateway and AWS Lambda](https://blog.sourcerer.io/full-guide-to-developing-rest-apis-with-aws-api-gateway-and-aws-lambda-d254729d6992)
 - [AWS elasticbeanstalk app deploy](https://www.youtube.com/watch?v=ubCNZRNjhyo) - swartzmuiler
-
-### ES6 features [[TOP]](#top)
-- [Proxy](https://www.atyantik.com/proxy-javascript-es6-feature/)
-
-### PostCSS [[TOP]](#top)
-- [Some things you may think about PostCSS...](http://julian.io/some-things-you-may-think-about-postcss-and-you-might-be-wrong/)
 
 ### RegExp [[TOP]](#top)
 - [part 1](https://wanago.io/2018/04/30/regex-course-part-one-basic-concepts/)
@@ -327,11 +332,6 @@
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=NaL_Cb42WyY" target="_blank"><img src="http://img.youtube.com/vi/NaL_Cb42WyY/0.jpg"  width="150" height="150" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=6eZQu120A80" target="_blank"><img src="http://img.youtube.com/vi/6eZQu120A80/0.jpg" width="150" height="150" border="10" /></a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=YTBFSmExXRc" target="_blank"><img src="http://img.youtube.com/vi/YTBFSmExXRc/0.jpg"  width="150" height="150" border="10" /></a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=MzRCDLre1b4" target="_blank"><img src="http://img.youtube.com/vi/MzRCDLre1b4/0.jpg" width="150" height="150" border="10" /></a>
 
-### How to Create Website Layouts Using CSS Grid
- <a href="http://www.youtube.com/watch?feature=player_embedded&v=HgwCeNVPlo0" target="_blank"><img src="http://img.youtube.com/vi/HgwCeNVPlo0/0.jpg"  width="150" height="150" border="10" /></a>
-
-### JS loops
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=cCOL7MC4Pl0" target="_blank"><img src="http://img.youtube.com/vi/cCOL7MC4Pl0/0.jpg"  width="150" height="150" border="10" /></a>
 
 ### Answering Tricky JS Interview Questions - Nice presentation of interview quiestions with answers
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=MY0UBGX2FtA" target="_blank"><img src="http://img.youtube.com/vi/MY0UBGX2FtA/0.jpg"  width="150" height="150" border="10" /></a>
@@ -356,15 +356,9 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=x51Qxg_epQ4" target="_blank"><img src="http://img.youtube.com/vi/x51Qxg_epQ4/0.jpg"  width="150" height="150" border="10" /></a>
 
-### JS websockets
-part 5
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=FvArk8-qgCk" target="_blank"><img src="http://img.youtube.com/vi/FvArk8-qgCk/0.jpg"  width="150" height="150" border="10" /></a>
 
 ### Creating a blog with Node, React, and Redux.
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=1rc4HxJZ30g" target="_blank"><img src="http://img.youtube.com/vi/1rc4HxJZ30g/0.jpg"  width="150" height="150" border="10" /></a>
-
-### Tutorial about authentication in express <a name="expressauth">
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=NWGDcv54Q4Q" target="_blank"><img src="http://img.youtube.com/vi/NWGDcv54Q4Q/0.jpg"  width="150" height="150" border="10" /></a>		
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=1rc4HxJZ30g" target="_blank"><img src="http://img.youtube.com/vi/1rc4HxJZ30g/0.jpg"  width="150" height="150" border="10" /></a>	
 
 ### GraphQL tutorial <a name="graphql">
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bUD6ERbcXrQ" target="_blank"><img src="http://img.youtube.com/vi/bUD6ERbcXrQ/0.jpg"  width="150" height="150" border="10" /></a>
