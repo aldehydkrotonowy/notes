@@ -34,6 +34,8 @@
 - [MSDN Magazine Issues and Downloads](https://msdn.microsoft.com/magazine/mt668395)
 
 ### JavaScript Learning materials [[TOP]](#top)
+- #### TypeScript
+	- :recycle:[Learn TypeScript](https://github.com/snipcart/learn-typescript)  <img src="./images/github.png" width="auto" height="20"/>
 - [JS functions under the hood](https://wanago.io/2018/05/28/diving-into-functions-passing-by-reference-is-a-lie/)
 - [Iterables and Iterators](http://exploringjs.com/es6/ch_iteration.html#sec_overview-iteration)
 - [WebSocket Server how it works](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
@@ -288,18 +290,18 @@
 	- [Permutation Puzzles: A Mathematical Perspective](http://www.sfu.ca/~jtmulhol/math302/notes/302notes-May29-2015.pdf)  <img src="./images/pdf2.png" width="auto" height="20"/> - _Rubik’s Cube_
 	
 ### Java [[TOP]](#top)<a name="java"></a>
-- ## Database
+- #### Database
 	- [Sample database with test suite](https://launchpad.net/test-db/) - sample database with employees
 	- [Sample DB from o7planning](https://o7planning.org/en/10241/sample-sql-server-database-for-learning-sql)
 	- [SO topic on sample DB for exercises](https://stackoverflow.com/questions/719259/sample-database-for-exercise)
-- ## Hibernate
+- #### Hibernate
 	- [Zapisujemy do bazy pierwszy obiekt ](https://www.youtube.com/watch?v=_ZKhPv3VqT8&list=PLU2dl_1LV_SQWZI2R_RSEeYm1tfueszOc&index=7) -
-- ## Spring      
+- #### Spring      
 	- [Spring by example](https://www.springbyexample.org/) - interesting website
 	- [Spring by example - github repository](https://github.com/spring-by-example/spring-by-example)
 	- [Spring Framework Documentation - Version 5.1.0.RELEASE](https://docs.spring.io/spring/docs/5.1.0.RELEASE/spring-framework-reference/)
 	- [Java Programming Style Guide](https://javaranch.com/style.jsp)
-- ## Aspect Programing
+- #### Aspect Programing
 	- [Aspect programing - AspectJ](http://www.runtime-verification.org/course09/lecture2/lecture2.pdf)
 	
 ### Malware samples collection
