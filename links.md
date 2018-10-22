@@ -74,6 +74,8 @@
 ### Next.js [[TOP]](#top)
 - [Next.js Tutorial: SEO-Friendly React E-Commerce SPA](https://snipcart.com/blog/react-seo-nextjs-tutorial)
 
+### JavaScript core [[TOP]](#top)
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#call-stack) :recycle:
 
 ### Webpack related [[TOP]](#top)
 - [Nice tutorial how to configure webpack - part 1](https://viblo.asia/p/quick-webpack-set-up-for-single-page-applications-aWj53Xk8K6m)
@@ -301,6 +303,8 @@
 	- [Java Programming Style Guide](https://javaranch.com/style.jsp)
 - ## Aspect Programing
 	- [Aspect programing - AspectJ](http://www.runtime-verification.org/course09/lecture2/lecture2.pdf)
+- ### Other 
+	- [The Repository Pattern Explained (For Dummies)](http://blog.sapiensworks.com/post/2014/06/02/The-Repository-Pattern-For-Dummies.aspx)
 	
 ### Malware samples collection
 - [javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection/tree/master/2017)
