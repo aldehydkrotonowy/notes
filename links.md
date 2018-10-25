@@ -85,6 +85,8 @@
 ### Next.js [[TOP]](#top)
 - [Next.js Tutorial: SEO-Friendly React E-Commerce SPA](https://snipcart.com/blog/react-seo-nextjs-tutorial)
 
+### JavaScript core [[TOP]](#top)
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#call-stack) :recycle:
 
 ### Webpack related [[TOP]](#top)
 - [Nice tutorial how to configure webpack - part 1](https://viblo.asia/p/quick-webpack-set-up-for-single-page-applications-aWj53Xk8K6m)
@@ -304,7 +306,8 @@
 	- [Sample DB from o7planning](https://o7planning.org/en/10241/sample-sql-server-database-for-learning-sql)
 	- [SO topic on sample DB for exercises](https://stackoverflow.com/questions/719259/sample-database-for-exercise)
 - #### Hibernate
-	- [Zapisujemy do bazy pierwszy obiekt ](https://www.youtube.com/watch?v=_ZKhPv3VqT8&list=PLU2dl_1LV_SQWZI2R_RSEeYm1tfueszOc&index=7) -
+	- [Zapisujemy do bazy pierwszy obiekt ](https://www.youtube.com/watch?v=_ZKhPv3VqT8&list=PLU2dl_1LV_SQWZI2R_RSEeYm1tfueszOc&index=7)
+	- [Criteria Query - JPA Criteria API Queries](https://www.objectdb.com/java/jpa/query/criteria)
 - #### Spring      
 	- [Spring by example](https://www.springbyexample.org/) - interesting website
 	- [Spring by example - github repository](https://github.com/spring-by-example/spring-by-example)
@@ -312,7 +315,12 @@
 	- [Java Programming Style Guide](https://javaranch.com/style.jsp)
 - #### Aspect Programing
 	- [Aspect programing - AspectJ](http://www.runtime-verification.org/course09/lecture2/lecture2.pdf)
-	
+- ### Theory - random staff 
+	- [The Repository Pattern Explained (For Dummies)](http://blog.sapiensworks.com/post/2014/06/02/The-Repository-Pattern-For-Dummies.aspx)
+	- [Entities, Value Objects, Aggregates and Roots](https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/)
+	- [@OneToMany and @ManyToOne explenation](https://howtoprogramwithjava.com/hibernate-manytoone-unidirectional-tutorial/)
+	- [Java Code Examples](https://www.programcreek.com/java-api-examples/index.php?api=javax.persistence.criteria.CriteriaQuery)
+
 ### Malware samples collection
 - [javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection/tree/master/2017)
 
