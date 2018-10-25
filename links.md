@@ -315,6 +315,7 @@
 - ### Theory - random staff 
 	- [The Repository Pattern Explained (For Dummies)](http://blog.sapiensworks.com/post/2014/06/02/The-Repository-Pattern-For-Dummies.aspx)
 	- [Entities, Value Objects, Aggregates and Roots](https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/)
+	- [@OneToMany and @ManyToOne explenation](https://howtoprogramwithjava.com/hibernate-manytoone-unidirectional-tutorial/)
 
 ### Malware samples collection
 - [javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection/tree/master/2017)
