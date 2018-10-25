@@ -303,7 +303,8 @@
 	- [Sample DB from o7planning](https://o7planning.org/en/10241/sample-sql-server-database-for-learning-sql)
 	- [SO topic on sample DB for exercises](https://stackoverflow.com/questions/719259/sample-database-for-exercise)
 - #### Hibernate
-	- [Zapisujemy do bazy pierwszy obiekt ](https://www.youtube.com/watch?v=_ZKhPv3VqT8&list=PLU2dl_1LV_SQWZI2R_RSEeYm1tfueszOc&index=7) -
+	- [Zapisujemy do bazy pierwszy obiekt ](https://www.youtube.com/watch?v=_ZKhPv3VqT8&list=PLU2dl_1LV_SQWZI2R_RSEeYm1tfueszOc&index=7)
+	- [Criteria Query - JPA Criteria API Queries](https://www.objectdb.com/java/jpa/query/criteria)
 - #### Spring      
 	- [Spring by example](https://www.springbyexample.org/) - interesting website
 	- [Spring by example - github repository](https://github.com/spring-by-example/spring-by-example)
@@ -311,9 +312,10 @@
 	- [Java Programming Style Guide](https://javaranch.com/style.jsp)
 - #### Aspect Programing
 	- [Aspect programing - AspectJ](http://www.runtime-verification.org/course09/lecture2/lecture2.pdf)
-- ### Other 
+- ### Theory - random staff 
 	- [The Repository Pattern Explained (For Dummies)](http://blog.sapiensworks.com/post/2014/06/02/The-Repository-Pattern-For-Dummies.aspx)
-	
+	- [Entities, Value Objects, Aggregates and Roots](https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/)
+
 ### Malware samples collection
 - [javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection/tree/master/2017)
 
