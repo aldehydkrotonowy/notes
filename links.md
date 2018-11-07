@@ -61,6 +61,7 @@
 - [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [Shadow DOM - what is this?](https://blog.rowan.website/2018/02/15/what-the-shit-is-the-shadow-dom-anyway/)
 - [How to biohack your intelligence](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f)
+- [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f) - Eric Elliott
 
 ### List of links to resources [[TOP]](#top)
 - [Build your own xxx](https://github.com/danistefanovic/build-your-own-x) x = Web Server, template engine, ... (many more)
