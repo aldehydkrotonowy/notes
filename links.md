@@ -297,6 +297,9 @@
 	- [Tensors for begginers](https://www.youtube.com/watch?v=uDRzJIaN2qw&index=15&list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG) <img src="./images/youtube.png" width="auto" height="20"/>
 - Group theory
 	- [Permutation Puzzles: A Mathematical Perspective](http://www.sfu.ca/~jtmulhol/math302/notes/302notes-May29-2015.pdf)  <img src="./images/pdf2.png" width="auto" height="20"/> - _Rubik’s Cube_
+- Number theory
+	- :recycle: [Number Theory - Stanford](https://crypto.stanford.edu/pbc/notes/numbertheory/)
+	- [A Primer on Algebra and Number Theory for Computer Scientists](https://cs.nyu.edu/courses/fall02/G22.3033-010/) - some pdf notes and problem sets
 	
 ### Java [[TOP]](#top)<a name="java"></a>
 - #### Database
