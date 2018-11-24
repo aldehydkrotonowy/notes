@@ -1,5 +1,5 @@
 
-:exclamation: - very good; :recycle: - resources; :gem: - nice snippets of code; :book: - side information; :gear: - technical details
+:exclamation: - very good; :recycle: - resources; :gem: - nice snippets of code; :pencil: - side information; :gear: - technical details, :books: - online book
 #### Table of Contents  <a name="top"></a>
 - [Mathematic](#math)
 - [Java](#java)
@@ -44,7 +44,7 @@
 	- [Promise Races and Limits](https://hackernoon.com/async-await-essentials-for-production-loops-control-flows-limits-23eb40f171bd)
 	- [JS functions under the hood](https://wanago.io/2018/05/28/diving-into-functions-passing-by-reference-is-a-lie/)
 	- [Iterables and Iterators](http://exploringjs.com/es6/ch_iteration.html#sec_overview-iteration)
-	- [You don't know js](https://github.com/getify/You-Dont-Know-JS) - GitHub book
+	- [You don't know js](https://github.com/getify/You-Dont-Know-JS) - :books: GitHub book
 	- [Express + Node.js async/await](http://www.youtube.com/watch?feature=player_embedded&v=x51Qxg_epQ4)<img src="./images/youtube.png" width="auto" height="20"/>
 - WebSocket
 	- [WebSockets (using Socket.io) Tutorial #5](https://www.youtube.com/watch?feature=player_embedded&v=FvArk8-qgCk) <img src="./images/youtube.png" width="auto" height="20"/>
@@ -226,7 +226,7 @@
 	- [How to user passport. Code example](https://github.com/tutsplus/passport-mongo/blob/master/passport/signup.js) - passport
 	- [Authentication strategies. Passport and others middleware](https://stormpath.com/blog/choosing-nodejs-authentication-strategy)
 	- [passport strategies. Local, Basic, Digest](https://stackoverflow.com/questions/19187345/what-are-the-differences-between-local-basic-and-digest-strategy-in-passportjs):exclamation:
-	- [Passport. Another tutorial](https://msdn.microsoft.com/en-us/magazine/mt707533.aspx) :book: 
+	- [Passport. Another tutorial](https://msdn.microsoft.com/en-us/magazine/mt707533.aspx) :pencil: 
 	- [Understanding autentication flow](http://toon.io/understanding-passportjs-authentication-flow/)
 	- [Express, Passport and JWT Authentication for Beginners](https://jonathanmh.com/express-passport-json-web-token-jwt-authentication-beginners/) <img src="./images/star.png" width="auto" height="20">
 	- [Learn using JWT with Passport authentication](https://medium.com/front-end-hacking/learn-using-jwt-with-passport-authentication-9761539c4314)
