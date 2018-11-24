@@ -44,6 +44,7 @@
 	- [Promise Races and Limits](https://hackernoon.com/async-await-essentials-for-production-loops-control-flows-limits-23eb40f171bd)
 	- [JS functions under the hood](https://wanago.io/2018/05/28/diving-into-functions-passing-by-reference-is-a-lie/)
 	- [Iterables and Iterators](http://exploringjs.com/es6/ch_iteration.html#sec_overview-iteration)
+	- [Express + Node.js async/await](http://www.youtube.com/watch?feature=player_embedded&v=x51Qxg_epQ4)<img src="./images/youtube.png" width="auto" height="20"/>
 - WebSocket
 	- [WebSockets (using Socket.io) Tutorial #5](https://www.youtube.com/watch?feature=player_embedded&v=FvArk8-qgCk) <img src="./images/youtube.png" width="auto" height="20"/>
 	- [WebSocket Server how it works](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
@@ -81,6 +82,9 @@
 ### Algorithms and data structures [[TOP]](#top)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) <img src="./images/github.png" width="auto" height="20"/>
 - [Algorithms and Data Structures](https://www.youtube.com/channel/UCirCLaGiw_zT6vJNI_At6ag) <img src="./images/chanel.png" width="auto" height="20"/>
+### Webasembly
+- [GOTO 2017 • WebAssembly: What and What Next?](http://www.youtube.com/watch?feature=player_embedded&v=R9wn99Xheq4)<img src="./images/youtube.png" width="auto" height="20"/>
+- [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](http://www.youtube.com/watch?feature=player_embedded&v=HktWin_LPf4)<img src="./images/youtube.png" width="auto" height="20"/>
 
 ### Next.js [[TOP]](#top)
 - [Next.js Tutorial: SEO-Friendly React E-Commerce SPA](https://snipcart.com/blog/react-seo-nextjs-tutorial)
@@ -153,11 +157,11 @@
 - [nofluffjobs](https://nofluffjobs.com/)
 - [bulldogjob](https://bulldogjob.pl/)
 
-## Python [[TOP]](#top)
+### Python [[TOP]](#top)
 - [Web app from scratch: part I](https://defn.io/2018/02/25/web-app-from-scratch-01/)
 - [Web app from scratch: part II](https://defn.io/2018/03/04/web-app-from-scratch-02//)
 
-## CSS [[TOP]](#top)
+### CSS [[TOP]](#top)
 - 	CSS
 	- [How to Write CSS That Works in Every Browser](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/)
 	- [How to build a responsive navbar using CSS Flexbox and Javascript](https://itnext.io/how-to-build-a-responsive-navbar-using-flexbox-and-javascript-eb0af24f19bf)
@@ -212,6 +216,7 @@
 	- <a name="ReactContext"></a>[About Context object in React](https://javascriptplayground.com/context-in-reactjs-applications/)
 	- <a name="cannotget"></a>[Fixing the "cannot GET /URL"](https://tylermcginnis.com/react-router-cannot-get-url-refresh/)
 	- [Server-side rendering your React app in three simple steps](https://medium.freecodecamp.org/server-side-rendering-your-react-app-in-three-simple-steps-7a82b95db82e) - #SSR
+	- [another react tutorial](http://www.youtube.com/watch?feature=player_embedded&v=ZRE6e_0eQeQ)<img src="./images/youtube.png" width="auto" height="20">
 -	Form validation
 	- <a name="formvalidation"></a>[Form validation with controlled components](https://lorenstewart.me/2016/10/31/react-js-forms-controlled-components/) --- form validation
 	- [Form validation with ref](https://lorenstewart.me/2017/06/10/react-js-forms-using-refs/) --- form validation
@@ -348,30 +353,8 @@
 ### Answering Tricky JS Interview Questions - Nice presentation of interview quiestions with answers
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=MY0UBGX2FtA" target="_blank"><img src="http://img.youtube.com/vi/MY0UBGX2FtA/0.jpg"  width="150" height="150" border="10" /></a>
 
-### WebAssembly
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=R9wn99Xheq4" target="_blank"><img src="http://img.youtube.com/vi/R9wn99Xheq4/0.jpg"  width="150" height="150" border="10" /></a>  <a href="http://www.youtube.com/watch?feature=player_embedded&v=HktWin_LPf4" target="_blank"><img src="http://img.youtube.com/vi/HktWin_LPf4/0.jpg"  width="150" height="150" border="10" /></a>  <a href="http://www.youtube.com/watch?feature=player_embedded&v=_5IjJi74KFA" target="_blank"><img src="http://img.youtube.com/vi/_5IjJi74KFA/0.jpg"  width="150" height="150" border="10" /></a> 
-
-
-### React tutorial
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=ZRE6e_0eQeQ" target="_blank"><img src="http://img.youtube.com/vi/ZRE6e_0eQeQ/0.jpg"  width="150" height="150" border="10" /></a>
-
-
-### Symfony tutorials
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=yz56pv8fi_c" target="_blank"><img src="http://img.youtube.com/vi/yz56pv8fi_c/0.jpg"  width="150" height="150" border="10" /></a> <a href="http://www.youtube.com/watch?feature=player_embedded&v=62hsXxjD4bY" target="_blank"><img src="http://img.youtube.com/vi/62hsXxjD4bY/0.jpg"  width="150" height="150" border="10" /></a>
-
-### Vim extension to Visual Studio Code
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=_AOW5ThfI9Y" target="_blank"><img src="http://img.youtube.com/vi/_AOW5ThfI9Y/0.jpg"  width="150" height="150" border="10" /></a>
-
-### JS
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=x51Qxg_epQ4" target="_blank"><img src="http://img.youtube.com/vi/x51Qxg_epQ4/0.jpg"  width="150" height="150" border="10" /></a>
-
-
 ### Creating a blog with Node, React, and Redux.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=1rc4HxJZ30g" target="_blank"><img src="http://img.youtube.com/vi/1rc4HxJZ30g/0.jpg"  width="150" height="150" border="10" /></a>	
 
 ### Off-topic
 - [X - files](https://www.nasze-kino.tv/serial-online/256/z-archiwum-x-the-x-files)
-
