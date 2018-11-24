@@ -44,6 +44,7 @@
 	- [Promise Races and Limits](https://hackernoon.com/async-await-essentials-for-production-loops-control-flows-limits-23eb40f171bd)
 	- [JS functions under the hood](https://wanago.io/2018/05/28/diving-into-functions-passing-by-reference-is-a-lie/)
 	- [Iterables and Iterators](http://exploringjs.com/es6/ch_iteration.html#sec_overview-iteration)
+	- [You don't know js](https://github.com/getify/You-Dont-Know-JS) - GitHub book
 	- [Express + Node.js async/await](http://www.youtube.com/watch?feature=player_embedded&v=x51Qxg_epQ4)<img src="./images/youtube.png" width="auto" height="20"/>
 - WebSocket
 	- [WebSockets (using Socket.io) Tutorial #5](https://www.youtube.com/watch?feature=player_embedded&v=FvArk8-qgCk) <img src="./images/youtube.png" width="auto" height="20"/>
@@ -62,6 +63,7 @@
 - [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 - [Shadow DOM - what is this?](https://blog.rowan.website/2018/02/15/what-the-shit-is-the-shadow-dom-anyway/)
 - [How to biohack your intelligence](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f)
+- [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f) - Eric Elliott
 
 ### List of links to resources [[TOP]](#top)
 - [Build your own xxx](https://github.com/danistefanovic/build-your-own-x) x = Web Server, template engine, ... (many more)
