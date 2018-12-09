@@ -334,6 +334,8 @@
 	- [Python numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/#python-tuples)
 	- [100 exercises in numpyt](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
 	- [Arrays in numpy 'ndarray'](https://docs.scipy.org/doc/numpy/reference/arrays.html)
+- #### basics
+	- [docs.python.org - data structures](https://docs.python.org/3.7/tutorial/datastructures.html)
 
 ### Tech [[TOP]](#top)<a name="tech"></a>
 - #### Tech Power Up database
