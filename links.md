@@ -3,6 +3,7 @@
 #### Table of Contents  <a name="top"></a>
 - [Mathematic](#math)
 - [Java](#java)
+- [Python](#python)
 - [Online JS Editors](#editors)
 - [JS basic](#jsbasic)
 - [Artificial Inteligence](#ai)
@@ -328,12 +329,28 @@
 	- [Java Programming Style Guide](https://javaranch.com/style.jsp)
 - #### Aspect Programing
 	- [Aspect programing - AspectJ](http://www.runtime-verification.org/course09/lecture2/lecture2.pdf)
-- ### Theory - random staff 
+- #### Theory - random staff 
 	- [The Repository Pattern Explained (For Dummies)](http://blog.sapiensworks.com/post/2014/06/02/The-Repository-Pattern-For-Dummies.aspx)
 	- [Entities, Value Objects, Aggregates and Roots](https://lostechies.com/jimmybogard/2008/05/21/entities-value-objects-aggregates-and-roots/)
 	- [@OneToMany and @ManyToOne explenation](https://howtoprogramwithjava.com/hibernate-manytoone-unidirectional-tutorial/)
 	- [Java Code Examples](https://www.programcreek.com/java-api-examples/index.php?api=javax.persistence.criteria.CriteriaQuery)
 
+### Python [[TOP]](#top)<a name="python"></a>
+- #### numpy
+	- [Python numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/#python-tuples)
+	- [100 exercises in numpyt](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
+	- [Arrays in numpy 'ndarray'](https://docs.scipy.org/doc/numpy/reference/arrays.html)
+- #### basics
+	- [docs.python.org - data structures](https://docs.python.org/3.7/tutorial/datastructures.html)
+
+### Tech [[TOP]](#top)<a name="tech"></a>
+- #### Tech Power Up database
+	- [GPU Specs Database](https://www.techpowerup.com/gpu-specs/)
+	- [Upcoming Hardware Launches 2018 (Updated)](https://www.techpowerup.com/reviews/TechPowerUp/Future_Hardware_Releases/)
+- #### News
+	- [PC World](https://www.pcworld.com/category/computers/)
+	- [Hot Hardware](https://hothardware.com/)
+	
 ### Malware samples collection
 - [javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection/tree/master/2017)
 
