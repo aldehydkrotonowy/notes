@@ -9,3 +9,15 @@ In computer science, *Backus–Naur* form or Backus normal form (**BNF**) is a n
 - communication protocols
 - etc...
 
+#### Context Free Gramar
+
+*A grammar is context-free if all the syntax rules apply regardless of the symbols before or after (the context).*
+
+a **gramar** consists of:
+- a set of variables (also called nonterminals), one of which is designated the start variable; It is customary to use pper-case etters for variables
+- a set of terminals (from the alphabet)
+- a list of productions (also called rules)
+
+Helpfull therm used in talkin about BNF:
+
+**Nonterminal Symbols**: anything that is defined on the left-side of some production.
