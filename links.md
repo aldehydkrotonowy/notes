@@ -137,7 +137,7 @@
 - [Deep Learning - MIT](http://www.deeplearningbook.org/) - good and interesting BOOK
 - [Jeremy Jordan Blog](https://www.jeremyjordan.me/author/jeremy/)
 - [Introduction to ML](http://www.infocobuild.com/education/audio-video-courses/computer-science/IntroToMachineLearning-IIT-Kharagpur/lecture-38.html) - youtube tutorial
-
+- [Introduction to Optimizers](https://blog.algorithmia.com/introduction-to-optimizers/) - many additional links there
 ### Project ideas [[TOP]](#top)
 - [fun apps to build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
@@ -153,7 +153,7 @@
 - [C Function Call Conventions and the Stack](https://www.csee.umbc.edu/~chang/cs313.s02/stack.shtml)
 - [Programing exercises](http://www.spoj.com/)
 - [C++ Core Guidelines - book](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#S-class)
-
+- [LearnCpp website](https://www.learncpp.com/)
 ### work [[TOP]](#top)
 - [justjoin.it](https://justjoin.it/offers/appstract-junior-javascript-developer)
 - [crossweb.pl](https://crossweb.pl/job/)
@@ -245,6 +245,8 @@
 	- [Session handling in Node](https://codeforgeek.com/2014/09/manage-session-using-node-js-express-4/)
 - 	Routes organization
 	- [How to organize routes](https://www.caffeinecoding.com/better-express-routing-for-nodejs/)
+-	RESTFUll app
+	- [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9)
 
 ### HTML5 standard [[TOP]](#top)<a name="html5"></a>
 - <a name="inputattributes"></a>[All Attributes of input Element](https://html.com/attributes/input-autocomplete/#Newish_in_HTML5)
@@ -279,6 +281,7 @@
 - [udacity - intro to AI](https://eu.udacity.com/course/intro-to-artificial-intelligence--cs271)
 - [Express and CORS - basics](https://medium.com/trisfera/using-cors-in-express-cac7e29b005b)
 - [Using Async Await in Express with Node 9](https://medium.com/@Abazhenov/using-async-await-in-express-with-node-8-b8af872c0016)
+- [edX](https://www.edx.org/)
 
 ### Symphony 4 [[TOP]](#top)
 - [Beginners Symfony 4 Tutorial](https://www.youtube.com/watch?v=yz56pv8fi_c)
@@ -307,6 +310,9 @@
 - Number theory
 	- :recycle: [Number Theory - Stanford](https://crypto.stanford.edu/pbc/notes/numbertheory/)
 	- [A Primer on Algebra and Number Theory for Computer Scientists](https://cs.nyu.edu/courses/fall02/G22.3033-010/) - some pdf notes and problem sets
+- Gradient Descent
+	- [Mathematics of Gradient Descent - Intelligence and Learning](https://www.youtube.com/watch?v=jc2IthslyzM) <img src="./images/youtube.png" width="auto" height="20">
+	
 	
 ### Java [[TOP]](#top)<a name="java"></a>
 - #### Database
