@@ -408,7 +408,7 @@
 	- [HSBC](https://www.hsbc.com/)
 	- [stockwatch](https://www.stockwatch.pl/)
 	- #### Banki
-	- [EBC](https://www.ecb.europa.eu/home/html/index.en.html)
+		- [EBC](https://www.ecb.europa.eu/home/html/index.en.html)
 	#### Blogi
 	- [economic collaps](http://theeconomiccollapseblog.com/)
 	- [Dr. Ed's Blog](http://blog.yardeni.com/)
