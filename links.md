@@ -2,7 +2,7 @@
 :exclamation: - very good; :recycle: - resources; :gem: - nice snippets of code; :pencil: - side information; :gear: - technical details, :books: - collection of books, :book: - online book
 #### Table of Contents  <a name="top"></a>
 - [Mathematic](#math)
-- [Ekonomy](#economy)
+- [Economy](#economy)
 - [Java](#java)
 - [Python](#python)
 - [Online JS Editors](#editors)
@@ -395,9 +395,9 @@
 - [podstawy inwestowania](https://appfunds.blogspot.com/2013/11/elementarz-inwestora.html)
 - [Wykresy giełdowe](https://stockcharts.com/) - trail, można założyć konto i potestować
 #### Portale ogólne
-	- [macronext.pl](http://www.macronext.pl/pl/)
-	- [ATtreader](http://www.attrader.pl/abonament/informacje)
-	- [wnp.pl](https://www.wnp.pl/)
+- [macronext.pl](http://www.macronext.pl/pl/)
+- [ATtreader](http://www.attrader.pl/abonament/informacje)
+- [wnp.pl](https://www.wnp.pl/)
 	- [prostszezycie.pl](https://prostszezycie.pl/finanse-i-prawo-21)
 	- [businessinsider.com.pl](https://businessinsider.com.pl/?utm_source=businessinsider.com&utm_medium=referral&utm_campaign=redirect_businessinsider_com)
 	- [www.bloomberg.com/europe](https://www.bloomberg.com/europe)
