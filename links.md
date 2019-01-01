@@ -394,20 +394,20 @@
 - [Kiedy jaka giełda działa](https://market24hclock.com/)
 - [podstawy inwestowania](https://appfunds.blogspot.com/2013/11/elementarz-inwestora.html)
 - [Wykresy giełdowe](https://stockcharts.com/) - trail, można założyć konto i potestować
-#### Portale ogólne
-- [macronext.pl](http://www.macronext.pl/pl/)
-- [ATtreader](http://www.attrader.pl/abonament/informacje)
-- [wnp.pl](https://www.wnp.pl/)
-- [prostszezycie.pl](https://prostszezycie.pl/finanse-i-prawo-21)
-- [businessinsider.com.pl](https://businessinsider.com.pl/?utm_source=businessinsider.com&utm_medium=referral&utm_campaign=redirect_businessinsider_com)
-- [www.bloomberg.com/europe](https://www.bloomberg.com/europe)
-- [www.parkiet.com](https://www.parkiet.com/)
-- [www.gpw.pl](https://www.gpw.pl/)
-- [www.skarbiec.biz](https://www.skarbiec.biz/)
-- [infosfera](http://infostrefa.com/infostrefa/pl/index/)
-- [HSBC](https://www.hsbc.com/)
-- [stockwatch](https://www.stockwatch.pl/)
-	#### Banki
+	- #### Portale ogólne
+	- [macronext.pl](http://www.macronext.pl/pl/)
+	- [ATtreader](http://www.attrader.pl/abonament/informacje)
+	- [wnp.pl](https://www.wnp.pl/)
+	- [prostszezycie.pl](https://prostszezycie.pl/finanse-i-prawo-21)
+	- [businessinsider.com.pl](https://businessinsider.com.pl/?utm_source=businessinsider.com&utm_medium=referral&utm_campaign=redirect_businessinsider_com)
+	- [www.bloomberg.com/europe](https://www.bloomberg.com/europe)
+	- [www.parkiet.com](https://www.parkiet.com/)
+	- [www.gpw.pl](https://www.gpw.pl/)
+	- [www.skarbiec.biz](https://www.skarbiec.biz/)
+	- [infosfera](http://infostrefa.com/infostrefa/pl/index/)
+	- [HSBC](https://www.hsbc.com/)
+	- [stockwatch](https://www.stockwatch.pl/)
+	- #### Banki
 	- [EBC](https://www.ecb.europa.eu/home/html/index.en.html)
 	#### Blogi
 	- [economic collaps](http://theeconomiccollapseblog.com/)
