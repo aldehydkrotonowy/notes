@@ -75,6 +75,7 @@
 - [Shadow DOM - what is this?](https://blog.rowan.website/2018/02/15/what-the-shit-is-the-shadow-dom-anyway/)
 - [How to biohack your intelligence](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f)
 - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f) - Eric Elliott
+- [traditional interpreter, JIT compiler, JIT interpreter and AOT compiler](https://softwareengineering.stackexchange.com/questions/246094/understanding-the-differences-traditional-interpreter-jit-compiler-jit-interp)
 
 ### List of links to resources [[TOP]](#top)
 - [Build your own xxx](https://github.com/danistefanovic/build-your-own-x) x = Web Server, template engine, ... (many more)
@@ -156,6 +157,8 @@
 - [Jeremy Jordan Blog](https://www.jeremyjordan.me/author/jeremy/)
 - [Introduction to ML](http://www.infocobuild.com/education/audio-video-courses/computer-science/IntroToMachineLearning-IIT-Kharagpur/lecture-38.html) - youtube tutorial
 - [Introduction to Optimizers](https://blog.algorithmia.com/introduction-to-optimizers/) - many additional links there
+- [The AI Programmer's Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
+- [Deep learning - book](https://d2l.ai/chapter_deep-learning-basics/linear-regression.html)
 ### Project ideas [[TOP]](#top)
 - [fun apps to build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
@@ -289,7 +292,8 @@
 - [Mongoose JS Tutorial - 3 - Build a CRUD App (1)](https://www.youtube.com/watch?v=07739ffJkbo&list=PLGquJ_T_JBMQ1C0Pp41sykceli8G1UGtg&index=3)
 - [Designing a REST API with Node.js and MongoDB Atlas](https://www.zeolearn.com/magazine/designing-a-rest-api-with-nodejs-and-mongodb-atlas)
 
-
+### Git how to
+- [how to use git nice pictures](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 
 ### Courses online [[TOP]](#top)
 - [tylermcginnis.com](https://tylermcginnis.com/)
@@ -300,6 +304,7 @@
 - [Express and CORS - basics](https://medium.com/trisfera/using-cors-in-express-cac7e29b005b)
 - [Using Async Await in Express with Node 9](https://medium.com/@Abazhenov/using-async-await-in-express-with-node-8-b8af872c0016)
 - [edX](https://www.edx.org/)
+- [exercism.io](https://exercism.io/users/sign_up)
 
 ### Symphony 4 [[TOP]](#top)
 - [Beginners Symfony 4 Tutorial](https://www.youtube.com/watch?v=yz56pv8fi_c)
