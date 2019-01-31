@@ -175,6 +175,7 @@
 - [Programing exercises](http://www.spoj.com/)
 - [C++ Core Guidelines - book](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#S-class)
 - [LearnCpp website](https://www.learncpp.com/)
+- [Inside the C Standard Library](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html)
 ### work [[TOP]](#top)
 - [justjoin.it](https://justjoin.it/offers/appstract-junior-javascript-developer)
 - [crossweb.pl](https://crossweb.pl/job/)
