@@ -353,6 +353,11 @@
 	- [PC World](https://www.pcworld.com/category/computers/)
 	- [Hot Hardware](https://hothardware.com/)
 	
+### Arduino
+- [OneWire standard](https://pl.wikipedia.org/wiki/1-Wire)
+- [Dallas Semiconductor's 1-Wire Protocol](https://playground.arduino.cc/Learning/OneWire)
+- [OneWire search algorithm](https://www.maximintegrated.com/en/app-notes/index.mvp/id/187)
+
 ### Malware samples collection
 - [javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection/tree/master/2017)
 
