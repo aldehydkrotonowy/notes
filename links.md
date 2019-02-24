@@ -2,6 +2,7 @@
 :exclamation: - very good; :recycle: - resources; :gem: - nice snippets of code; :pencil: - side information; :gear: - technical details, :books: - collection of books, :book: - online book
 #### Table of Contents  <a name="top"></a>
 - [Mathematic](#math)
+- [Economy](#economy)
 - [Java](#java)
 - [Python](#python)
 - [Online JS Editors](#editors)
@@ -47,6 +48,7 @@
 	- [Iterables and Iterators](http://exploringjs.com/es6/ch_iteration.html#sec_overview-iteration)
 	- [You don't know js](https://github.com/getify/You-Dont-Know-JS) - :book: GitHub book
 	- [Express + Node.js async/await](http://www.youtube.com/watch?feature=player_embedded&v=x51Qxg_epQ4)<img src="./images/youtube.png" width="auto" height="20"/>
+	- [Proper Tail Calls - PTC](https://github.com/tc39/proposal-ptc-syntax#syntactic-tail-calls-stc)
 - WebSocket
 	- [WebSockets (using Socket.io) Tutorial #5](https://www.youtube.com/watch?feature=player_embedded&v=FvArk8-qgCk) <img src="./images/youtube.png" width="auto" height="20"/>
 	- [WebSocket Server how it works](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
@@ -55,6 +57,14 @@
 - V8 Engine 
 	- [V8 engine: properties with integer names](https://v8project.blogspot.com/2017/09/elements-kinds-in-v8.html)
 	- [V8 engine: objects and its prperties](https://v8project.blogspot.com/2017/08/fast-properties.html)
+- functional programing
+	- [Introduction to Parsers - functional programing approach](https://medium.com/@chetcorcos/introduction-to-parsers-644d1b5d7f3d) - parsrs with using functinal programing
+	- [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
+	- [fantasyland](https://medium.com/javascript-inside/slaying-a-ui-antipattern-in-fantasyland-907cbc322d2a)
+	- [Peano numbers concept](http://www.tomharding.me/) - good introduction, at least at the beginning
+	- [Comonads, Monoids and Trees](https://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html) :book:
+	- [Functional Programming in JavaScript, Part 1: The Unit](https://marmelab.com/blog/2018/03/14/functional-programming-1-unit-of-code.html)
+	- [Functional Programming in JavaScript, Part 2: The Monoid](https://marmelab.com/blog/2018/04/18/functional-programming-2-monoid.html)
 
 ### Articles to broaden horizons [[TOP]](#top)
 - [GraphQL tutorial](http://www.youtube.com/watch?feature=player_embedded&v=bUD6ERbcXrQ)  <img src="./images/youtube.png" width="auto" height="20"/>
@@ -65,6 +75,7 @@
 - [Shadow DOM - what is this?](https://blog.rowan.website/2018/02/15/what-the-shit-is-the-shadow-dom-anyway/)
 - [How to biohack your intelligence](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f)
 - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f) - Eric Elliott
+- [traditional interpreter, JIT compiler, JIT interpreter and AOT compiler](https://softwareengineering.stackexchange.com/questions/246094/understanding-the-differences-traditional-interpreter-jit-compiler-jit-interp)
 
 ### List of links to resources [[TOP]](#top)
 - [Build your own xxx](https://github.com/danistefanovic/build-your-own-x) x = Web Server, template engine, ... (many more)
@@ -88,6 +99,14 @@
 ### Webasembly
 - [GOTO 2017 • WebAssembly: What and What Next?](http://www.youtube.com/watch?feature=player_embedded&v=R9wn99Xheq4)<img src="./images/youtube.png" width="auto" height="20"/>
 - [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](http://www.youtube.com/watch?feature=player_embedded&v=HktWin_LPf4)<img src="./images/youtube.png" width="auto" height="20"/>
+- [Tagged union - data structure](https://en.wikipedia.org/wiki/Tagged_union)
+
+### Parsers and compilers
+- [Notes on How Parsers and Compilers Work](http://parsingintro.sourceforge.net/)
+- [Quick Starter on Parser Grammars](https://theantlrguy.atlassian.net/wiki/spaces/ANTLR3/pages/2687210/Quick+Starter+on+Parser+Grammars+-+No+Past+Experience+Required)
+- [How To Write A Simple Lexical Analyzer or Parser](http://stlab.cc/legacy/how-to-write-a-simple-lexical-analyzer-or-parser.html)
+- [How to build a parser by hand](https://jayconrod.com/posts/65/how-to-build-a-parser-by-hand)
+- [A handbook for making programming languages](http://www.craftinginterpreters.com/)
 
 ### Next.js [[TOP]](#top)
 - [Next.js Tutorial: SEO-Friendly React E-Commerce SPA](https://snipcart.com/blog/react-seo-nextjs-tutorial)
@@ -138,6 +157,8 @@
 - [Jeremy Jordan Blog](https://www.jeremyjordan.me/author/jeremy/)
 - [Introduction to ML](http://www.infocobuild.com/education/audio-video-courses/computer-science/IntroToMachineLearning-IIT-Kharagpur/lecture-38.html) - youtube tutorial
 - [Introduction to Optimizers](https://blog.algorithmia.com/introduction-to-optimizers/) - many additional links there
+- [The AI Programmer's Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
+- [Deep learning - book](https://d2l.ai/chapter_deep-learning-basics/linear-regression.html)
 ### Project ideas [[TOP]](#top)
 - [fun apps to build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
@@ -271,7 +292,8 @@
 - [Mongoose JS Tutorial - 3 - Build a CRUD App (1)](https://www.youtube.com/watch?v=07739ffJkbo&list=PLGquJ_T_JBMQ1C0Pp41sykceli8G1UGtg&index=3)
 - [Designing a REST API with Node.js and MongoDB Atlas](https://www.zeolearn.com/magazine/designing-a-rest-api-with-nodejs-and-mongodb-atlas)
 
-
+### Git how to
+- [how to use git nice pictures](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 
 ### Courses online [[TOP]](#top)
 - [tylermcginnis.com](https://tylermcginnis.com/)
@@ -282,6 +304,7 @@
 - [Express and CORS - basics](https://medium.com/trisfera/using-cors-in-express-cac7e29b005b)
 - [Using Async Await in Express with Node 9](https://medium.com/@Abazhenov/using-async-await-in-express-with-node-8-b8af872c0016)
 - [edX](https://www.edx.org/)
+- [exercism.io](https://exercism.io/users/sign_up)
 
 ### Symphony 4 [[TOP]](#top)
 - [Beginners Symfony 4 Tutorial](https://www.youtube.com/watch?v=yz56pv8fi_c)
@@ -375,6 +398,36 @@
 
 ### GitHub tutorials
 - [10 Common Git Problems and How to Fix Them](https://citizen428.net/10-common-git-problems-and-how-to-fix-them-e8d809299f08)
+
+### Economy [[TOP]](#top)<a name="economy"></a>
+- [Blogs PL](http://generatorfinansowy.blogspot.com/)
+- [Kiedy jaka giełda działa](https://market24hclock.com/)
+- [podstawy inwestowania](https://appfunds.blogspot.com/2013/11/elementarz-inwestora.html)
+- [Wykresy giełdowe](https://stockcharts.com/) - trail, można założyć konto i potestować
+	- #### Portale ogólne
+	- [macronext.pl](http://www.macronext.pl/pl/)
+	- [ATtreader](http://www.attrader.pl/abonament/informacje)
+	- [wnp.pl](https://www.wnp.pl/)
+	- [prostszezycie.pl](https://prostszezycie.pl/finanse-i-prawo-21)
+	- [businessinsider.com.pl](https://businessinsider.com.pl/?utm_source=businessinsider.com&utm_medium=referral&utm_campaign=redirect_businessinsider_com)
+	- [www.bloomberg.com/europe](https://www.bloomberg.com/europe)
+	- [www.parkiet.com](https://www.parkiet.com/)
+	- [www.gpw.pl](https://www.gpw.pl/)
+	- [www.skarbiec.biz](https://www.skarbiec.biz/)
+	- [infosfera](http://infostrefa.com/infostrefa/pl/index/)
+	- [HSBC](https://www.hsbc.com/)
+	- [stockwatch](https://www.stockwatch.pl/)
+	- #### Banki
+		- [EBC](https://www.ecb.europa.eu/home/html/index.en.html)
+	#### Blogi
+	- [economic collaps](http://theeconomiccollapseblog.com/)
+	- [Dr. Ed's Blog](http://blog.yardeni.com/)
+	- [zerohedge](https://www.zerohedge.com/)
+	- [contra corner](http://davidstockmanscontracorner.com/)
+	- [SRsrocco report](https://srsroccoreport.com/)
+	- [Jim Sinclair's](https://www.jsmineset.com/)
+	- [Doxa](https://slomski.us/)
+
 
 # Videos [[TOP]](#top)<a name="videos"></a>
 ### Math and physics
