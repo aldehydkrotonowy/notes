@@ -176,6 +176,17 @@
 - [C++ Core Guidelines - book](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#S-class)
 - [LearnCpp website](https://www.learncpp.com/)
 - [Inside the C Standard Library](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html)
+- blogs
+	- [cpp-polska.pl](https://cpp-polska.pl/post/cppnews-55-2801-03022019)
+	- [fluent C++](https://www.fluentcpp.com/2019/01/29/how-to-define-a-variadic-number-of-arguments-of-the-same-type-part-2/)
+- videos
+	- [C++ Weekly](https://www.youtube.com/watch?v=CjExHyCVRYg) <img src="./images/youtube.png" width="auto" height="20">
+	- [MeetingCpp](https://www.youtube.com/user/MeetingCPP) <img src="./images/youtube.png" width="auto" height="20">
+	- [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) <img src="./images/youtube.png" width="auto" height="20">
+- compilers	
+	- [Compiler explorer](https://godbolt.org/)
+- references
+	- [cppreference.com](https://en.cppreference.com/w/cpp/language/lambda)
 ### work [[TOP]](#top)
 - [justjoin.it](https://justjoin.it/offers/appstract-junior-javascript-developer)
 - [crossweb.pl](https://crossweb.pl/job/)
