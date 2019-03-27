@@ -32,6 +32,7 @@
 - [Arxiv](https://arxiv.org/)
 - [Synced](https://syncedreview.com/)
 - [news.risingstack.com](https://news.risingstack.com/)
+- [node - hackr.io](https://hackr.io/news/node-js)
 
 ### Other interesting resources [[TOP]](#top)
 - [JavaScript weekly archives](http://javascriptweekly.com/issues)
