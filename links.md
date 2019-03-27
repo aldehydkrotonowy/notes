@@ -184,6 +184,24 @@
 	- [Winsock](https://msdn.microsoft.com/pl-pl/library/windows/desktop/ms738545(v=vs.85).aspx)
 - 	Other
 	- [C Function Call Conventions and the Stack](https://www.csee.umbc.edu/~chang/cs313.s02/stack.shtml)
+	- [Inside the C Standard Library](https://begriffs.com/posts/2019-01-19-inside-c-standard-lib.html)
+- 	blogs
+	- [cpp-polska.pl](https://cpp-polska.pl/post/cppnews-55-2801-03022019)
+	- [fluent C++](https://www.fluentcpp.com/2019/01/29/how-to-define-a-variadic-number-of-arguments-of-the-same-type-part-2/)
+- 	videos
+	- [C++ Weekly](https://www.youtube.com/watch?v=CjExHyCVRYg) <img src="./images/youtube.png" width="auto" height="20">
+	- [MeetingCpp](https://www.youtube.com/user/MeetingCPP) <img src="./images/youtube.png" width="auto" height="20">
+	- [C++](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb) <img src="./images/youtube.png" width="auto" height="20">
+- 	compilers	
+	- [Compiler explorer](https://godbolt.org/)
+- 	references
+	- [cppreference.com](https://en.cppreference.com/w/cpp/language/lambda)
+
+### work [[TOP]](#top)
+- [justjoin.it](https://justjoin.it/offers/appstract-junior-javascript-developer)
+- [crossweb.pl](https://crossweb.pl/job/)
+- [nofluffjobs](https://nofluffjobs.com/)
+- [bulldogjob](https://bulldogjob.pl/)
 
 ### Python [[TOP]](#top)
 - [Web app from scratch: part I](https://defn.io/2018/02/25/web-app-from-scratch-01/)
@@ -403,6 +421,9 @@
 
 ### GitHub tutorials
 - [10 Common Git Problems and How to Fix Them](https://citizen428.net/10-common-git-problems-and-how-to-fix-them-e8d809299f08)
+
+### Ubuntu
+- [ssh generation howto](https://www.ssh.com/ssh/keygen/)
 
 ### Economy [[TOP]](#top)<a name="economy"></a>
 - [Blogs PL](http://generatorfinansowy.blogspot.com/)
