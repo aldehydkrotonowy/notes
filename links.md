@@ -4,6 +4,7 @@
 - [Mathematic](#math)
 - [Economy](#economy)
 - [Java](#java)
+- [C++](#cpp)
 - [Python](#python)
 - [Online JS Editors](#editors)
 - [JS basic](#jsbasic)
@@ -30,6 +31,7 @@
 - [The new stack](https://thenewstack.io/)
 - [Arxiv](https://arxiv.org/)
 - [Synced](https://syncedreview.com/)
+- [news.risingstack.com](https://news.risingstack.com/)
 
 ### Other interesting resources [[TOP]](#top)
 - [JavaScript weekly archives](http://javascriptweekly.com/issues)
@@ -166,20 +168,22 @@
 ### Web API [[TOP]](#top)
 - [Web API mozilla.org](https://developer.mozilla.org/en-US/docs/Web/API)
 
-### C/C++ [[TOP]](#top)
-- [How does WSAStartup function initiates use of the Winsock DLL?](https://stackoverflow.com/questions/4991967/how-does-wsastartup-function-initiates-use-of-the-winsock-dll)
-- [TCP/IP Network Programming Design Pattens in C++](https://vichargrave.github.io/articles/2013-02/tcp-ip-network-programming-design-patterns-in-cpp)
-- [Source Codes World.com](http://www.sourcecodesworld.com/source/show.asp?ScriptID=1096)
-- [Winsock](https://msdn.microsoft.com/pl-pl/library/windows/desktop/ms738545(v=vs.85).aspx)
-- [C Function Call Conventions and the Stack](https://www.csee.umbc.edu/~chang/cs313.s02/stack.shtml)
-- [Programing exercises](http://www.spoj.com/)
-- [C++ Core Guidelines - book](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#S-class)
-- [LearnCpp website](https://www.learncpp.com/)
-### work [[TOP]](#top)
-- [justjoin.it](https://justjoin.it/offers/appstract-junior-javascript-developer)
-- [crossweb.pl](https://crossweb.pl/job/)
-- [nofluffjobs](https://nofluffjobs.com/)
-- [bulldogjob](https://bulldogjob.pl/)
+### C/C++ [[TOP]](#top)<a name="cpp"></a>
+- 	General
+	- [Programing exercises](http://www.spoj.com/)
+	- [C++ Core Guidelines - book](https://github.com/isocpp/CppCoreGuidelines/blob/master/CppCoreGuidelines.md#S-class) :book:
+	- [Source Codes World.com](http://www.sourcecodesworld.com/source/show.asp?ScriptID=1096)
+	- [LearnCpp website](https://www.learncpp.com/)
+-	Network Programing
+	- [Unix Network programing](https://github.com/shihyu/Linux_Programming/blob/master/books/UNIX%20Network%20Programming(Volume1%2C3rd).pdf) :book:
+	- [TCP/IP Network Programming Design Pattens in C++](https://vichargrave.github.io/articles/2013-02/tcp-ip-network-programming-design-patterns-in-cpp)
+	- [Simple server in c++](http://www.martinbroadhurst.com/server-examples.html)
+	- [Beej's Guide to Network Programming](http://beej.us/guide/bgnet/html/multi/index.html)
+- 	Winsock
+	- [How does WSAStartup function initiates use of the Winsock DLL?](https://stackoverflow.com/questions/4991967/how-does-wsastartup-function-initiates-use-of-the-winsock-dll)
+	- [Winsock](https://msdn.microsoft.com/pl-pl/library/windows/desktop/ms738545(v=vs.85).aspx)
+- 	Other
+	- [C Function Call Conventions and the Stack](https://www.csee.umbc.edu/~chang/cs313.s02/stack.shtml)
 
 ### Python [[TOP]](#top)
 - [Web app from scratch: part I](https://defn.io/2018/02/25/web-app-from-scratch-01/)
@@ -428,6 +432,15 @@
 	- [SRsrocco report](https://srsroccoreport.com/)
 	- [Jim Sinclair's](https://www.jsmineset.com/)
 	- [Doxa](https://slomski.us/)
+
+### Work [[TOP]](#top)
+- [justjoin.it](https://justjoin.it/offers/appstract-junior-javascript-developer)
+- [crossweb.pl](https://crossweb.pl/job/)
+- [nofluffjobs](https://nofluffjobs.com/)
+- [bulldogjob](https://bulldogjob.pl/)
+- [TeamQuest](https://teamquest.pl/)
+
+- [What node.js developer should know](https://www.cleveroad.com/blog/how-to-hire-nodejs-developers)
 
 
 # Videos [[TOP]](#top)<a name="videos"></a>
