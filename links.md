@@ -412,8 +412,10 @@
 ### GitHub tutorials
 - [10 Common Git Problems and How to Fix Them](https://citizen428.net/10-common-git-problems-and-how-to-fix-them-e8d809299f08)
 
-### Ubuntu
+### Linux/Ubuntu
 - [ssh generation howto](https://www.ssh.com/ssh/keygen/)
+- kernel
+	- [kernel source code](https://elixir.bootlin.com/linux/v3.14/source/include/linux/syscalls.h#L175)
 
 ### Economy [[TOP]](#top)<a name="economy"></a>
 - [Blogs PL](http://generatorfinansowy.blogspot.com/)
