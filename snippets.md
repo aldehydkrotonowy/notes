@@ -1,12 +1,5 @@
 ### Code snippets
-some example of higlighted snippet
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
+
 
 ### iframes, sandboxing and postMessage API example from
 [this link](https://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/)
@@ -31,52 +24,25 @@ function fancyAlert(arg) {
  </head>
 </html>
 ```
-### Problem of this keyword
-##### Example 1
-```javascript
-class Person {
-    constructor(id) {
-        console.log(this) // person
-        const that = this;
-        fetch(`https://api.acme.corp/people/${id}`)
-        .then(x => x.json())
-        .then(x => {
-            console.log(this) // person
-            Object.assign(this, x);
-        })
-        .then(function(x) {
-            console.log(this) // window
-            // `that` is the only reference to person in this scope
-        });
+
+### Jquery each()
+```
+$.each( $('table', this.$el), function( index, table ){
+  var rowspan = 0;
+  $.each( $('tr', table), function( index, tr ){
+    if( rowspan > 0 ){
+      $('td:first-child', tr).addClass("not-first-child");
+      rowspan = (rowspan>0) ? rowspan-1 : 0;
+    } else if( $('td:first-child', tr).attr("rowspan") > 0){
+      rowspan = parseInt( $('td:first-child', tr).attr("rowspan")) - 1;
     }
-}
-const person = new Person('12');
-```
-##### Example 2
-```javascript
-foo: () => {
-  // `this` isn't in `foo`'s context, it's in `foo`'s parent context.
-}
-```
-##### Example 3
-```javascript
-const that = this; // But some folks use `self`, or `_this`, or `this2`, etc.
-
-const foo = function() {
-  // do something with `that` here, since `this` is local to `foo`.
-}
-```
-
-### Express and CORS restrictions
-```javascript
-app.use(cors({
-  origin: 'http://yourapp.com'
-}));
+  });
+});
 ```
 
 ### Error handling wrapper, fn is an async function
 ```javascript
- function catchAsyncErrors(fn) {  
+ function catchAsyncErrors(fn) {
     return (req, res, next) => {
         const routePromise = fn(req, res, next);
         if (routePromise.catch) {
@@ -84,14 +50,6 @@ app.use(cors({
         }
     }
 }
-```
-or fat arrow version
-```javascript
-const asyncMiddleware = fn =>
-  (req, res, next) => {
-    Promise.resolve(fn(req, res, next))
-      .catch(next);
-  };
 ```
 
 ### Express, error handling traditional style
@@ -327,28 +285,3 @@ function getBestMove(moves, player) {
 }
 ```
 
-### better understanding reduce() link: [Transform the initial value: Object -> Object](https://itnext.io/how-to-understand-reduce-d246b7a70f78)
-```javascript
-const initialState = {sum: 0, history: []};
-function reduce(state: any, action: any) {
-  return {
-    sum: state.sum + action.n,
-    history: [...state.history, action.name]
-  };
-}
-const action1 = {
-  name: 'action1',
-  n: 1
-};
-const action2 = {
-  name: 'action2',
-  n: 2
-};
-const list = [action1, action2];
-const finalState = Array.prototype.reduce.call(
-  list, 
-  reduce,
-  initialState
-);
-console.log(finalState); // {sum: 3, history: ['action1', 'action2']}
-```
