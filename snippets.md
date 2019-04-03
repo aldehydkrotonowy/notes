@@ -26,7 +26,7 @@
 ```
 
 ### Jquery each()
-```
+```javascript
 $.each( $('table', this.$el), function( index, table ){
   var rowspan = 0;
   $.each( $('tr', table), function( index, tr ){
