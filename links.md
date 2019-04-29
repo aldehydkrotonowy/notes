@@ -68,6 +68,10 @@
 	- [Comonads, Monoids and Trees](https://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html) :book:
 	- [Functional Programming in JavaScript, Part 1: The Unit](https://marmelab.com/blog/2018/03/14/functional-programming-1-unit-of-code.html)
 	- [Functional Programming in JavaScript, Part 2: The Monoid](https://marmelab.com/blog/2018/04/18/functional-programming-2-monoid.html)
+- online editors
+	- [https://codesandbox.io](https://codesandbox.io)
+	- [http://playcode.io/](http://playcode.io/)
+
 
 ### Articles to broaden horizons [[TOP]](#top)
 - [GraphQL tutorial](http://www.youtube.com/watch?feature=player_embedded&v=bUD6ERbcXrQ)  <img src="./images/youtube.png" width="auto" height="20"/>
