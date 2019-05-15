@@ -166,6 +166,13 @@
 - [Introduction to Optimizers](https://blog.algorithmia.com/introduction-to-optimizers/) - many additional links there
 - [The AI Programmer's Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
 - [Deep learning - book](https://d2l.ai/chapter_deep-learning-basics/linear-regression.html)
+- NN General
+	- [The mostly complete chart of Neural Networks](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+	- [Implementing a NN from Scratch in Python – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+- Recurent NN
+	- [RNN Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+	- [The Unreasonable Effectiveness of RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+	
 ### Project ideas [[TOP]](#top)
 - [fun apps to build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
@@ -363,6 +370,15 @@
 - Gradient Descent
 	- [Mathematics of Gradient Descent - Intelligence and Learning](https://www.youtube.com/watch?v=jc2IthslyzM) <img src="./images/youtube.png" width="auto" height="20">
 	
+### Asm [[TOP]](#top)<a name="asm"></a>
+- some resources
+	- [many tutorials](http://asm.sourceforge.net/resources.html#tutorials)
+	- [forum topic - asm start](https://forum.nasm.us/index.php?topic=1266.0)
+	- [nasm.us](https://www.nasm.us/doc/)
+	- [nasm on 64bit widdow](https://www.davidgrantham.com/nasm-console64/)
+	- [tuts4you - books, diassembling, many more...](https://tuts4you.com/download/category/24//)
+- advanced articles
+	- [In-depth: Windows x64 ABI: Stack frames](https://www.gamasutra.com/view/news/178446/Indepth_Windows_x64_ABI_Stack_frames.php)
 	
 ### Java [[TOP]](#top)<a name="java"></a>
 - #### Database
