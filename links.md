@@ -69,8 +69,8 @@
 	- [Functional Programming in JavaScript, Part 1: The Unit](https://marmelab.com/blog/2018/03/14/functional-programming-1-unit-of-code.html)
 	- [Functional Programming in JavaScript, Part 2: The Monoid](https://marmelab.com/blog/2018/04/18/functional-programming-2-monoid.html)
 - online editors
-	- [https://codesandbox.io](https://codesandbox.io)
-	- [http://playcode.io/](http://playcode.io/)
+	- [codesandbox.io](https://codesandbox.io)
+	- [playcode.io/](http://playcode.io/)
 
 
 ### Articles to broaden horizons [[TOP]](#top)
