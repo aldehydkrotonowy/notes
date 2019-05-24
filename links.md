@@ -8,6 +8,7 @@
 - [Python](#python)
 - [Online JS Editors](#editors)
 - [JS basic](#jsbasic)
+- [Docker](#docker)
 - [Artificial Inteligence](#ai)
 - [React](#react)
 - [Videos](#videos)
@@ -38,7 +39,7 @@
 - [JavaScript weekly archives](http://javascriptweekly.com/issues)
 - [MSDN Magazine Issues and Downloads](https://msdn.microsoft.com/magazine/mt668395)
 
-### JavaScript Learning materials [[TOP]](#top)
+### JavaScript Learning materials [[TOP]](#top)<a name="jsbasic"></a>
 - :recycle: [__Rectiflux learning materials__](https://www.reactiflux.com/learning/#learning-current-javascript-es6) - <img src="./images/rectiflux.png" width="auto" height="20"/>
 - TypeScript
 	- :recycle: [Learn TypeScript](https://github.com/snipcart/learn-typescript)  <img src="./images/github.png" width="auto" height="20"/>
@@ -52,6 +53,7 @@
 	- [You don't know js](https://github.com/getify/You-Dont-Know-JS) - :book: GitHub book
 	- [Express + Node.js async/await](http://www.youtube.com/watch?feature=player_embedded&v=x51Qxg_epQ4)<img src="./images/youtube.png" width="auto" height="20"/>
 	- [Proper Tail Calls - PTC](https://github.com/tc39/proposal-ptc-syntax#syntactic-tail-calls-stc)
+	- [Async await in loops](https://zellwk.com/blog/async-await-in-loops/)
 - WebSocket
 	- [WebSockets (using Socket.io) Tutorial #5](https://www.youtube.com/watch?feature=player_embedded&v=FvArk8-qgCk) <img src="./images/youtube.png" width="auto" height="20"/>
 	- [WebSocket Server how it works](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
@@ -87,6 +89,9 @@
 ### List of links to resources [[TOP]](#top)
 - [Build your own xxx](https://github.com/danistefanovic/build-your-own-x) x = Web Server, template engine, ... (many more)
 
+### Docker [[TOP]](#top)<a name="docker"></a>
+- [-](-)
+
 ### Temporary links [[TOP]](#top)
 - [JS and cookies](https://www.quirksmode.org/js/cookies.html)
 - [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)
@@ -103,6 +108,7 @@
 ### Algorithms and data structures [[TOP]](#top)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) <img src="./images/github.png" width="auto" height="20"/>
 - [Algorithms and Data Structures](https://www.youtube.com/channel/UCirCLaGiw_zT6vJNI_At6ag) <img src="./images/chanel.png" width="auto" height="20"/>
+
 ### Webasembly
 - [GOTO 2017 • WebAssembly: What and What Next?](http://www.youtube.com/watch?feature=player_embedded&v=R9wn99Xheq4)<img src="./images/youtube.png" width="auto" height="20"/>
 - [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](http://www.youtube.com/watch?feature=player_embedded&v=HktWin_LPf4)<img src="./images/youtube.png" width="auto" height="20"/>
@@ -142,7 +148,7 @@
 - [React Native DOM - ](https://github.com/vincentriemer/react-native-dom) - An experimental, comprehensive port of React Native to the web.
 
 
-## AI, Machine Learning and Neural networks [[TOP]](#top)<a name="ai"></a>
+### AI, Machine Learning and Neural networks [[TOP]](#top)<a name="ai"></a>
 - [HUGO LAROCHELLE: lots of math materials for AI](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) <img src="./images/zasoby.jpg" width="auto" height="20"/>
 - [Essentials of Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 - [Beginner's guide to AI](https://www.ibm.com/developerworks/library/cc-beginner-guide-machine-learning-ai-cognitive/index.html)
@@ -172,7 +178,8 @@
 - Recurent NN
 	- [RNN Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
 	- [The Unreasonable Effectiveness of RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-	
+- Vectorization
+	- [Art of Vector Representation of Words](https://towardsdatascience.com/art-of-vector-representation-of-words-5e85c59fee5)
 ### Project ideas [[TOP]](#top)
 - [fun apps to build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
