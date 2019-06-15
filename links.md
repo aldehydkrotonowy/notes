@@ -171,7 +171,6 @@
 - [Introduction to ML](http://www.infocobuild.com/education/audio-video-courses/computer-science/IntroToMachineLearning-IIT-Kharagpur/lecture-38.html) - youtube tutorial
 - [Introduction to Optimizers](https://blog.algorithmia.com/introduction-to-optimizers/) - many additional links there
 - [The AI Programmer's Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
-- [Deep learning - book](https://d2l.ai/chapter_deep-learning-basics/linear-regression.html)
 - NN General
 	- [The mostly complete chart of Neural Networks](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
 	- [Implementing a NN from Scratch in Python – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
@@ -180,6 +179,16 @@
 	- [The Unreasonable Effectiveness of RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - Vectorization
 	- [Art of Vector Representation of Words](https://towardsdatascience.com/art-of-vector-representation-of-words-5e85c59fee5)
+- NN Articles
+	- [A Step by Step Backpropagation Example - real calculatios](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+	- [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+	- [Perceptron Learning Algorithm](https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975) - what is OR,XOR problem
+- NN loss functions
+	- [Loss Functions in Neural Networks](https://isaacchanghau.github.io/post/loss_functions/)
+	- [CS/CNS/EE 253: Advanced Topics in Machine Learning](http://courses.cms.caltech.edu/cs253/)
+- scikit-learn basics
+	- [scikit-learn tutorial](https://www.w3cschool.cn/doc_scikit_learn/scikit_learn-modules-tree.html) - wygląda na opis funkcji scikit
+
 ### Project ideas [[TOP]](#top)
 - [fun apps to build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
