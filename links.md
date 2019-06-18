@@ -359,6 +359,14 @@
 - [how to use git nice pictures](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
 - [Up your Git game and clean up your history](https://dev.to/christopherkade/up-your-git-game-and-clean-up-your-history-4j3j)
 
+
+### Interesting new things/framworks etc
+-	nest:: Node.js server-side applications
+	- [nest.js](https://docs.nestjs.com/)
+-	single-spa:: micro-frontends
+	- [single-spa](https://single-spa.js.org/)
+	- [single-spa - how to use](https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op)
+
 ### Courses online [[TOP]](#top)
 - [tylermcginnis.com](https://tylermcginnis.com/)
 - [cursera - machine learning](https://www.coursera.org/learn/machine-learning?action=enroll)
