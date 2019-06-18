@@ -19,6 +19,7 @@
 [#tensors](#tensors)
 ---
 ## Websites
+- [Dev.to](https://dev.to/)
 - [JavaScript News](https://jsnews.io/)
 - [Echo JS](https://echojs.com/)
 - [Hacker News](https://news.ycombinator.com/)
@@ -238,6 +239,8 @@
 ### Python [[TOP]](#top)
 - [Web app from scratch: part I](https://defn.io/2018/02/25/web-app-from-scratch-01/)
 - [Web app from scratch: part II](https://defn.io/2018/03/04/web-app-from-scratch-02//)
+-	Big data
+	- [big data analysis](https://rubikscode.net/2019/06/03/guide-to-exploratory-data-analysis-with-python/)
 
 ### CSS [[TOP]](#top)
 - 	CSS
@@ -354,6 +357,7 @@
 
 ### Git how to
 - [how to use git nice pictures](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
+- [Up your Git game and clean up your history](https://dev.to/christopherkade/up-your-git-game-and-clean-up-your-history-4j3j)
 
 ### Courses online [[TOP]](#top)
 - [tylermcginnis.com](https://tylermcginnis.com/)
