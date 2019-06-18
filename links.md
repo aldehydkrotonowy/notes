@@ -182,12 +182,16 @@
 - NN Articles
 	- [A Step by Step Backpropagation Example - real calculatios](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 	- [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
-	- [Perceptron Learning Algorithm](https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975) - what is OR,XOR problem
+	- [#1 McCulloch-Pits neuron model](https://towardsdatascience.com/mcculloch-pitts-model-5fdf65ac5dd1)
+	- [#2 Perceptron Learning Algorithm](https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975) - what is OR,XOR problem
+	- []()
 - NN loss functions
 	- [Loss Functions in Neural Networks](https://isaacchanghau.github.io/post/loss_functions/)
 	- [CS/CNS/EE 253: Advanced Topics in Machine Learning](http://courses.cms.caltech.edu/cs253/)
 - scikit-learn basics
 	- [scikit-learn tutorial](https://www.w3cschool.cn/doc_scikit_learn/scikit_learn-modules-tree.html) - wygląda na opis funkcji scikit
+- others materials
+	- [A Gallery of Large Graphs - might be useful someday](http://yifanhu.net/GALLERY/GRAPHS/index39.html)
 
 ### Project ideas [[TOP]](#top)
 - [fun apps to build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
@@ -247,7 +251,10 @@
 - 	PostCSS
 	- [Some things you may think about PostCSS...](http://julian.io/some-things-you-may-think-about-postcss-and-you-might-be-wrong/)
 	- [PostCSS](http://postcss.org/)
-
+-	Examples
+	- [button1 - codepen](https://codepen.io/Shtam3x/pen/Bevpxd)
+	- [button1 - codepen](https://codepen.io/vitor-siqueira/pen/xNBExN)
+	- [button1 - codepen]()
 
 ### React [[TOP]](#top)<a name="react"></a>
 -   Documentation
@@ -332,10 +339,13 @@
 - [Full guide to developing REST API’s with AWS API Gateway and AWS Lambda](https://blog.sourcerer.io/full-guide-to-developing-rest-apis-with-aws-api-gateway-and-aws-lambda-d254729d6992)
 - [AWS elasticbeanstalk app deploy](https://www.youtube.com/watch?v=ubCNZRNjhyo) - swartzmuiler
 
-### RegExp [[TOP]](#top)
+### Regular Expressions [[TOP]](#top)
 - [part 1](https://wanago.io/2018/04/30/regex-course-part-one-basic-concepts/)
 - [part 2](https://wanago.io/2018/05/14/regex-course-part-three-grouping-and-using-es6-features/)
 - [String.prototype.match() vs. RegExp.prototype.exec()](https://stackoverflow.com/questions/27753246/match-vs-exec-in-javascript)
+- [Regex Cheat Sheet](https://devinduct.com/cheatsheet/10/regex)
+- [Introduction to Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)
+- [Regular Exp engine online](https://regexr.com/)
 
 ### MongoDB [[TOP]](#top)
 - [MongoDB Essentials - A Tutorial for Understanding MongoDB](https://www.youtube.com/watch?v=XhWkBI063PQ )
@@ -359,10 +369,6 @@
 ### Symphony 4 [[TOP]](#top)
 - [Beginners Symfony 4 Tutorial](https://www.youtube.com/watch?v=yz56pv8fi_c)
 - [Building a Symfony 3 App - Part 2 **Youtube**](https://www.youtube.com/watch?v=62hsXxjD4bY&list=PLxpohbmcy5qy9_BvxGyIJ3CTqbSgcJQND&index=2)
-
-### Regular Exp website
-- [Introduction to Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)
-- [Regular Exp engine online](https://regexr.com/)
 
 ### HTML5 [[TOP]](#top)
 - [IndexedDB](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501)
