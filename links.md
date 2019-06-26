@@ -8,6 +8,7 @@
 - [Python](#python)
 - [Online JS Editors](#editors)
 - [JS basic](#jsbasic)
+- [Docker](#docker)
 - [Artificial Inteligence](#ai)
 - [React](#react)
 - [Videos](#videos)
@@ -18,6 +19,7 @@
 [#tensors](#tensors)
 ---
 ## Websites
+- [Dev.to](https://dev.to/)
 - [JavaScript News](https://jsnews.io/)
 - [Echo JS](https://echojs.com/)
 - [Hacker News](https://news.ycombinator.com/)
@@ -38,7 +40,7 @@
 - [JavaScript weekly archives](http://javascriptweekly.com/issues)
 - [MSDN Magazine Issues and Downloads](https://msdn.microsoft.com/magazine/mt668395)
 
-### JavaScript Learning materials [[TOP]](#top)
+### JavaScript Learning materials [[TOP]](#top)<a name="jsbasic"></a>
 - :recycle: [__Rectiflux learning materials__](https://www.reactiflux.com/learning/#learning-current-javascript-es6) - <img src="./images/rectiflux.png" width="auto" height="20"/>
 - TypeScript
 	- :recycle: [Learn TypeScript](https://github.com/snipcart/learn-typescript)  <img src="./images/github.png" width="auto" height="20"/>
@@ -52,6 +54,7 @@
 	- [You don't know js](https://github.com/getify/You-Dont-Know-JS) - :book: GitHub book
 	- [Express + Node.js async/await](http://www.youtube.com/watch?feature=player_embedded&v=x51Qxg_epQ4)<img src="./images/youtube.png" width="auto" height="20"/>
 	- [Proper Tail Calls - PTC](https://github.com/tc39/proposal-ptc-syntax#syntactic-tail-calls-stc)
+	- [Async await in loops](https://zellwk.com/blog/async-await-in-loops/)
 - WebSocket
 	- [WebSockets (using Socket.io) Tutorial #5](https://www.youtube.com/watch?feature=player_embedded&v=FvArk8-qgCk) <img src="./images/youtube.png" width="auto" height="20"/>
 	- [WebSocket Server how it works](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
@@ -68,6 +71,10 @@
 	- [Comonads, Monoids and Trees](https://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html) :book:
 	- [Functional Programming in JavaScript, Part 1: The Unit](https://marmelab.com/blog/2018/03/14/functional-programming-1-unit-of-code.html)
 	- [Functional Programming in JavaScript, Part 2: The Monoid](https://marmelab.com/blog/2018/04/18/functional-programming-2-monoid.html)
+- online editors
+	- [codesandbox.io](https://codesandbox.io)
+	- [playcode.io/](http://playcode.io/)
+
 
 ### Articles to broaden horizons [[TOP]](#top)
 - [GraphQL tutorial](http://www.youtube.com/watch?feature=player_embedded&v=bUD6ERbcXrQ)  <img src="./images/youtube.png" width="auto" height="20"/>
@@ -82,6 +89,9 @@
 
 ### List of links to resources [[TOP]](#top)
 - [Build your own xxx](https://github.com/danistefanovic/build-your-own-x) x = Web Server, template engine, ... (many more)
+
+### Docker [[TOP]](#top)<a name="docker"></a>
+- [-](-)
 
 ### Temporary links [[TOP]](#top)
 - [JS and cookies](https://www.quirksmode.org/js/cookies.html)
@@ -99,6 +109,7 @@
 ### Algorithms and data structures [[TOP]](#top)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) <img src="./images/github.png" width="auto" height="20"/>
 - [Algorithms and Data Structures](https://www.youtube.com/channel/UCirCLaGiw_zT6vJNI_At6ag) <img src="./images/chanel.png" width="auto" height="20"/>
+
 ### Webasembly
 - [GOTO 2017 • WebAssembly: What and What Next?](http://www.youtube.com/watch?feature=player_embedded&v=R9wn99Xheq4)<img src="./images/youtube.png" width="auto" height="20"/>
 - [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](http://www.youtube.com/watch?feature=player_embedded&v=HktWin_LPf4)<img src="./images/youtube.png" width="auto" height="20"/>
@@ -138,7 +149,7 @@
 - [React Native DOM - ](https://github.com/vincentriemer/react-native-dom) - An experimental, comprehensive port of React Native to the web.
 
 
-## AI, Machine Learning and Neural networks [[TOP]](#top)<a name="ai"></a>
+### AI, Machine Learning and Neural networks [[TOP]](#top)<a name="ai"></a>
 - [HUGO LAROCHELLE: lots of math materials for AI](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) <img src="./images/zasoby.jpg" width="auto" height="20"/>
 - [Essentials of Machine Learning Algorithms](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/)
 - [Beginner's guide to AI](https://www.ibm.com/developerworks/library/cc-beginner-guide-machine-learning-ai-cognitive/index.html)
@@ -161,7 +172,28 @@
 - [Introduction to ML](http://www.infocobuild.com/education/audio-video-courses/computer-science/IntroToMachineLearning-IIT-Kharagpur/lecture-38.html) - youtube tutorial
 - [Introduction to Optimizers](https://blog.algorithmia.com/introduction-to-optimizers/) - many additional links there
 - [The AI Programmer's Bookshelf](http://alumni.media.mit.edu/~jorkin/aibooks.html)
-- [Deep learning - book](https://d2l.ai/chapter_deep-learning-basics/linear-regression.html)
+- NN General
+	- [The mostly complete chart of Neural Networks](https://towardsdatascience.com/the-mostly-complete-chart-of-neural-networks-explained-3fb6f2367464)
+	- [Implementing a NN from Scratch in Python – An Introduction](http://www.wildml.com/2015/09/implementing-a-neural-network-from-scratch/)
+- Recurent NN
+	- [RNN Tutorial, Part 1 – Introduction to RNNs](http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/)
+	- [The Unreasonable Effectiveness of RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- Vectorization
+	- [Art of Vector Representation of Words](https://towardsdatascience.com/art-of-vector-representation-of-words-5e85c59fee5)
+- NN Articles
+	- [A Step by Step Backpropagation Example - real calculatios](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
+	- [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+	- [#1 McCulloch-Pits neuron model](https://towardsdatascience.com/mcculloch-pitts-model-5fdf65ac5dd1)
+	- [#2 Perceptron Learning Algorithm](https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975) - what is OR,XOR problem
+	- []()
+- NN loss functions
+	- [Loss Functions in Neural Networks](https://isaacchanghau.github.io/post/loss_functions/)
+	- [CS/CNS/EE 253: Advanced Topics in Machine Learning](http://courses.cms.caltech.edu/cs253/)
+- scikit-learn basics
+	- [scikit-learn tutorial](https://www.w3cschool.cn/doc_scikit_learn/scikit_learn-modules-tree.html) - wygląda na opis funkcji scikit
+- others materials
+	- [A Gallery of Large Graphs - might be useful someday](http://yifanhu.net/GALLERY/GRAPHS/index39.html)
+
 ### Project ideas [[TOP]](#top)
 - [fun apps to build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
 
@@ -207,6 +239,8 @@
 ### Python [[TOP]](#top)
 - [Web app from scratch: part I](https://defn.io/2018/02/25/web-app-from-scratch-01/)
 - [Web app from scratch: part II](https://defn.io/2018/03/04/web-app-from-scratch-02//)
+-	Big data
+	- [big data analysis](https://rubikscode.net/2019/06/03/guide-to-exploratory-data-analysis-with-python/)
 
 ### CSS [[TOP]](#top)
 - 	CSS
@@ -220,7 +254,10 @@
 - 	PostCSS
 	- [Some things you may think about PostCSS...](http://julian.io/some-things-you-may-think-about-postcss-and-you-might-be-wrong/)
 	- [PostCSS](http://postcss.org/)
-
+-	Examples
+	- [button1 - codepen](https://codepen.io/Shtam3x/pen/Bevpxd)
+	- [button1 - codepen](https://codepen.io/vitor-siqueira/pen/xNBExN)
+	- [button1 - codepen]()
 
 ### React [[TOP]](#top)<a name="react"></a>
 -   Documentation
@@ -305,10 +342,13 @@
 - [Full guide to developing REST API’s with AWS API Gateway and AWS Lambda](https://blog.sourcerer.io/full-guide-to-developing-rest-apis-with-aws-api-gateway-and-aws-lambda-d254729d6992)
 - [AWS elasticbeanstalk app deploy](https://www.youtube.com/watch?v=ubCNZRNjhyo) - swartzmuiler
 
-### RegExp [[TOP]](#top)
+### Regular Expressions [[TOP]](#top)
 - [part 1](https://wanago.io/2018/04/30/regex-course-part-one-basic-concepts/)
 - [part 2](https://wanago.io/2018/05/14/regex-course-part-three-grouping-and-using-es6-features/)
 - [String.prototype.match() vs. RegExp.prototype.exec()](https://stackoverflow.com/questions/27753246/match-vs-exec-in-javascript)
+- [Regex Cheat Sheet](https://devinduct.com/cheatsheet/10/regex)
+- [Introduction to Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)
+- [Regular Exp engine online](https://regexr.com/)
 
 ### MongoDB [[TOP]](#top)
 - [MongoDB Essentials - A Tutorial for Understanding MongoDB](https://www.youtube.com/watch?v=XhWkBI063PQ )
@@ -317,6 +357,15 @@
 
 ### Git how to
 - [how to use git nice pictures](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
+- [Up your Git game and clean up your history](https://dev.to/christopherkade/up-your-git-game-and-clean-up-your-history-4j3j)
+
+
+### Interesting new things/framworks etc
+-	nest:: Node.js server-side applications
+	- [nest.js](https://docs.nestjs.com/)
+-	single-spa:: micro-frontends
+	- [single-spa](https://single-spa.js.org/)
+	- [single-spa - how to use](https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op)
 
 ### Courses online [[TOP]](#top)
 - [tylermcginnis.com](https://tylermcginnis.com/)
@@ -332,10 +381,6 @@
 ### Symphony 4 [[TOP]](#top)
 - [Beginners Symfony 4 Tutorial](https://www.youtube.com/watch?v=yz56pv8fi_c)
 - [Building a Symfony 3 App - Part 2 **Youtube**](https://www.youtube.com/watch?v=62hsXxjD4bY&list=PLxpohbmcy5qy9_BvxGyIJ3CTqbSgcJQND&index=2)
-
-### Regular Exp website
-- [Introduction to Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)
-- [Regular Exp engine online](https://regexr.com/)
 
 ### HTML5 [[TOP]](#top)
 - [IndexedDB](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501)
@@ -359,6 +404,15 @@
 - Gradient Descent
 	- [Mathematics of Gradient Descent - Intelligence and Learning](https://www.youtube.com/watch?v=jc2IthslyzM) <img src="./images/youtube.png" width="auto" height="20">
 	
+### Asm [[TOP]](#top)<a name="asm"></a>
+- some resources
+	- [many tutorials](http://asm.sourceforge.net/resources.html#tutorials)
+	- [forum topic - asm start](https://forum.nasm.us/index.php?topic=1266.0)
+	- [nasm.us](https://www.nasm.us/doc/)
+	- [nasm on 64bit widdow](https://www.davidgrantham.com/nasm-console64/)
+	- [tuts4you - books, diassembling, many more...](https://tuts4you.com/download/category/24//)
+- advanced articles
+	- [In-depth: Windows x64 ABI: Stack frames](https://www.gamasutra.com/view/news/178446/Indepth_Windows_x64_ABI_Stack_frames.php)
 	
 ### Java [[TOP]](#top)<a name="java"></a>
 - #### Database

@@ -285,3 +285,74 @@ function getBestMove(moves, player) {
 }
 ```
 
+React menu
+```javascript
+import React, { useRef } from 'react';
+import { makeStyles } from '@material-ui/core/styles';
+import AppBar from '@material-ui/core/AppBar';
+import MenuItem from '@material-ui/core/MenuItem';
+import ClickAwayListener from '@material-ui/core/ClickAwayListener';
+import Grow from '@material-ui/core/Grow';
+import MenuList from '@material-ui/core/MenuList';
+import Paper from '@material-ui/core/Paper';
+import IconButton from '@material-ui/core/IconButton';
+import Toolbar from '@material-ui/core/Toolbar';
+import Popper from '@material-ui/core/Popper';
+
+
+const useStyles = makeStyles(theme => ({
+	root: {
+		display: 'flex'
+	}
+}))
+
+
+export default function Navbar() {
+	const classes = useStyles();
+
+	const myref = useRef(null);
+	const [open, setOpen] = React.useState(null);
+
+
+	function handleMenu(event) {
+		setOpen(!open);
+	}
+
+	return (
+		<div className={classes.root}>
+			<AppBar position='static'>
+				<Toolbar>
+					<IconButton
+						aria-label="Account of current user"
+						aria-controls="menu-appbar"
+						aria-haspopup="true"
+						onClick={handleMenu}
+						color="inherit"
+						ref={myref}
+					>
+						lkasjfklwerwerwerwerwer
+					</IconButton>
+					<Popper id='simple-pop' open={open} anchorEl={myref.current} transition disablePortal>
+						{({ TransitionProps, placement }) => (
+							<Grow
+								{...TransitionProps}
+								style={{ transformOrigin: placement === 'bottom' ? 'center top' : 'center bottom' }}
+							>
+								<Paper id="menu-list-grow">
+									<ClickAwayListener onClickAway={handleMenu}>
+										<MenuList>
+											<MenuItem onClick={handleMenu}>Profile</MenuItem>
+											<MenuItem onClick={handleMenu}>My account</MenuItem>
+											<MenuItem onClick={handleMenu}>Logout</MenuItem>
+										</MenuList>
+									</ClickAwayListener>
+								</Paper>
+							</Grow>
+						)}
+					</Popper>
+				</Toolbar>
+			</AppBar>
+		</div>
+	)
+}
+```
