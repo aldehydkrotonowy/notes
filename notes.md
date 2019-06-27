@@ -13,6 +13,7 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 - [What is Redux-Saga?](https://engineering.universe.com/what-is-redux-saga-c1252fc2f4d1)
 	- “Contrary to redux thunk, you don’t end up in callback hell, you can test your asynchronous flows easily and your actions stay pure.”
 - [Redux nowadays : From actions creators to sagas](https://riad.blog/2015/12/28/redux-nowadays-from-actions-creators-to-sagas/)
+
 	:u6307: This is one of the simplest thunk action creator we could write with redux
 	```javascript
 	function loadTodos() {
@@ -35,5 +36,7 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 	}
 	```	
 - [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+
 	:u6307: An immutable object is an object that can’t be modified after it’s created. 
+	
 	:u6307: A side effect is any application state change that is observable outside the called function other than its return value.
