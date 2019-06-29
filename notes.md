@@ -75,3 +75,14 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 	take(5, powerSeries(3, 2));
 	// 9 16 25 36 49
 	```
+### Sobota 28.06.2019
+- [What is the meaning of *[Symbol.iterator] in this context](https://stackoverflow.com/questions/36976832/what-is-the-meaning-of-symbol-iterator-in-this-context)
+
+	:u6307: So your code basically means that the iterator of NumbersFromOne is defined as a generator. Instead of manually having to define a function which returns a next and other properties:
+	```javascript
+	var NumbersFromOne = {
+		*[Symbol.iterator] () {
+			for (let i = 1;; ++i) yield i;
+		}
+	};
+	```
