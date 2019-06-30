@@ -83,6 +83,160 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
     var NumbersFromOne = {
         *[Symbol.iterator] () {
             for (let i = 1;; ++i) yield i;
-        }
+      }
     };
-    ```
+  ```
+
+- [A Simple Guide to ES6 Iterators in JavaScript with Examples](https://codeburst.io/a-simple-guide-to-es6-iterators-in-javascript-with-examples-189d052c3d8e)
+
+  :u6307: myFavouriteAuthors iterable
+  ```javascript
+  const myFavouriteAuthors = {
+    allAuthors: {
+      fiction: [
+        'Agatha Christie', 
+        'J. K. Rowling',
+        'Dr. Seuss'
+      ],
+      scienceFiction: [
+        'Neal Stephenson',
+        'Arthur Clarke',
+        'Isaac Asimov', 
+        'Robert Heinlein'
+      ],
+      fantasy: [
+        'J. R. R. Tolkien',
+        'J. K. Rowling',
+        'Terry Pratchett'
+      ],
+    },
+    [Symbol.iterator]() {
+      // Get all the authors in an array
+      const genres = Object.values(this.allAuthors);
+      
+      // Store the current genre and author index
+      let currentAuthorIndex = 0;
+      let currentGenreIndex = 0;
+      
+      return {
+        // Implementation of next()
+        next() {
+          // authors according to current genre index
+          const authors = genres[currentGenreIndex];
+          
+          // doNotHaveMoreAuthors is true when the authors array is exhausted.
+          // That is, all items are consumed.
+          const doNothaveMoreAuthors = !(currentAuthorIndex < authors.length);
+          if (doNothaveMoreAuthors) {
+            // When that happens, we move the genre index to the next genre
+            currentGenreIndex++;
+            // and reset the author index to 0 again to get new set of authors
+            currentAuthorIndex = 0;
+          }
+          
+          // if all genres are over, then we need tell the iterator that we can not give more values.
+          const doNotHaveMoreGenres = !(currentGenreIndex < genres.length);
+          if (doNotHaveMoreGenres) {
+            // Hence, we return done as true.
+            return {
+              value: undefined,
+              done: true
+            };
+          }
+          
+          // if everything is correct, return the author from the current genre and incerement the currentAuthorindex so next time, the next author can be returned.
+          return {
+            value: genres[currentGenreIndex][currentAuthorIndex++],
+            done: false
+          }
+        }
+      };
+    }
+  };
+  ```
+
+### Niedziela 30.06.2019
+
+- [How to use JavaScript Proxies for Fun and Profit](https://medium.com/dailyjs/how-to-use-javascript-proxies-for-fun-and-profit-365579d4a9f8)
+
+  :u6307: example 1
+  ```javascript
+  const { METHODS } = require('http')
+  const api = new Proxy({},
+    {
+      get(target, propKey) {
+        const method = METHODS.find(method => 
+          propKey.startsWith(method.toLowerCase()))
+        if (!method) return
+        const path =
+          '/' +
+          propKey
+            .substring(method.length)
+            .replace(/([a-z])([A-Z])/g, '$1/$2')
+            .replace(/\$/g, '/$/')
+            .toLowerCase()
+        return (...args) => {
+          const finalPath = path.replace(/\$/g, () => args.shift())
+          const queryOrBody = args.shift() || {}
+          // You could use fetch here
+          // return fetch(finalPath, { method, body: queryOrBody })
+          console.log(method, finalPath, queryOrBody)
+        }
+      }
+    }
+  )
+  // GET /
+  api.get()
+  // GET /users
+  api.getUsers()
+  // GET /users/1234/likes
+  api.getUsers$Likes('1234')
+  // GET /users/1234/likes?page=2
+  api.getUsers$Likes('1234', { page: 2 })
+  // POST /items with body
+  api.postItems({ name: 'Item name' })
+  // api.foobar is not a function
+  api.foobar()
+  ```
+
+  :u6307: example 2
+  ```javascript
+  const camelcase = require('camelcase')
+  const prefix = 'findWhere'
+  const assertions = {
+    Equals: (object, value) => object === value,
+    IsNull: (object, value) => object === null,
+    IsUndefined: (object, value) => object === undefined,
+    IsEmpty: (object, value) => object.length === 0,
+    Includes: (object, value) => object.includes(value),
+    IsLowerThan: (object, value) => object === value,
+    IsGreaterThan: (object, value) => object === value
+  }
+  const assertionNames = Object.keys(assertions)
+  const wrap = arr => {
+    return new Proxy(arr, {
+      get(target, propKey) {
+        if (propKey in target) return target[propKey]
+        const assertionName = assertionNames.find(assertion =>
+          propKey.endsWith(assertion))
+        if (propKey.startsWith(prefix)) {
+          const field = camelcase(
+            propKey.substring(prefix.length,
+              propKey.length - assertionName.length)
+          )
+          const assertion = assertions[assertionName]
+          return value => {
+            return target.find(item => assertion(item[field], value))
+          }
+        }
+      }
+    })
+  }
+  const arr = wrap([
+    { name: 'John', age: 23, skills: ['mongodb'] },
+    { name: 'Lily', age: 21, skills: ['redis'] },
+    { name: 'Iris', age: 43, skills: ['python', 'javascript'] }
+  ])
+  console.log(arr.findWhereNameEquals('Lily')) // finds Lily
+  console.log(arr.findWhereSkillsIncludes('javascript')) // finds Iris
+  ```
