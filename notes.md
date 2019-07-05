@@ -240,3 +240,13 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
   console.log(arr.findWhereNameEquals('Lily')) // finds Lily
   console.log(arr.findWhereSkillsIncludes('javascript')) // finds Iris
   ```
+
+ ### Poniedziałek 01.07.2019
+
+ - [A Beginner's Guide to LSTMs and Recurrent Neural Networks](https://skymind.ai/wiki/lstm)
+
+ ### Środa 03.07.2019
+
+ - [Testing in React with Jest and Enzyme: An Introduction](https://medium.com/@rossbulat/testing-in-react-with-jest-and-enzyme-an-introduction-99ce047dfcf8)
+
+ 
