@@ -257,3 +257,5 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
   - If your environment supports arrow methods, you can use them for all methods.
   - Use arrow functions within render. It’s ok. I promise.
   - If performance becomes an issue, check whether arrow functions are causing PureComponent or shouldComponentUpdate to make unnecessary updates.
+
+- [Material UI examples](https://github.com/marmelab/react-admin/blob/master/docs/List.md)
