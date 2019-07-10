@@ -249,4 +249,6 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
  - [Testing in React with Jest and Enzyme: An Introduction](https://medium.com/@rossbulat/testing-in-react-with-jest-and-enzyme-an-introduction-99ce047dfcf8)
 
- 
+ ### Wednesday 10.07.2019
+
+ - [arrow function in render()](https://frontarm.com/james-k-nelson/when-to-use-arrow-functions/)
