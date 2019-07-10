@@ -252,3 +252,8 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
  ### Wednesday 10.07.2019
 
  - [arrow function in render()](https://frontarm.com/james-k-nelson/when-to-use-arrow-functions/)
+
+  :u6307: If you use arrow functions within render, each call to render will create new function objects. If you then pass these functions to child elements via props, optimizations based on PureComponent or shouldComponentUpdate will fail (as the arrow function props will change on every render).
+  - If your environment supports arrow methods, you can use them for all methods.
+  - Use arrow functions within render. It’s ok. I promise.
+  - If performance becomes an issue, check whether arrow functions are causing PureComponent or shouldComponentUpdate to make unnecessary updates.
