@@ -249,6 +249,7 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
  - [Testing in React with Jest and Enzyme: An Introduction](https://medium.com/@rossbulat/testing-in-react-with-jest-and-enzyme-an-introduction-99ce047dfcf8)
 
+<<<<<<< HEAD
  ### Monday 08.072019
 
 - [what is backing instance](https://stackoverflow.com/questions/37750207/what-is-a-backing-instance-in-react)
@@ -256,3 +257,15 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
   :u6307: A backing instance is the object in memory which represents the node. This is where things like the state are usually stored.  
 
 - [React: Inheritance vs Composition](https://pl.reactjs.org/docs/composition-vs-inheritance.html)
+=======
+ ### Wednesday 10.07.2019
+
+ - [arrow function in render()](https://frontarm.com/james-k-nelson/when-to-use-arrow-functions/)
+
+  :u6307: If you use arrow functions within render, each call to render will create new function objects. If you then pass these functions to child elements via props, optimizations based on PureComponent or shouldComponentUpdate will fail (as the arrow function props will change on every render).
+  - If your environment supports arrow methods, you can use them for all methods.
+  - Use arrow functions within render. It’s ok. I promise.
+  - If performance becomes an issue, check whether arrow functions are causing PureComponent or shouldComponentUpdate to make unnecessary updates.
+
+- [Material UI examples](https://github.com/marmelab/react-admin/blob/master/docs/List.md)
+>>>>>>> 7a8d95f1560ae64754c96af2476b9d9d61ee7f88
