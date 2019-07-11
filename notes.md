@@ -249,4 +249,10 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
  - [Testing in React with Jest and Enzyme: An Introduction](https://medium.com/@rossbulat/testing-in-react-with-jest-and-enzyme-an-introduction-99ce047dfcf8)
 
- 
+ ### Monday 08.072019
+
+- [what is backing instance](https://stackoverflow.com/questions/37750207/what-is-a-backing-instance-in-react)
+
+  :u6307: A backing instance is the object in memory which represents the node. This is where things like the state are usually stored.  
+
+- [React: Inheritance vs Composition](https://pl.reactjs.org/docs/composition-vs-inheritance.html)
