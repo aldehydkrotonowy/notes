@@ -259,3 +259,6 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
   - If performance becomes an issue, check whether arrow functions are causing PureComponent or shouldComponentUpdate to make unnecessary updates.
 
 - [Material UI examples](https://github.com/marmelab/react-admin/blob/master/docs/List.md)
+
+### Saturday 13.07.2019
+- [An Introduction to Stencil.js](https://medium.com/dailyjs/an-introduction-into-stencil-js-a08e41e2102)
