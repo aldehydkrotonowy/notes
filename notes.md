@@ -249,7 +249,6 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
  - [Testing in React with Jest and Enzyme: An Introduction](https://medium.com/@rossbulat/testing-in-react-with-jest-and-enzyme-an-introduction-99ce047dfcf8)
 
-<<<<<<< HEAD
  ### Sunday 07.07.2019
 
 - [Checking for Keyboard Events in JavaScript with Cross-Browser Support](https://medium.com/@uistephen/keyboardevent-key-for-cross-browser-key-press-check-61dbad0a067a)
@@ -289,7 +288,6 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
         <p id="p1" draggable ondragstart="dragstart_handler(event)">This element is draggable.</p>
     ```
-=======
  ### Monday 08.072019
 
 - [what is backing instance](https://stackoverflow.com/questions/37750207/what-is-a-backing-instance-in-react)
@@ -313,4 +311,9 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
   #### Stencil.js
 - [An Introduction to Stencil.js](https://medium.com/dailyjs/an-introduction-into-stencil-js-a08e41e2102)
 - [Web Components with Stencil.js](https://medium.com/mug/web-components-with-stencil-js-is-it-the-best-way-to-create-reusable-ui-elements-in-2018-7916e8f973e8)
->>>>>>> 36bb2c8e54a5bd7a761cedf5ecbadf5382469677
+
+### Sunday 14.07.2019
+
+	#### RegExp DoS
+- [Atak DoS na aplikacje – przez wyrażenia regularne](https://sekurak.pl/atak-dos-na-aplikacje-przez-wyrazenia-regularne/)
+- [(.*.*=.*) - Cloudflare prombems and nice analysis](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
