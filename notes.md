@@ -274,8 +274,9 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 - [HTML Global atribbutes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey)
 
     :u6307: tabindex, accesskey
-
+--------------------------------------------------------------------------------------------------------------------
 - [HTML Drag and Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
+- [Drag Operations](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API/Drag_operations#dragdata)
     Making an element draggable requires adding the draggable attribute and the ondragstart global event handler, as shown in the following code sample:
     ```html
         <script>
