@@ -21,3 +21,16 @@ vi{ (or viB) - Select the body of a function:
 vis - Select a whole sentence:
 vip - Select a whole paragraph:
 For even more, see :help motion.txt.
+
+# VScode
+
+### fold
+-fold
+	Ctrl + Shift + [
+-unfold
+	Ctrl + Shift + ]
+
+--fold all
+	Ctrl + K, Ctrl + 0
+unfold all
+	Ctrl + K, Ctrl + J
