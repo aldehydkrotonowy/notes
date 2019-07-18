@@ -311,13 +311,11 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
   #### Stencil.js
 - [An Introduction to Stencil.js](https://medium.com/dailyjs/an-introduction-into-stencil-js-a08e41e2102)
 - [Web Components with Stencil.js](https://medium.com/mug/web-components-with-stencil-js-is-it-the-best-way-to-create-reusable-ui-elements-in-2018-7916e8f973e8)
-<<<<<<< HEAD
 - [Custom elements API](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
-=======
+
 
 ### Sunday 14.07.2019
 
 	#### RegExp DoS
 - [Atak DoS na aplikacje – przez wyrażenia regularne](https://sekurak.pl/atak-dos-na-aplikacje-przez-wyrazenia-regularne/)
 - [(.*.*=.*) - Cloudflare prombems and nice analysis](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
->>>>>>> 6dc9a6f93c3262b74d6f454f8b5d214b05f55255
