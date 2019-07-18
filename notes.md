@@ -272,3 +272,4 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
   #### Stencil.js
 - [An Introduction to Stencil.js](https://medium.com/dailyjs/an-introduction-into-stencil-js-a08e41e2102)
 - [Web Components with Stencil.js](https://medium.com/mug/web-components-with-stencil-js-is-it-the-best-way-to-create-reusable-ui-elements-in-2018-7916e8f973e8)
+- [Custom elements API](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
