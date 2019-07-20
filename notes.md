@@ -319,3 +319,8 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 	#### RegExp DoS
 - [Atak DoS na aplikacje – przez wyrażenia regularne](https://sekurak.pl/atak-dos-na-aplikacje-przez-wyrazenia-regularne/)
 - [(.*.*=.*) - Cloudflare prombems and nice analysis](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
+
+### Sunday 20.08.2019
+
+  #### functional porgraming
+- [Thinking Ramda](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/);
