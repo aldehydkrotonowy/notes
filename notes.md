@@ -304,7 +304,7 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
   - Use arrow functions within render. It’s ok. I promise.
   - If performance becomes an issue, check whether arrow functions are causing PureComponent or shouldComponentUpdate to make unnecessary updates.
 
-- [Material UI examples](https://github.com/marmelab/react-admin/blob/master/docs/List.md)
+- :green_heart: [Material UI examples](https://github.com/marmelab/react-admin/blob/master/docs/List.md)
 
 ### Saturday 13.07.2019
 
