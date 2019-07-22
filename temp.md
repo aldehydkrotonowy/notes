@@ -22,5 +22,34 @@ Helpfull therm used in talkin about BNF:
 
 **Nonterminal Symbols**: anything that is defined on the left-side of some production.
 
+--------------
+
+https://www.youtube.com/watch?v=NO2DaxhoWHk
 
 
+eslint prettier eslint-config-airbnb eslint-config-prettier eslint-plugin-prettier eslint-plugin-react eslint-plugin-import eslint-plugin-jsx-a11y
+
+{
+	"extends": ["airbnb", "prettier", "prettier/react"],
+	"plugins": ["prettier"]
+	"parser": "babel-eslint",
+	"parserOptions":{
+		"ecmaVersion": 2016,
+		"sourceType": "module"
+		ecmaFeatures: {
+			"jsx":true
+		}
+	}
+	"env":{
+		"es6":true,
+		"browser":true,
+		"node":true
+	},
+	"rules": {
+		"react/jsx-filename-extension": [1, { "exte...tutaj zaslonięte przez prowadzącego
+	}
+}
+
+
+
+https://github.com/ramazanguclu/Create-React-App-Airbnb-Eslint-Integration

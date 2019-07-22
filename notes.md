@@ -1,6 +1,6 @@
 Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501) about **IndexedDB**, an alternative to Cookies and DOM storate (term commonly that identifies **local storage** and **session storage**).
 
-### Czwartek 27.06.2019
+### Thursday 27.06.2019
 
 - [Losing .bind(this) in React](https://medium.com/@nikolalsvk/loosing-bind-this-in-react-8637ebf372cf)
 
@@ -42,7 +42,7 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
     :u6307: A side effect is any application state change that is observable outside the called function other than its return value.
 
-### Piątek 28.06.2019
+### Friday 28.06.2019
 
 - [What is the difference between visibility:hidden and display:none?](https://stackoverflow.com/questions/133051/what-is-the-difference-between-visibilityhidden-and-displaynone)
 
@@ -75,7 +75,7 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
     take(5, powerSeries(3, 2));
     // 9 16 25 36 49
     ```
-### Sobota 28.06.2019
+### Saturday 28.06.2019
 - [What is the meaning of *[Symbol.iterator] in this context](https://stackoverflow.com/questions/36976832/what-is-the-meaning-of-symbol-iterator-in-this-context)
 
     :u6307: So your code basically means that the iterator of NumbersFromOne is defined as a generator. Instead of manually having to define a function which returns a next and other properties:
@@ -155,7 +155,7 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
   };
   ```
 
-### Niedziela 30.06.2019
+### Sunday 30.06.2019
 
 - [How to use JavaScript Proxies for Fun and Profit](https://medium.com/dailyjs/how-to-use-javascript-proxies-for-fun-and-profit-365579d4a9f8)
 
@@ -241,14 +241,53 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
   console.log(arr.findWhereSkillsIncludes('javascript')) // finds Iris
   ```
 
- ### Poniedziałek 01.07.2019
+ ### Monday 01.07.2019
 
  - [A Beginner's Guide to LSTMs and Recurrent Neural Networks](https://skymind.ai/wiki/lstm)
 
- ### Środa 03.07.2019
+ ### Wednesday 03.07.2019
 
  - [Testing in React with Jest and Enzyme: An Introduction](https://medium.com/@rossbulat/testing-in-react-with-jest-and-enzyme-an-introduction-99ce047dfcf8)
 
+ ### Sunday 07.07.2019
+
+- [Checking for Keyboard Events in JavaScript with Cross-Browser Support](https://medium.com/@uistephen/keyboardevent-key-for-cross-browser-key-press-check-61dbad0a067a)
+
+    :u6307: Prefer the use of document over window when adding event listeners.
+    :u6307: calling **preventDefault** on the event elsewhere would have prevented the event from reaching this function.
+
+    ```javascript
+    <script>
+    document.addEventListener('keyup', function (event) {
+        if (event.defaultPrevented) {
+            <!-- Inside the add listener function, let’s determine if we should be seeing this event at all. If another event handler has already captured this event and prevented its default behavior, we don’t want to do anything with it, probably. To be honest, I was surprised to see this recommended. I would have expected that calling preventDefault on the event elsewhere would have prevented the event from reaching this function. I’m curious if anyone knows for sure what the behavior is and how necessary it is to include this. Since it doesn’t hurt anything, I’m including it anyway. -->
+            return;
+        }
+        let key = event.key || event.keyCode;
+        if (key === 'Escape' || key === 'Esc' || key === 27) {
+            doWhateverYouWantNowThatYourKeyWasHit();
+        }
+    });
+    </script>
+    ```
+
+- [HTML Global atribbutes](https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/accesskey)
+
+    :u6307: tabindex, accesskey
+--------------------------------------------------------------------------------------------------------------------
+- [HTML Drag and Drop API](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API)
+- [Drag Operations](https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_Drop_API/Drag_operations#dragdata)
+    Making an element draggable requires adding the draggable attribute and the ondragstart global event handler, as shown in the following code sample:
+    ```html
+        <script>
+        function dragstart_handler(ev) {
+        // Add the target element's id to the data transfer object
+        ev.dataTransfer.setData("text/plain", ev.target.innerText);
+        }
+        </script>
+
+        <p id="p1" draggable ondragstart="dragstart_handler(event)">This element is draggable.</p>
+    ```
  ### Monday 08.072019
 
 - [what is backing instance](https://stackoverflow.com/questions/37750207/what-is-a-backing-instance-in-react)
@@ -265,4 +304,23 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
   - Use arrow functions within render. It’s ok. I promise.
   - If performance becomes an issue, check whether arrow functions are causing PureComponent or shouldComponentUpdate to make unnecessary updates.
 
-- [Material UI examples](https://github.com/marmelab/react-admin/blob/master/docs/List.md)
+- :green_heart: [Material UI examples](https://github.com/marmelab/react-admin/blob/master/docs/List.md)
+
+### Saturday 13.07.2019
+
+  #### Stencil.js
+- [An Introduction to Stencil.js](https://medium.com/dailyjs/an-introduction-into-stencil-js-a08e41e2102)
+- [Web Components with Stencil.js](https://medium.com/mug/web-components-with-stencil-js-is-it-the-best-way-to-create-reusable-ui-elements-in-2018-7916e8f973e8)
+- [Custom elements API](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
+
+
+### Sunday 14.07.2019
+
+	#### RegExp DoS
+- [Atak DoS na aplikacje – przez wyrażenia regularne](https://sekurak.pl/atak-dos-na-aplikacje-przez-wyrazenia-regularne/)
+- [(.*.*=.*) - Cloudflare prombems and nice analysis](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
+
+### Sunday 20.08.2019
+
+  #### functional porgraming
+- [Thinking Ramda](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/);
