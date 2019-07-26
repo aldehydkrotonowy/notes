@@ -320,7 +320,16 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 - [Atak DoS na aplikacje – przez wyrażenia regularne](https://sekurak.pl/atak-dos-na-aplikacje-przez-wyrazenia-regularne/)
 - [(.*.*=.*) - Cloudflare prombems and nice analysis](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
 
-### Sunday 20.08.2019
+### Sunday 20.07.2019
 
   #### functional porgraming
 - [Thinking Ramda](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/);
+
+### Friday 26.07.2019
+
+  ##### JS and C++
+- [JavaScript ♥ C++](https://medium.com/netscape/javascript-c-modern-ways-to-use-c-in-javascript-projects-a19003c5a9ff)
+- [JavaScript ♥ C++ - git repo](https://github.com/zandaqo/iswasmfast/blob/master/lib/levenstein.cpp)
+
+  :u6307: The classic Node.js C++ Addon API exposes the underlying components of Node.js such as V8 and libuv which makes it powerful yet fragile since changes in the components can break the addons relying on them. Developers have to recompile and often update their C++ addons with every new version of Node.js. To solve this and other issues, Node.js is introducing new N-API that is independent from the underlying JavaScript runtime (e.g. V8) and promises a stable binary interface (ABI) across Node.js versions.
+- [Pragmatic compiling of C++ to WebAssembly. A Guide.](https://medium.com/@tdeniffel/pragmatic-compiling-from-c-to-webassembly-a-guide-a496cc5954b8)
