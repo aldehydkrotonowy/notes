@@ -53,3 +53,84 @@ eslint prettier eslint-config-airbnb eslint-config-prettier eslint-plugin-pretti
 
 
 https://github.com/ramazanguclu/Create-React-App-Airbnb-Eslint-Integration
+
+
+
+npm install --save-dev eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
+npm install --save-dev prettier eslint-config-prettier eslint-plugin-prettier
+
+vscode setup
+"prettier.eslintIntegration": true,
+
+
+
+
+
+  "url"			no filter
+  "style"		style
+  "color"		color
+  "order"		entityFrom,entityTo,entityValue
+  "orderType",  	orderTypes
+  "orderStatus",	orderStatuses
+  "fashionLevel",  	fashionLevels
+  "collectionName",	collectionName
+  "season",		season
+  "intake",		intakes
+  "subclass",		subclasses
+  "supplier",		supplierName
+  "line",		lines
+  "productType",	productTypes
+  "vpn",		vpns
+  "transportType", 	transportTypes
+  "incoterms",		incoterms
+  "packagingType",	packingTypes
+  "agentName",		agent
+  "buyerName",		buyer
+  "modelName",		modelName
+  "pickupDate",		pickupDateEndWeek
+			pickupDateFormat
+			pickupDateFrom
+			pickupDateStartWeek
+			pickupDateTo
+			pickupDateValue
+  "plannedDeliveryDate",plannedDeliveryDateEndWeek
+			plannedDeliveryDateFormat
+			plannedDeliveryDateFrom
+			plannedDeliveryDateStartWeek
+			plannedDeliveryDateTo
+			plannedDeliveryDateValue
+  "actualDeliveryDate",	actualDeliveryDateEndWeek
+			actualDeliveryDateFormat
+			actualDeliveryDateFrom
+			actualDeliveryDateStartWeek
+			actualDeliveryDateTo
+			actualDeliveryDateValue
+  "plannedDeliveryWeek",plannedDeliveryWeekFrom
+			plannedDeliveryWeekTo
+			plannedDeliveryWeekValue
+  "costPrice",		costPriceFrom
+			costPriceTo
+			costPriceValue
+  "sc",
+  "pricePoint",		pricePoints
+  "imuPercentPln",	imuFrom
+			imuTo
+			imuValue
+  "orderQty"		no filter
+
+
+
+
+
+
+
+  kolumny bez filtrów:
+	season -> brak na confluence
+	quantity qty -> nie ma filtrów
+	supplier name - na razie nie działa endpoint
+
+brak słowników do 
+	model name --> model name jest zlepkiem style i ....?
+	style - brak endpointu, podobno dużo wpisów
+	collection - brak endpointu
+
