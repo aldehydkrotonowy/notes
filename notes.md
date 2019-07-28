@@ -340,3 +340,7 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 - [How to fight the &lt;body&gt; scroll](https://medium.com/react-camp/how-to-fight-the-body-scroll-2b00267b37ac)
 - [Using "window" the React Way with react-fns](https://alligator.io/react/declarative-html5-apis-react-fns/)
 - [:cyclone: React - SyntheticEvent](https://reactjs.org/docs/events.html#ui-event)
+
+##### React hooks
+- [:cyclone: awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
+- [:cyclone: usehooks.com](https://usehooks.com/)
