@@ -316,18 +316,18 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
 ### Sunday 14.07.2019
 
-	#### RegExp DoS
+#### RegExp DoS
 - [Atak DoS na aplikacje – przez wyrażenia regularne](https://sekurak.pl/atak-dos-na-aplikacje-przez-wyrazenia-regularne/)
 - [(.*.*=.*) - Cloudflare prombems and nice analysis](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
 
 ### Sunday 20.07.2019
 
-  #### functional porgraming
+#### functional porgraming
 - [Thinking Ramda](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/);
 
 ### Friday 26.07.2019
 
-  ##### JS and C++
+##### JS and C++
 - [JavaScript ♥ C++](https://medium.com/netscape/javascript-c-modern-ways-to-use-c-in-javascript-projects-a19003c5a9ff)
 - [JavaScript ♥ C++ - git repo](https://github.com/zandaqo/iswasmfast/blob/master/lib/levenstein.cpp)
 
@@ -336,5 +336,5 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
 ### Saturday 28.07.19
 
-	##### Scrollbars problems
+##### Scrollbars problems
 - [How to fight the <body> scroll](https://medium.com/react-camp/how-to-fight-the-body-scroll-2b00267b37ac)
