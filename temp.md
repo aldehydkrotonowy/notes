@@ -22,29 +22,7 @@ Helpfull therm used in talkin about BNF:
 
 **Nonterminal Symbols**: anything that is defined on the left-side of some production.
 
-# Vim
-
-### select
-v0 - Select from cursor to first column of the line:
-v^ - Select from cursor to first printable character of the line:
-v$ - Select from cursor to end of the line:
-ve - Select from cursor to end of the word:
-vb - Select from cursor to beginning of the word:
-vf( - Select from cursor to the next opening parenthesis on the line (inclusive):
-vT" - Select from cursor to the previous double quote on the line (exclusive):
-v/foo<CR> - Select from cursor to the next occurence of foo in the buffer (always exclusive):
-v?bar<CR> - Select from cursor to previous occurence of bar in the buffer (always exclusive):
-viw - Select the whole word under cursor:
-vi( (or vib) - Select everything between a pair of parenthesis:
-vi{ (or viB) - Select the body of a function:
-vis - Select a whole sentence:
-vip - Select a whole paragraph:
-For even more, see :help motion.txt.
-
-
-
-
-
+--------------
 
 https://www.youtube.com/watch?v=NO2DaxhoWHk
 
@@ -75,3 +53,84 @@ eslint prettier eslint-config-airbnb eslint-config-prettier eslint-plugin-pretti
 
 
 https://github.com/ramazanguclu/Create-React-App-Airbnb-Eslint-Integration
+
+
+
+npm install --save-dev eslint-config-airbnb eslint-plugin-import eslint-plugin-react eslint-plugin-jsx-a11y
+npm install --save-dev prettier eslint-config-prettier eslint-plugin-prettier
+
+vscode setup
+"prettier.eslintIntegration": true,
+
+
+
+
+
+  "url"			no filter
+  "style"		style
+  "color"		color
+  "order"		entityFrom,entityTo,entityValue
+  "orderType",  	orderTypes
+  "orderStatus",	orderStatuses
+  "fashionLevel",  	fashionLevels
+  "collectionName",	collectionName
+  "season",		season
+  "intake",		intakes
+  "subclass",		subclasses
+  "supplier",		supplierName
+  "line",		lines
+  "productType",	productTypes
+  "vpn",		vpns
+  "transportType", 	transportTypes
+  "incoterms",		incoterms
+  "packagingType",	packingTypes
+  "agentName",		agent
+  "buyerName",		buyer
+  "modelName",		modelName
+  "pickupDate",		pickupDateEndWeek
+			pickupDateFormat
+			pickupDateFrom
+			pickupDateStartWeek
+			pickupDateTo
+			pickupDateValue
+  "plannedDeliveryDate",plannedDeliveryDateEndWeek
+			plannedDeliveryDateFormat
+			plannedDeliveryDateFrom
+			plannedDeliveryDateStartWeek
+			plannedDeliveryDateTo
+			plannedDeliveryDateValue
+  "actualDeliveryDate",	actualDeliveryDateEndWeek
+			actualDeliveryDateFormat
+			actualDeliveryDateFrom
+			actualDeliveryDateStartWeek
+			actualDeliveryDateTo
+			actualDeliveryDateValue
+  "plannedDeliveryWeek",plannedDeliveryWeekFrom
+			plannedDeliveryWeekTo
+			plannedDeliveryWeekValue
+  "costPrice",		costPriceFrom
+			costPriceTo
+			costPriceValue
+  "sc",
+  "pricePoint",		pricePoints
+  "imuPercentPln",	imuFrom
+			imuTo
+			imuValue
+  "orderQty"		no filter
+
+
+
+
+
+
+
+  kolumny bez filtrów:
+	season -> brak na confluence
+	quantity qty -> nie ma filtrów
+	supplier name - na razie nie działa endpoint
+
+brak słowników do 
+	model name --> model name jest zlepkiem style i ....?
+	style - brak endpointu, podobno dużo wpisów
+	collection - brak endpointu
+
