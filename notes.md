@@ -333,3 +333,8 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
   :u6307: The classic Node.js C++ Addon API exposes the underlying components of Node.js such as V8 and libuv which makes it powerful yet fragile since changes in the components can break the addons relying on them. Developers have to recompile and often update their C++ addons with every new version of Node.js. To solve this and other issues, Node.js is introducing new N-API that is independent from the underlying JavaScript runtime (e.g. V8) and promises a stable binary interface (ABI) across Node.js versions.
 - [Pragmatic compiling of C++ to WebAssembly. A Guide.](https://medium.com/@tdeniffel/pragmatic-compiling-from-c-to-webassembly-a-guide-a496cc5954b8)
+
+### Saturday 28.07.19
+
+	##### Scrollbars problems
+- [How to fight the <body> scroll](https://medium.com/react-camp/how-to-fight-the-body-scroll-2b00267b37ac)
