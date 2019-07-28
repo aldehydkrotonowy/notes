@@ -308,7 +308,7 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
 ### Saturday 13.07.2019
 
-  #### Stencil.js
+##### Stencil.js
 - [An Introduction to Stencil.js](https://medium.com/dailyjs/an-introduction-into-stencil-js-a08e41e2102)
 - [Web Components with Stencil.js](https://medium.com/mug/web-components-with-stencil-js-is-it-the-best-way-to-create-reusable-ui-elements-in-2018-7916e8f973e8)
 - [Custom elements API](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
@@ -316,13 +316,13 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
 ### Sunday 14.07.2019
 
-#### RegExp DoS
+##### RegExp DoS
 - [Atak DoS na aplikacje – przez wyrażenia regularne](https://sekurak.pl/atak-dos-na-aplikacje-przez-wyrazenia-regularne/)
 - [(.*.*=.*) - Cloudflare prombems and nice analysis](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
 
 ### Sunday 20.07.2019
 
-#### functional porgraming
+##### functional porgraming
 - [Thinking Ramda](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/);
 
 ### Friday 26.07.2019
