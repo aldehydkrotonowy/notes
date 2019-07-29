@@ -308,7 +308,7 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
 ### Saturday 13.07.2019
 
-  #### Stencil.js
+##### Stencil.js
 - [An Introduction to Stencil.js](https://medium.com/dailyjs/an-introduction-into-stencil-js-a08e41e2102)
 - [Web Components with Stencil.js](https://medium.com/mug/web-components-with-stencil-js-is-it-the-best-way-to-create-reusable-ui-elements-in-2018-7916e8f973e8)
 - [Custom elements API](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_custom_elements)
@@ -316,20 +316,31 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
 ### Sunday 14.07.2019
 
-	#### RegExp DoS
+##### RegExp DoS
 - [Atak DoS na aplikacje – przez wyrażenia regularne](https://sekurak.pl/atak-dos-na-aplikacje-przez-wyrazenia-regularne/)
 - [(.*.*=.*) - Cloudflare prombems and nice analysis](https://blog.cloudflare.com/details-of-the-cloudflare-outage-on-july-2-2019/)
 
 ### Sunday 20.07.2019
 
-  #### functional porgraming
+##### functional porgraming
 - [Thinking Ramda](http://randycoulman.com/blog/2016/05/24/thinking-in-ramda-getting-started/);
 
 ### Friday 26.07.2019
 
-  ##### JS and C++
+##### JS and C++
 - [JavaScript ♥ C++](https://medium.com/netscape/javascript-c-modern-ways-to-use-c-in-javascript-projects-a19003c5a9ff)
 - [JavaScript ♥ C++ - git repo](https://github.com/zandaqo/iswasmfast/blob/master/lib/levenstein.cpp)
 
   :u6307: The classic Node.js C++ Addon API exposes the underlying components of Node.js such as V8 and libuv which makes it powerful yet fragile since changes in the components can break the addons relying on them. Developers have to recompile and often update their C++ addons with every new version of Node.js. To solve this and other issues, Node.js is introducing new N-API that is independent from the underlying JavaScript runtime (e.g. V8) and promises a stable binary interface (ABI) across Node.js versions.
 - [Pragmatic compiling of C++ to WebAssembly. A Guide.](https://medium.com/@tdeniffel/pragmatic-compiling-from-c-to-webassembly-a-guide-a496cc5954b8)
+
+### Saturday 28.07.19
+
+##### Scrollbars problems
+- [How to fight the &lt;body&gt; scroll](https://medium.com/react-camp/how-to-fight-the-body-scroll-2b00267b37ac)
+- [Using "window" the React Way with react-fns](https://alligator.io/react/declarative-html5-apis-react-fns/)
+- [:cyclone: React - SyntheticEvent](https://reactjs.org/docs/events.html#ui-event)
+
+##### React hooks
+- [:cyclone: awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
+- [:cyclone: usehooks.com](https://usehooks.com/)
