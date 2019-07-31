@@ -356,3 +356,30 @@ export default function Navbar() {
 	)
 }
 ```
+
+
+### React custom routes with props
+```javascript
+import React from 'react';
+import { Route } from 'react-router';
+
+export const PropsRoute = ({ component: Component, ...props }) => (
+  <Route
+    { ...props }
+    render={ renderProps => (<Component { ...renderProps } { ...props } />) }
+  />
+);
+
+export default PropsRoute;
+```
+usage: (notice to get the route params (match.params) you can just use this component and those will be passed for you)
+```javascript
+import React from 'react';
+import PropsRoute from 'src/components/routes/props-route';
+
+export const someComponent = props => (<PropsRoute component={ Profile } />);
+```
+also notice that you could pass whatever extra props you want this way too
+```javascript
+<PropsRoute isFetching={ isFetchingProfile } title="User Profile" component={ Profile } />
+```
