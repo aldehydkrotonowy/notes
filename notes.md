@@ -344,3 +344,10 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 ##### React hooks
 - [:cyclone: awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks)
 - [:cyclone: usehooks.com](https://usehooks.com/)
+
+### Wednesday 31.07.19
+- [Demystifying Entropy](https://medium.com/activating-robotic-minds/demystifying-entropy-f2c3221e2550)
+
+	:u6307: If entropy is high (encoding size is big on average), it means we have many message types with small probabilities. Hence, every time a new message arrives, you’d expect a different type than previous messages. You may see it as a disorder or uncertainty or unpredictability.
+
+- [Coding Neural Network — Forward Propagation and Backpropagtion](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76)
