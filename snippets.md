@@ -359,6 +359,7 @@ export default function Navbar() {
 
 
 ### React custom routes with props
+-[source](https://stackoverflow.com/questions/42253277/react-router-v4-how-to-get-current-route)
 ```javascript
 import React from 'react';
 import { Route } from 'react-router';
