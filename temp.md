@@ -134,3 +134,13 @@ brak słowników do
 	style - brak endpointu, podobno dużo wpisów
 	collection - brak endpointu
 
+
+
+### tatry
+- noclegi interesujące lokacje
+- [baza górołaza](https://www.noclegowo.pl/zakopane/1918-baza-gorolaza-tanie-noclegi/)
+
+- noclegi serwisy
+- [nocowanie.pl](https://www.nocowanie.pl/?command=search_location&region=22&q=Tatry&geo=1&miejsca=1&miejsca_dorosli=1&cena%5Bdo%5D=70&odleglosc%5Bdo%5D=3&kat%5B%5D=3&opinie=0&sortuj=)
+- [pokoje](https://noclegi.pl/pokoje-goscinne-ula-i-jarek-gazda-zakopane?adults=1&rooms=1&checkin=2019-08-12&checkout=2019-08-13)
+- [noclegowo](https://www.noclegowo.pl/noclegi/tatry-i-podhale/kwatery-prywatne/?date_from=2019-08-12&date_to=2019-08-17&nb_adults=1&p=4&pmax=80)
