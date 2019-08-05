@@ -138,9 +138,12 @@ brak słowników do
 
 ### tatry
 - noclegi interesujące lokacje
-- [baza górołaza](https://www.noclegowo.pl/zakopane/1918-baza-gorolaza-tanie-noclegi/)
+	- [baza górołaza](https://www.noclegowo.pl/zakopane/1918-baza-gorolaza-tanie-noclegi/)
 
 - noclegi serwisy
-- [nocowanie.pl](https://www.nocowanie.pl/?command=search_location&region=22&q=Tatry&geo=1&miejsca=1&miejsca_dorosli=1&cena%5Bdo%5D=70&odleglosc%5Bdo%5D=3&kat%5B%5D=3&opinie=0&sortuj=)
-- [pokoje](https://noclegi.pl/pokoje-goscinne-ula-i-jarek-gazda-zakopane?adults=1&rooms=1&checkin=2019-08-12&checkout=2019-08-13)
-- [noclegowo](https://www.noclegowo.pl/noclegi/tatry-i-podhale/kwatery-prywatne/?date_from=2019-08-12&date_to=2019-08-17&nb_adults=1&p=4&pmax=80)
+	- [nocowanie.pl](https://www.nocowanie.pl/?command=search_location&region=22&q=Tatry&geo=1&miejsca=1&miejsca_dorosli=1&cena%5Bdo%5D=70&odleglosc%5Bdo%5D=3&kat%5B%5D=3&opinie=0&sortuj=)
+	- [pokoje](https://noclegi.pl/pokoje-goscinne-ula-i-jarek-gazda-zakopane?adults=1&rooms=1&checkin=2019-08-12&checkout=2019-08-13)
+	- [noclegowo](https://www.noclegowo.pl/noclegi/tatry-i-podhale/kwatery-prywatne/?date_from=2019-08-12&date_to=2019-08-17&nb_adults=1&p=4&pmax=80)
+
+- trasy
+	- [na rysy z baza górołaza](https://www.google.com/maps/dir/Kapliczka+Korni%C5%82owicz%C3%B3w/Rysy/@49.2247803,20.0639584,36451m/data=!3m1!1e3!4m15!4m14!1m5!1m1!1s0x4715f2ddd7bf2863:0xb7f57a2446e5602d!2m2!1d19.9809119!2d49.2844841!1m5!1m1!1s0x47158a72b396cebf:0xacf301744371f702!2m2!1d20.088064!2d49.179548!3e2!5i1)
