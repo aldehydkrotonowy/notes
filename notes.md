@@ -351,3 +351,8 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 	:u6307: If entropy is high (encoding size is big on average), it means we have many message types with small probabilities. Hence, every time a new message arrives, you’d expect a different type than previous messages. You may see it as a disorder or uncertainty or unpredictability.
 
 - [Coding Neural Network — Forward Propagation and Backpropagtion](https://towardsdatascience.com/coding-neural-network-forward-propagation-and-backpropagtion-ccf8cf369f76)
+
+### Wednesday 06.08.19
+
+- [What is Flutter](https://medium.com/@leancode/czym-jest-flutter-i-dlaczego-warto-si%C4%99-nim-zainteresowa%C4%87-7b6a11d41e67)
+- [Flutter vs React Nativ](https://www.thedroidsonroids.com/blog/flutter-vs-react-native-what-to-choose-in-2019)
