@@ -35,7 +35,8 @@
 	- [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 	- [#1 McCulloch-Pits neuron model](https://towardsdatascience.com/mcculloch-pitts-model-5fdf65ac5dd1)
 	- [#2 Perceptron Learning Algorithm](https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975) - what is OR,XOR problem
-	- []()
+	- [The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1)
+		- [repository](https://github.com/khanhnamle1994/deep-learning)
 - NN loss functions
 	- [Loss Functions in Neural Networks](https://isaacchanghau.github.io/post/loss_functions/)
 	- [CS/CNS/EE 253: Advanced Topics in Machine Learning](http://courses.cms.caltech.edu/cs253/)
@@ -45,3 +46,5 @@
 	- [A Gallery of Large Graphs - might be useful someday](http://yifanhu.net/GALLERY/GRAPHS/index39.html)
 - datasets
 	- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
+- GitHub repository
+	

@@ -356,3 +356,10 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 
 - [What is Flutter](https://medium.com/@leancode/czym-jest-flutter-i-dlaczego-warto-si%C4%99-nim-zainteresowa%C4%87-7b6a11d41e67)
 - [Flutter vs React Nativ](https://www.thedroidsonroids.com/blog/flutter-vs-react-native-what-to-choose-in-2019)
+
+### Sunday 11.08.19
+- [The 5 Clustering Algorithms Data Scientists Need to Know](https://towardsdatascience.com/the-5-clustering-algorithms-data-scientists-need-to-know-a36d136ef68)
+
+### Thursday 15.08.19
+
+- [No, Machine Learning is not just glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3)
