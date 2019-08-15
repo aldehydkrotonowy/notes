@@ -1,4 +1,4 @@
-Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501) about **IndexedDB**, an alternative to Cookies and DOM storate (term commonly that identifies **local storage** and **session storage**).
+:fallen_leaf: - duplicated in other files
 
 ### Thursday 27.06.2019
 
@@ -363,3 +363,5 @@ Today I have [readed](https://medium.freecodecamp.org/a-quick-but-complete-guide
 ### Thursday 15.08.19
 
 - [No, Machine Learning is not just glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3)
+- [The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1) - :fallen_leaf: ml
+
