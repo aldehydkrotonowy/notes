@@ -37,6 +37,9 @@
 	- [#2 Perceptron Learning Algorithm](https://towardsdatascience.com/perceptron-learning-algorithm-d5db0deab975) - what is OR,XOR problem
 	- :fallen_leaf:[The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1)
 		- [repository](https://github.com/khanhnamle1994/deep-learning)
+	- [A 'Brief' History of Neural Nets and Deep Learning](http://www.andreykurenkov.com/writing/ai/a-brief-history-of-neural-nets-and-deep-learning/)
+	- [Coding Neural Network — Parameters’ Initialization](https://towardsdatascience.com/coding-neural-network-parameters-initialization-f7c2d770e874)
+	- [Module 1: Neural Networks](http://cs231n.github.io/) - Stanford CS class
 - NN loss functions
 	- [Loss Functions in Neural Networks](https://isaacchanghau.github.io/post/loss_functions/)
 	- [CS/CNS/EE 253: Advanced Topics in Machine Learning](http://courses.cms.caltech.edu/cs253/)

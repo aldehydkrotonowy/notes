@@ -365,3 +365,15 @@
 - [No, Machine Learning is not just glorified Statistics](https://towardsdatascience.com/no-machine-learning-is-not-just-glorified-statistics-26d3952234e3)
 - [The 10 Deep Learning Methods AI Practitioners Need to Apply](https://medium.com/cracking-the-data-science-interview/the-10-deep-learning-methods-ai-practitioners-need-to-apply-885259f402c1) - :fallen_leaf: ml
 
+### Saturday 17.08.19
+
+- [Understanding the Covariance Matrix](https://datascienceplus.com/understanding-the-covariance-matrix/)
+- [Singular value decomposition](https://en.wikipedia.org/wiki/Singular_value_decomposition)
+- [Rotation Matrices](http://www.ambrsoft.com/Equations/Matrix/Matrix.htm)
+- [Principal component analysis](https://en.wikipedia.org/wiki/Principal_component_analysis)
+- [A step by step explanation of Principal Component Analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
+- [Ten Machine Learning Algorithms You Should Know to Become a Data Scientist](https://www.datasciencecentral.com/profiles/blogs/ten-machine-learning-algorithms-you-should-know-to-become-a-data)
+
+
+
+
