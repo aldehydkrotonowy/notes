@@ -35,44 +35,10 @@
 - [news.risingstack.com](https://news.risingstack.com/)
 - [node - hackr.io](https://hackr.io/news/node-js)
 
+
 ### Other interesting resources [[TOP]](#top)
 - [JavaScript weekly archives](http://javascriptweekly.com/issues)
 - [MSDN Magazine Issues and Downloads](https://msdn.microsoft.com/magazine/mt668395)
-
-### JavaScript Learning materials [[TOP]](#top)<a name="jsbasic"></a>
-- :recycle: [__Rectiflux learning materials__](https://www.reactiflux.com/learning/#learning-current-javascript-es6) - <img src="./images/rectiflux.png" width="auto" height="20"/>
-- TypeScript
-	- :recycle: [Learn TypeScript](https://github.com/snipcart/learn-typescript)  <img src="./images/github.png" width="auto" height="20"/>
-- basics
-	- [Coordinates](https://javascript.info/coordinates)
-	- [JS loop](https://www.youtube.com/watch?feature=player_embedded&v=cCOL7MC4Pl0)  <img src="./images/youtube.png" width="auto" height="20"/>
-	- [jak działają fat arrows](http://bedekodzic.pl/function-vs/)
-	- [Promise Races and Limits](https://hackernoon.com/async-await-essentials-for-production-loops-control-flows-limits-23eb40f171bd)
-	- [JS functions under the hood](https://wanago.io/2018/05/28/diving-into-functions-passing-by-reference-is-a-lie/)
-	- [Iterables and Iterators](http://exploringjs.com/es6/ch_iteration.html#sec_overview-iteration)
-	- [You don't know js](https://github.com/getify/You-Dont-Know-JS) - :book: GitHub book
-	- [Express + Node.js async/await](http://www.youtube.com/watch?feature=player_embedded&v=x51Qxg_epQ4)<img src="./images/youtube.png" width="auto" height="20"/>
-	- [Proper Tail Calls - PTC](https://github.com/tc39/proposal-ptc-syntax#syntactic-tail-calls-stc)
-	- [Async await in loops](https://zellwk.com/blog/async-await-in-loops/)
-- WebSocket
-	- [WebSockets (using Socket.io) Tutorial #5](https://www.youtube.com/watch?feature=player_embedded&v=FvArk8-qgCk) <img src="./images/youtube.png" width="auto" height="20"/>
-	- [WebSocket Server how it works](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API/Writing_WebSocket_servers)
-- ES6 features
-	- [Proxy](https://www.atyantik.com/proxy-javascript-es6-feature/)
-- V8 Engine 
-	- [V8 engine: properties with integer names](https://v8project.blogspot.com/2017/09/elements-kinds-in-v8.html)
-	- [V8 engine: objects and its prperties](https://v8project.blogspot.com/2017/08/fast-properties.html)
-- functional programing
-	- [Introduction to Parsers - functional programing approach](https://medium.com/@chetcorcos/introduction-to-parsers-644d1b5d7f3d) - parsrs with using functinal programing
-	- [An introduction to functional programming in JavaScript](https://opensource.com/article/17/6/functional-javascript)
-	- [fantasyland](https://medium.com/javascript-inside/slaying-a-ui-antipattern-in-fantasyland-907cbc322d2a)
-	- [Peano numbers concept](http://www.tomharding.me/) - good introduction, at least at the beginning
-	- [Comonads, Monoids and Trees](https://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html) :book:
-	- [Functional Programming in JavaScript, Part 1: The Unit](https://marmelab.com/blog/2018/03/14/functional-programming-1-unit-of-code.html)
-	- [Functional Programming in JavaScript, Part 2: The Monoid](https://marmelab.com/blog/2018/04/18/functional-programming-2-monoid.html)
-- online editors
-	- [codesandbox.io](https://codesandbox.io)
-	- [playcode.io/](http://playcode.io/)
 
 
 ### Articles to broaden horizons [[TOP]](#top)
@@ -80,11 +46,12 @@
 - [Intelligent Tracking Prevention](https://webkit.org/blog/7675/intelligent-tracking-prevention/)
 - [Introducing Storage Access API](https://webkit.org/blog/8124/introducing-storage-access-api/)
 - [Play safely in sandboxed IFrames](https://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/)
-- [Cross-Origin Resource Sharing (CORS)](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
+
 - [Shadow DOM - what is this?](https://blog.rowan.website/2018/02/15/what-the-shit-is-the-shadow-dom-anyway/)
 - [How to biohack your intelligence](https://hackernoon.com/biohack-your-intelligence-now-or-become-obsolete-97cdd15e395f)
 - [The Forgotten History of OOP](https://medium.com/javascript-scene/the-forgotten-history-of-oop-88d71b9b2d9f) - Eric Elliott
 - [traditional interpreter, JIT compiler, JIT interpreter and AOT compiler](https://softwareengineering.stackexchange.com/questions/246094/understanding-the-differences-traditional-interpreter-jit-compiler-jit-interp)
+
 
 ### List of links to resources [[TOP]](#top)
 - [Build your own xxx](https://github.com/danistefanovic/build-your-own-x) x = Web Server, template engine, ... (many more)
@@ -92,27 +59,17 @@
 ### Docker [[TOP]](#top)<a name="docker"></a>
 - [-](-)
 
-### Temporary links [[TOP]](#top)
-- [JS and cookies](https://www.quirksmode.org/js/cookies.html)
-- [ES7 async functions](https://jakearchibald.com/2014/es7-async-functions/)
-- [Dependency injection in node.js](https://medium.com/@Jeffijoe/dependency-injection-in-node-js-2016-edition-f2a88efdd427)
-- [Sync/Async JS with generators](http://chrisbuttery.com/articles/synchronous-asynchronous-javascript-with-es6-generators/)
-- [Generators in JavaScript](https://codeburst.io/generators-in-javascript-1a7f9f884439)
-- [JavaScript — from callbacks to async/await](https://medium.freecodecamp.org/javascript-from-callbacks-to-async-await-1cc090ddad99)
-- [ES6 – promises](https://mrzepinski.pl/es6%E2%80%8A-promises.html)
-- [We have a problem with promises](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
-- [Icons font vs svg](https://css-tricks.com/icon-fonts-vs-svg/)
-- [The Definitive Guide to Object Streams in Node.js](https://community.risingstack.com/the-definitive-guide-to-object-streams-in-node-js/)
-- [JS promises - problems](https://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
 
 ### Algorithms and data structures [[TOP]](#top)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) <img src="./images/github.png" width="auto" height="20"/>
 - [Algorithms and Data Structures](https://www.youtube.com/channel/UCirCLaGiw_zT6vJNI_At6ag) <img src="./images/chanel.png" width="auto" height="20"/>
 
+
 ### Webasembly
 - [GOTO 2017 • WebAssembly: What and What Next?](http://www.youtube.com/watch?feature=player_embedded&v=R9wn99Xheq4)<img src="./images/youtube.png" width="auto" height="20"/>
 - [Lin Clark: A Cartoon Intro to WebAssembly | JSConf EU 2017](http://www.youtube.com/watch?feature=player_embedded&v=HktWin_LPf4)<img src="./images/youtube.png" width="auto" height="20"/>
 - [Tagged union - data structure](https://en.wikipedia.org/wiki/Tagged_union)
+
 
 ### Parsers and compilers
 - [Notes on How Parsers and Compilers Work](http://parsingintro.sourceforge.net/)
@@ -121,12 +78,6 @@
 - [How to build a parser by hand](https://jayconrod.com/posts/65/how-to-build-a-parser-by-hand)
 - [A handbook for making programming languages](http://www.craftinginterpreters.com/)
 
-
-### Next.js [[TOP]](#top)
-- [Next.js Tutorial: SEO-Friendly React E-Commerce SPA](https://snipcart.com/blog/react-seo-nextjs-tutorial)
-
-### JavaScript core [[TOP]](#top)
-- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#call-stack) :recycle:
 
 ### Webpack related [[TOP]](#top)
 - [Nice tutorial how to configure webpack - part 1](https://viblo.asia/p/quick-webpack-set-up-for-single-page-applications-aWj53Xk8K6m)
@@ -140,16 +91,6 @@
 - [Webpack - code spliting](https://github.com/webpack/docs/wiki/code-splitting)
 - [HTML Parser](https://github.com/ashi009/node-fast-html-parser)
 
-### github repos [[TOP]](#top)
-- [Github trending repos](https://github.com/vitalets/github-trending-repos)
-- [NanoCore adblocker](https://github.com/NanoAdblocker/NanoCore)
-- [Snarkdown](https://github.com/developit/snarkdown) - Simple markdown parser
-- [redux - thunk package](https://github.com/gaearon/redux-thunk)
-- [Signale - Hackable console logger](https://github.com/klauscfhq/signale/blob/master/signale.js)
-- [React Native DOM - ](https://github.com/vincentriemer/react-native-dom) - An experimental, comprehensive port of React Native to the web.
-
-
-
 
 ### Project ideas [[TOP]](#top)
 - [fun apps to build](https://medium.freecodecamp.org/the-secret-to-being-a-top-developer-is-building-things-heres-a-list-of-fun-apps-to-build-aac61ac0736c)
@@ -157,6 +98,7 @@
 
 ### Web API [[TOP]](#top)
 - [Web API mozilla.org](https://developer.mozilla.org/en-US/docs/Web/API)
+
 
 ### C/C++ [[TOP]](#top)<a name="cpp"></a>
 - 	General
@@ -187,17 +129,20 @@
 - 	references
 	- [cppreference.com](https://en.cppreference.com/w/cpp/language/lambda)
 
+
 ### work [[TOP]](#top)
 - [justjoin.it](https://justjoin.it/offers/appstract-junior-javascript-developer)
 - [crossweb.pl](https://crossweb.pl/job/)
 - [nofluffjobs](https://nofluffjobs.com/)
 - [bulldogjob](https://bulldogjob.pl/)
 
+
 ### Python [[TOP]](#top)
 - [Web app from scratch: part I](https://defn.io/2018/02/25/web-app-from-scratch-01/)
 - [Web app from scratch: part II](https://defn.io/2018/03/04/web-app-from-scratch-02//)
 -	Big data
 	- [big data analysis](https://rubikscode.net/2019/06/03/guide-to-exploratory-data-analysis-with-python/)
+
 
 ### CSS [[TOP]](#top)
 - 	CSS
@@ -215,6 +160,7 @@
 	- [button1 - codepen](https://codepen.io/Shtam3x/pen/Bevpxd)
 	- [button1 - codepen](https://codepen.io/vitor-siqueira/pen/xNBExN)
 	- [button1 - codepen]()
+
 
 ### React [[TOP]](#top)<a name="react"></a>
 -   Documentation
@@ -286,18 +232,23 @@
 -	RESTFUll app
 	- [How to build blazing fast REST APIs with Node.js, MongoDB, Fastify and Swagger](https://medium.freecodecamp.org/how-to-build-blazing-fast-rest-apis-with-node-js-mongodb-fastify-and-swagger-114e062db0c9)
 
+
 ### HTML5 standard [[TOP]](#top)<a name="html5"></a>
 - <a name="inputattributes"></a>[All Attributes of input Element](https://html.com/attributes/input-autocomplete/#Newish_in_HTML5)
+
 
 ### Serverless guide [[TOP]](#top)
 - [Serverless Stack](https://serverless-stack.com/) -- an open source guide for building and deploying full-stack apps
 
+
 ### PWA technology [[TOP]](#top)<a name="pwa"></a>
 - [PWA Pl](https://geek.justjoin.it/progressive-web-apps-koncepcja-wokol-ktorej-gromadza-sie-webowe-api/)
+
 
 ### AWS services [[TOP]](#top)
 - [Full guide to developing REST API’s with AWS API Gateway and AWS Lambda](https://blog.sourcerer.io/full-guide-to-developing-rest-apis-with-aws-api-gateway-and-aws-lambda-d254729d6992)
 - [AWS elasticbeanstalk app deploy](https://www.youtube.com/watch?v=ubCNZRNjhyo) - swartzmuiler
+
 
 ### Regular Expressions [[TOP]](#top)
 - [part 1](https://wanago.io/2018/04/30/regex-course-part-one-basic-concepts/)
@@ -307,14 +258,11 @@
 - [Introduction to Regular Expressions](https://flaviocopes.com/javascript-regular-expressions/)
 - [Regular Exp engine online](https://regexr.com/)
 
+
 ### MongoDB [[TOP]](#top)
 - [MongoDB Essentials - A Tutorial for Understanding MongoDB](https://www.youtube.com/watch?v=XhWkBI063PQ )
 - [Mongoose JS Tutorial - 3 - Build a CRUD App (1)](https://www.youtube.com/watch?v=07739ffJkbo&list=PLGquJ_T_JBMQ1C0Pp41sykceli8G1UGtg&index=3)
 - [Designing a REST API with Node.js and MongoDB Atlas](https://www.zeolearn.com/magazine/designing-a-rest-api-with-nodejs-and-mongodb-atlas)
-
-### Git how to
-- [how to use git nice pictures](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)
-- [Up your Git game and clean up your history](https://dev.to/christopherkade/up-your-git-game-and-clean-up-your-history-4j3j)
 
 
 ### Interesting new things/framworks etc
@@ -323,6 +271,7 @@
 -	single-spa:: micro-frontends
 	- [single-spa](https://single-spa.js.org/)
 	- [single-spa - how to use](https://dev.to/dabit3/building-micro-frontends-with-react-vue-and-single-spa-52op)
+
 
 ### Courses online [[TOP]](#top)
 - [tylermcginnis.com](https://tylermcginnis.com/)
@@ -335,15 +284,15 @@
 - [edX](https://www.edx.org/)
 - [exercism.io](https://exercism.io/users/sign_up)
 
+
 ### Symphony 4 [[TOP]](#top)
 - [Beginners Symfony 4 Tutorial](https://www.youtube.com/watch?v=yz56pv8fi_c)
 - [Building a Symfony 3 App - Part 2 **Youtube**](https://www.youtube.com/watch?v=62hsXxjD4bY&list=PLxpohbmcy5qy9_BvxGyIJ3CTqbSgcJQND&index=2)
 
+
 ### HTML5 [[TOP]](#top)
 - [IndexedDB](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501)
 
-### Online JS Editors<a name="editors"></a>
-- [playcode.io](https://playcode.io/132833?tabs=console&script.js&output)
 
 ### Math [[TOP]](#top)<a name="math"></a>
 - MIT
@@ -361,6 +310,7 @@
 - Gradient Descent
 	- [Mathematics of Gradient Descent - Intelligence and Learning](https://www.youtube.com/watch?v=jc2IthslyzM) <img src="./images/youtube.png" width="auto" height="20">
 	
+
 ### Asm [[TOP]](#top)<a name="asm"></a>
 - some resources
 	- [many tutorials](http://asm.sourceforge.net/resources.html#tutorials)
@@ -371,6 +321,7 @@
 - advanced articles
 	- [In-depth: Windows x64 ABI: Stack frames](https://www.gamasutra.com/view/news/178446/Indepth_Windows_x64_ABI_Stack_frames.php)
 	
+
 ### Java [[TOP]](#top)<a name="java"></a>
 - #### Database
 	- [Sample database with test suite](https://launchpad.net/test-db/) - sample database with employees
@@ -392,6 +343,7 @@
 	- [@OneToMany and @ManyToOne explenation](https://howtoprogramwithjava.com/hibernate-manytoone-unidirectional-tutorial/)
 	- [Java Code Examples](https://www.programcreek.com/java-api-examples/index.php?api=javax.persistence.criteria.CriteriaQuery)
 
+
 ### Python [[TOP]](#top)<a name="python"></a>
 - #### numpy
 	- [Python numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/#python-tuples)
@@ -402,6 +354,7 @@
 	- [python basics - collection of books](https://pythonbooks.revolunet.com/) :books:
 	- [DISCOVERING PYTHON & R](https://pythonandr.com/learning-resources/) :books:
 
+
 ### Tech [[TOP]](#top)<a name="tech"></a>
 - #### Tech Power Up database
 	- [GPU Specs Database](https://www.techpowerup.com/gpu-specs/)
@@ -410,11 +363,13 @@
 	- [PC World](https://www.pcworld.com/category/computers/)
 	- [Hot Hardware](https://hothardware.com/)
 	
+
 ### Arduino
 - One Wire standard
 	- [OneWire standard](https://pl.wikipedia.org/wiki/1-Wire)
 	- [Dallas Semiconductor's 1-Wire Protocol](https://playground.arduino.cc/Learning/OneWire)
 	- [OneWire search algorithm](https://www.maximintegrated.com/en/app-notes/index.mvp/id/187)
+
 
 ### Malware samples collection
 - [javascript-malware-collection](https://github.com/HynekPetrak/javascript-malware-collection/tree/master/2017)
@@ -422,22 +377,16 @@
 
 ### Other random stuff
 - [Trello app - organize your work](https://trello.com/)
-- [Open Graph protocool](http://ogp.me/) - enables any web page to become a rich object in a social graph
+
 - [TLS communication protocol](https://tls.ulfheim.net/) :exclamation: - detailed description
 - [About cryptography](https://www.crypto101.io/) <img src='./images/pdf2.png' widht='auto' height='20'> :exclamation: 
 
-### Express.js
-- [Middleware explained](https://stackoverflow.com/questions/35676259/understanding-middleware-and-route-handler-in-express-js)
-- [next() function what is for](https://stackoverflow.com/questions/13133071/express-next-function-what-is-it-really-for)
-
-
-### GitHub tutorials
-- [10 Common Git Problems and How to Fix Them](https://citizen428.net/10-common-git-problems-and-how-to-fix-them-e8d809299f08)
 
 ### Linux/Ubuntu
 - [ssh generation howto](https://www.ssh.com/ssh/keygen/)
 - kernel
 	- [kernel source code](https://elixir.bootlin.com/linux/v3.14/source/include/linux/syscalls.h#L175)
+
 
 ### Economy [[TOP]](#top)<a name="economy"></a>
 - [Blogs PL](http://generatorfinansowy.blogspot.com/)

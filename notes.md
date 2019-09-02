@@ -374,6 +374,7 @@
 - [A step by step explanation of Principal Component Analysis](https://towardsdatascience.com/a-step-by-step-explanation-of-principal-component-analysis-b836fb9c97e2)
 - [Ten Machine Learning Algorithms You Should Know to Become a Data Scientist](https://www.datasciencecentral.com/profiles/blogs/ten-machine-learning-algorithms-you-should-know-to-become-a-data)
 
-
+### Monday 02.09.19
+- [Artificial Intelligence: Salaries Heading Skyward](https://medium.com/towards-artificial-intelligence/artificial-intelligence-salaries-heading-skyward-e41b2a7bba7d)
 
 
