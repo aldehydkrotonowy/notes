@@ -49,5 +49,5 @@
 	- [A Gallery of Large Graphs - might be useful someday](http://yifanhu.net/GALLERY/GRAPHS/index39.html)
 - datasets
 	- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
-- GitHub repository i
+- GitHub repository
 	
