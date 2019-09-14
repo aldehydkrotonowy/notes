@@ -384,3 +384,38 @@ also notice that you could pass whatever extra props you want this way too
 ```javascript
 <PropsRoute isFetching={ isFetchingProfile } title="User Profile" component={ Profile } />
 ```
+
+
+### how applay works
+```javascript
+Function.prototype.construct = function (aArgs) {
+	const oNew = Object.create(this.prototype);
+	console.log('create proto', this.prototype);
+	this.apply(oNew, aArgs);// this: MyConstructor
+	console.log('this is:', this);
+	return oNew;
+}
+
+function MyConstructor() {
+	const l = arguments.length;
+	for (let i = 0; i < l; i++) {
+		this['property' + i] = arguments[i];// this: myInstance
+	}
+	console.log('MyConstructor this is:', this)
+}
+const arr = [4, 'Hello', false];
+const myInstance = MyConstructor.construct(arr);
+console.log(myInstance);
+
+// results
+// create proto MyConstructor { }
+// MyConstructor this is: MyConstructor { property0: 4, property1: 'Hello', property2: false }
+// this is: function MyConstructor() {
+// 	const l = arguments.length;
+// 	for (let i = 0; i < l; i++) {
+// 		this['property' + i] = arguments[i];
+// 	}
+// 	console.log('MyConstructor this is:', this)
+// }
+// MyConstructor { property0: 4, property1: 'Hello', property2: false }
+```
