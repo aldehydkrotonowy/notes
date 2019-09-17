@@ -1,10 +1,21 @@
+
 ### Frameworks
 - [Razzle](https://github.com/jaredpalmer/razzle) - Razzle not only works with React, but also Reason, Elm, Vue, Angular...
 - [Next.js Tutorial: SEO-Friendly React E-Commerce SPA](https://snipcart.com/blog/react-seo-nextjs-tutorial)
 
+
+
+
+
+
 ### Express.js
 - [Middleware explained](https://stackoverflow.com/questions/35676259/understanding-middleware-and-route-handler-in-express-js)
 - [next() function what is for](https://stackoverflow.com/questions/13133071/express-next-function-what-is-it-really-for)
+
+
+
+
+
 
 ### github repos
 - [Github trending repos](https://github.com/vitalets/github-trending-repos)
@@ -13,6 +24,11 @@
 - [redux - thunk package](https://github.com/gaearon/redux-thunk)
 - [Signale - Hackable console logger](https://github.com/klauscfhq/signale/blob/master/signale.js)
 - [React Native DOM - ](https://github.com/vincentriemer/react-native-dom) - An experimental, comprehensive port of React Native to the web.
+
+
+
+
+
 
 ### JavaScript core - Learning materials
 - :recycle: [__Rectiflux learning materials__](https://www.reactiflux.com/learning/#learning-current-javascript-es6) - <img src="./images/rectiflux.png" width="auto" height="20"/>
@@ -59,6 +75,8 @@
 	- [Comonads, Monoids and Trees](https://joneshf.github.io/programming/2015/12/31/Comonads-Monoids-and-Trees.html) :book:
 	- [Functional Programming in JavaScript, Part 1: The Unit](https://marmelab.com/blog/2018/03/14/functional-programming-1-unit-of-code.html)
 	- [Functional Programming in JavaScript, Part 2: The Monoid](https://marmelab.com/blog/2018/04/18/functional-programming-2-monoid.html)
+
+
 
 
 

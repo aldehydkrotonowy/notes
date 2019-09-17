@@ -378,3 +378,5 @@
 - [Artificial Intelligence: Salaries Heading Skyward](https://medium.com/towards-artificial-intelligence/artificial-intelligence-salaries-heading-skyward-e41b2a7bba7d)
 
 
+### Thursday 17.09.19
+- [What is render prop](https://blog.bitsrc.io/understanding-render-props-in-react-1edde5921314)

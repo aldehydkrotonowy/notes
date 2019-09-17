@@ -419,3 +419,96 @@ console.log(myInstance);
 // }
 // MyConstructor { property0: 4, property1: 'Hello', property2: false }
 ```
+
+### render props pattern
+
+```javascript
+import React, { useState } from "react";
+import ReactDOM from "react-dom";
+
+function App() {
+  return (
+    <Amount>
+      {amount => (
+        <div>
+          <Euro amount={amount} />
+          <Pound amount={amount} />
+        </div>
+      )}
+    </Amount>
+  );
+}
+
+const Amount = props => {
+  const [amount, setAmount] = useState(0);
+
+  const increase = () => setAmount(amount + 1);
+  const decrease = () => setAmount(amount - 1);
+
+  return (
+    <>
+      <button type="button" onClick={increase}>
+        +
+      </button>
+      <button type="button" onClick={decrease}>
+        -
+      </button>
+      {props.children(amount)}
+    </>
+  );
+};
+
+const Euro = ({ amount }) => <p>Euro: {amount * 0.86}</p>;
+const Pound = ({ amount }) => <p>Pound: {amount * 0.76}</p>;
+
+const rootElement = document.getElementById("root");
+ReactDOM.render(<App />, rootElement);
+```
+
+### react slot pattern
+```javascript
+import React, { Component } from 'react';
+
+import logo from './logo.svg';
+import './App.css';
+
+class App extends Component {
+  render() {
+    const user = {
+      name: 'Robin Wieruch',
+      biography: 'Software Engineer ...',
+      avatarUrl: logo,
+    };
+
+    return <User user={user} />;
+  }
+}
+
+const User = ({ user }) => (
+  <Profile
+    user={user}
+    avatar={<AvatarRound user={user} />}
+    biography={<BiographyFat user={user} />}
+  />
+);
+
+const Profile = ({ user, avatar, biography }) => (
+  <div className="profile">
+    <div>{avatar}</div>
+    <div>
+      <p>{user.name}</p>
+      {biography}
+    </div>
+  </div>
+);
+
+const AvatarRound = ({ user }) => (
+  <img className="round" alt="avatar" src={user.avatarUrl} />
+);
+
+const BiographyFat = ({ user }) => (
+  <p className="fat">{user.biography}</p>
+);
+
+export default App;
+```
