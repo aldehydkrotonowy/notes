@@ -380,3 +380,4 @@
 
 ### Thursday 17.09.19
 - [What is render prop](https://blog.bitsrc.io/understanding-render-props-in-react-1edde5921314)
+- [Render props explained](https://softchris.github.io/pages/react-render-props.html#render-props-explained)
