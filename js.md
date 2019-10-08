@@ -97,3 +97,4 @@
 
 ### Libraries
 - [jsPDF](https://github.com/MrRio/jsPDF) - A library to generate PDFs in JavaScript.
+- [React testing library](https://typeofweb.com/tdd-react-testing-library/)

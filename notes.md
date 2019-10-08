@@ -389,3 +389,6 @@
   - lots of additional links and resources to other &lt;head&gt; elements
 
 - [CSS Grid: illustrated introduction](https://dev.to/mustapha/css-grid-illustrated-introduction-52l5)
+
+### Wednesday 08.10.19
+- [how to use useEffect hook](https://overreacted.io/a-complete-guide-to-useeffect/)
