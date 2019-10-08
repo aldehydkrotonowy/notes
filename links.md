@@ -63,6 +63,7 @@
 ### Algorithms and data structures [[TOP]](#top)
 - [JavaScript Algorithms and Data Structures](https://github.com/trekhleb/javascript-algorithms) <img src="./images/github.png" width="auto" height="20"/>
 - [Algorithms and Data Structures](https://www.youtube.com/channel/UCirCLaGiw_zT6vJNI_At6ag) <img src="./images/chanel.png" width="auto" height="20"/>
+- [CS3 Data Structures & Algorithms](https://opendsa-server.cs.vt.edu/ODSA/Books/CS3/html/index.html)
 
 
 ### Webasembly
