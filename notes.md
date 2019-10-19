@@ -390,10 +390,7 @@
 
 - [CSS Grid: illustrated introduction](https://dev.to/mustapha/css-grid-illustrated-introduction-52l5)
 
-<<<<<<< HEAD
 ### Sunday 06.10.19
 - [How Operating Systems Work - basic concepts](https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)
-=======
 ### Wednesday 08.10.19
 - [how to use useEffect hook](https://overreacted.io/a-complete-guide-to-useeffect/)
->>>>>>> 65ec0ed2e2416029a08a1a66ff2aaccbc05d4c48
