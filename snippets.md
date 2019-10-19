@@ -1,30 +1,6 @@
 ### Code snippets
 
 
-### iframes, sandboxing and postMessage API example from
-[this link](https://www.html5rocks.com/en/tutorials/security/sandboxed-iframes/)
-```html
-<!-- frame.html -->
-<!DOCTYPE html>
-<html>
- <head>
-   <title>Evalbox's Frame</title>
-   <script>
-     window.addEventListener('message', function (e) {
-       var mainWindow = e.source;
-       var result = '';
-       try {
-         result = eval(e.data);
-       } catch (e) {
-         result = 'eval() threw an exception.';
-       }
-       mainWindow.postMessage(result, event.origin);
-     });
-   </script>
- </head>
-</html>
-```
-
 ### Jquery each()
 ```javascript
 $.each( $('table', this.$el), function( index, table ){
@@ -38,18 +14,6 @@ $.each( $('table', this.$el), function( index, table ){
     }
   });
 });
-```
-
-### Error handling wrapper, fn is an async function
-```javascript
- function catchAsyncErrors(fn) {
-    return (req, res, next) => {
-        const routePromise = fn(req, res, next);
-        if (routePromise.catch) {
-            routePromise.catch(err => next(err));
-        }
-    }
-}
 ```
 
 ### Express, error handling traditional style
@@ -301,59 +265,59 @@ import Popper from '@material-ui/core/Popper';
 
 
 const useStyles = makeStyles(theme => ({
-	root: {
-		display: 'flex'
-	}
+  root: {
+    display: 'flex'
+  }
 }))
 
 
 export default function Navbar() {
-	const classes = useStyles();
+  const classes = useStyles();
 
-	const myref = useRef(null);
-	const [open, setOpen] = React.useState(null);
+  const myref = useRef(null);
+  const [open, setOpen] = React.useState(null);
 
 
-	function handleMenu(event) {
-		setOpen(!open);
-	}
+  function handleMenu(event) {
+    setOpen(!open);
+  }
 
-	return (
-		<div className={classes.root}>
-			<AppBar position='static'>
-				<Toolbar>
-					<IconButton
-						aria-label="Account of current user"
-						aria-controls="menu-appbar"
-						aria-haspopup="true"
-						onClick={handleMenu}
-						color="inherit"
-						ref={myref}
-					>
-						lkasjfklwerwerwerwerwer
-					</IconButton>
-					<Popper id='simple-pop' open={open} anchorEl={myref.current} transition disablePortal>
-						{({ TransitionProps, placement }) => (
-							<Grow
-								{...TransitionProps}
-								style={{ transformOrigin: placement === 'bottom' ? 'center top' : 'center bottom' }}
-							>
-								<Paper id="menu-list-grow">
-									<ClickAwayListener onClickAway={handleMenu}>
-										<MenuList>
-											<MenuItem onClick={handleMenu}>Profile</MenuItem>
-											<MenuItem onClick={handleMenu}>My account</MenuItem>
-											<MenuItem onClick={handleMenu}>Logout</MenuItem>
-										</MenuList>
-									</ClickAwayListener>
-								</Paper>
-							</Grow>
-						)}
-					</Popper>
-				</Toolbar>
-			</AppBar>
-		</div>
-	)
+  return (
+    <div className={classes.root}>
+      <AppBar position='static'>
+        <Toolbar>
+          <IconButton
+            aria-label="Account of current user"
+            aria-controls="menu-appbar"
+            aria-haspopup="true"
+            onClick={handleMenu}
+            color="inherit"
+            ref={myref}
+          >
+            lkasjfklwerwerwerwerwer
+          </IconButton>
+          <Popper id='simple-pop' open={open} anchorEl={myref.current} transition disablePortal>
+            {({ TransitionProps, placement }) => (
+              <Grow
+                {...TransitionProps}
+                style={{ transformOrigin: placement === 'bottom' ? 'center top' : 'center bottom' }}
+              >
+                <Paper id="menu-list-grow">
+                  <ClickAwayListener onClickAway={handleMenu}>
+                    <MenuList>
+                      <MenuItem onClick={handleMenu}>Profile</MenuItem>
+                      <MenuItem onClick={handleMenu}>My account</MenuItem>
+                      <MenuItem onClick={handleMenu}>Logout</MenuItem>
+                    </MenuList>
+                  </ClickAwayListener>
+                </Paper>
+              </Grow>
+            )}
+          </Popper>
+        </Toolbar>
+      </AppBar>
+    </div>
+  )
 }
 ```
 
@@ -385,6 +349,26 @@ also notice that you could pass whatever extra props you want this way too
 <PropsRoute isFetching={ isFetchingProfile } title="User Profile" component={ Profile } />
 ```
 
+### wyrażenia regularne
+```javascript
+const strings = ['11', '33.9-','33.3-','-33.8', '11-33', '11.', '44.-', '334.0-',
+ '-3', '-3.', '-34.0', '3.-5.', '3.-4', '3-8.', '33.0-99.0']
+
+strings.forEach(value => {
+    let parts = value.split('-');
+    let r = parts.reduce((acc, e) => {
+      let i = e.match(/\d+\.(?![0-9])/g);
+      if(i){
+        acc.push(i.map(v => v.replace('.', '.0')))
+      } else {
+        acc.push(e)
+      }
+      // console.log({value,parts, i,e})
+      return acc;
+    }, []).join('-')
+    console.log({value,r})
+})
+```
 
 ### how applay works
 ```javascript

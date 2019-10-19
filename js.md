@@ -93,3 +93,8 @@
 - [playcode.io](https://playcode.io/132833?tabs=console&script.js&output)
 - [codesandbox.io](https://codesandbox.io)
 - [playcode.io/](http://playcode.io/)
+
+
+### Libraries
+- [jsPDF](https://github.com/MrRio/jsPDF) - A library to generate PDFs in JavaScript.
+- [React testing library](https://typeofweb.com/tdd-react-testing-library/)
