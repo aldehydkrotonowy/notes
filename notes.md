@@ -382,10 +382,13 @@
 - [What is render prop](https://blog.bitsrc.io/understanding-render-props-in-react-1edde5921314)
 - [Render props explained](https://softchris.github.io/pages/react-render-props.html#render-props-explained)
 
-### Sunday 05.10.19
+### Saturday 05.10.19
 - [A free guide to HTML5 <head> elements](https://htmlhead.dev/#recommended-minimum)
   - [All About Favicons (And Touch Icons)](https://bitsofco.de/all-about-favicons-and-touch-icons/)
   - [Facebook - Open Graph Markup](https://developers.facebook.com/docs/sharing/webmasters#markup)
   - lots of additional links and resources to other &lt;head&gt; elements
 
 - [CSS Grid: illustrated introduction](https://dev.to/mustapha/css-grid-illustrated-introduction-52l5)
+
+### Sunday 06.10.19
+- [How Operating Systems Work - basic concepts](https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)

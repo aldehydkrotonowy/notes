@@ -512,3 +512,24 @@ const BiographyFat = ({ user }) => (
 
 export default App;
 ```
+
+
+map
+```javascript
+import data from './rawData';
+
+console.log(data instanceof Array);
+const after = data.reduce((rows, row) => {
+	const newRows = row.sizeCurveDescription.map(curve => {
+		const { size, percent } = curve;
+		return {
+			...row,
+			size,
+			percent
+		}
+	})
+	return rows.concat(newRows);
+}, [])
+
+console.log(after);
+```
