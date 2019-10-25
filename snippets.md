@@ -496,3 +496,22 @@ const BiographyFat = ({ user }) => (
 
 export default App;
 ```
+
+numbers with two decimals
+```javascript
+Number(Math.round(sanitizedCostPrice + 'e' + decimals) + 'e-' + decimals);
+```
+
+
+Immutably Rename Object Keys in Javascript
+``` javascript
+const renameProp = (  oldProp,    newProp,{ [oldProp]: old, ...others }) => ({
+    [newProp]: old,
+    ...others
+})
+```
+
+
+```javascript
+if (Object.values(payload).some(isNull)) return
+```

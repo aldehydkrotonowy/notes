@@ -98,3 +98,11 @@
 ### Libraries
 - [jsPDF](https://github.com/MrRio/jsPDF) - A library to generate PDFs in JavaScript.
 - [React testing library](https://typeofweb.com/tdd-react-testing-library/)
+
+
+
+
+
+### React
+- [reconciliation](https://github.com/facebook/react/issues/11527#issuecomment-360199710)
+- [SyntheticEvent](https://pl.reactjs.org/docs/events.html)
