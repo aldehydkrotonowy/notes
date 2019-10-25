@@ -514,4 +514,48 @@ const renameProp = (  oldProp,    newProp,{ [oldProp]: old, ...others }) => ({
 
 ```javascript
 if (Object.values(payload).some(isNull)) return
+
+map
+```javascript
+//rawData
+[
+  '{{repeat(2)}}',
+  {
+    _id: '{{objectId()}}',
+    index: '{{index()}}',
+    guid: '{{guid()}}',
+    isActive: '{{bool()}}',
+    balance: '{{floating(1000, 4000, 2, "$0,0.00")}}',
+    picture: 'http://placehold.it/32x32',
+    age: '{{integer(20, 40)}}',
+    eyeColor: '{{random("blue", "brown", "green")}}',
+    name: '{{firstName()}} {{surname()}}',
+    sizeCurve: 's-6-l',
+    sizeCurveDescription: [
+      '{{repeat(1, 5)}}',
+        {
+          id: '{{objectId()}}',
+          size: '{{random("M", "S", "XL", "L", "XXX")}}',
+          percent: '{{integer(0, 100)}}'
+        }
+    ]
+  }
+]
+
+import data from './rawData';
+
+console.log(data instanceof Array);
+const after = data.reduce((rows, row) => {
+	const newRows = row.sizeCurveDescription.map(curve => {
+		const { size, percent } = curve;
+		return {
+			...row,
+			size,
+			percent
+		}
+	})
+	return rows.concat(newRows);
+}, [])
+
+console.log(after);
 ```
