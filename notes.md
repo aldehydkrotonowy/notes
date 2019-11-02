@@ -377,6 +377,29 @@
 ### Monday 02.09.19
 - [Artificial Intelligence: Salaries Heading Skyward](https://medium.com/towards-artificial-intelligence/artificial-intelligence-salaries-heading-skyward-e41b2a7bba7d)
 
+### Saturday 07.09.19
+- [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+- [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [A Gentle Introduction to the Rectified Linear Unit (ReLU)](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)
+- [Deep Learning, NLP, and Representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+- [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+- [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
+- [An introduction to Attention](https://towardsdatascience.com/an-introduction-to-attention-transformers-and-bert-part-1-da0e838c7cda)
+- [Attention in Neural Networks](https://towardsdatascience.com/attention-in-neural-networks-e66920838742)
+- [How to Develop LSTM Models for Time Series Forecasting](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
+- [An Intro Tutorial for Implementing Long Short-Term Memory Networks (LSTM)](https://heartbeat.fritz.ai/a-beginners-guide-to-implementing-long-short-term-memory-networks-lstm-eb7a2ff09a27)
+
+### Sunday 08.09.19
+- [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
+- [An Introduction to AdaGrad](https://medium.com/konvergen/an-introduction-to-adagrad-f130ae871827)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
 
 ### Thursday 17.09.19
 - [What is render prop](https://blog.bitsrc.io/understanding-render-props-in-react-1edde5921314)
