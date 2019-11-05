@@ -16,6 +16,7 @@
 - [redux - thunk package](https://github.com/gaearon/redux-thunk)
 - [Signale - Hackable console logger](https://github.com/klauscfhq/signale/blob/master/signale.js)
 - [React Native DOM - ](https://github.com/vincentriemer/react-native-dom) - An experimental, comprehensive port of React Native to the web.
+- [core-decorators](https://github.com/jayphelps/core-decorators.git)
 
 ### JavaScript core - Learning materials
 
@@ -46,3 +47,7 @@
 
 - [reconciliation](https://github.com/facebook/react/issues/11527#issuecomment-360199710)
 - [SyntheticEvent](https://pl.reactjs.org/docs/events.html)
+
+### Angular
+
+- [Angular app with PHP backend: part 1](https://phpenthusiast.com/blog/develop-angular-php-app-getting-the-list-of-items)
