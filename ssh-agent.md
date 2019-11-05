@@ -36,4 +36,8 @@ ssh-rsa	ssh-keygen -t rsa (this is the default)
 	ecdsa-sha2-nistp384	ssh-keygen -t ecdsa -b 384
 	ecdsa-sha2-nistp521	ssh-keygen -t ecdsa -b 521
 
-trzeba dodać host do C:\Program Files\Git\etc\ssh\ssh_config
+trzeba dodać host do C:\Program Files\Git\etc\ssh\ssh_config takie coś
+	Host github.com
+	 Hostname github.com
+	 IdentityFile ~/.ssh/plik.pub
+	 User git
