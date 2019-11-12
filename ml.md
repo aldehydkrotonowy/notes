@@ -50,4 +50,6 @@
 - datasets
 	- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
 - GitHub repository
+	- [convnetjs](https://github.com/karpathy/convnetjs/blob/master/src/convnet_trainers.js) - ConvNetJS is a Javascript implementation of Neural networks
+	
 	
