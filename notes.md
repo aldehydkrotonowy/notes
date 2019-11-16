@@ -418,3 +418,8 @@
 - [The Burp Suite family](https://portswigger.net/burp)
   - SECURITY
 - [dietpi](https://dietpi.com/phpbb/viewtopic.php?t=5)
+
+### Saturday 16.11.19
+- [CSS grid](https://dev.to/mustapha/css-grid-illustrated-introduction-52l5)
+- [Nice TypeScript tutorial](https://www.valentinog.com/blog/typescript/)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/classes.html)
