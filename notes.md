@@ -392,14 +392,6 @@
 ### Sunday 08.09.19
 - [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
 - [An Introduction to AdaGrad](https://medium.com/konvergen/an-introduction-to-adagrad-f130ae871827)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-
-
 
 ### Thursday 17.09.19
 - [What is render prop](https://blog.bitsrc.io/understanding-render-props-in-react-1edde5921314)
@@ -417,3 +409,17 @@
 - [How Operating Systems Work - basic concepts](https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)
 ### Wednesday 08.10.19
 - [how to use useEffect hook](https://overreacted.io/a-complete-guide-to-useeffect/)
+
+
+### Wednesday 12.11.19
+- [js observers](https://devszczepaniak.pl/o-obserwatorach-w-javascript/)
+- [Flutter Vs. React Native](https://www.codeproject.com/Articles/1280298/A-Comparison-Between-Flutter-And-React-Native) 
+  - Google released Flutter in May 2017.
+- [The Burp Suite family](https://portswigger.net/burp)
+  - SECURITY
+- [dietpi](https://dietpi.com/phpbb/viewtopic.php?t=5)
+
+### Saturday 16.11.19
+- [CSS grid](https://dev.to/mustapha/css-grid-illustrated-introduction-52l5)
+- [Nice TypeScript tutorial](https://www.valentinog.com/blog/typescript/)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/classes.html)
