@@ -24,3 +24,20 @@ ps x | grep ssh-agent
 
 $ ssh-add -l -> list of all keys avaliable in the ssh agent (fingerprint)
 $ ssh-add -L -> list of all keys avaliable in the ssh agent (public key part of each key)
+
+#generowanie klucza
+ssh-keygen -t ecdsa -b 521 -f ~/.ssh/[key-name] -C [comment]
+
+#Algoritm
+ssh-rsa	ssh-keygen -t rsa (this is the default)
+
+	ssh-ed25519		ssh-keygen -t ed25519
+	ecdsa-sha2-nistp256	ssh-keygen -t ecdsa -b 256
+	ecdsa-sha2-nistp384	ssh-keygen -t ecdsa -b 384
+	ecdsa-sha2-nistp521	ssh-keygen -t ecdsa -b 521
+
+trzeba dodać host do C:\Program Files\Git\etc\ssh\ssh_config takie coś
+	Host github.com
+	 Hostname github.com
+	 IdentityFile ~/.ssh/plik.pub
+	 User git

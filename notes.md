@@ -377,6 +377,21 @@
 ### Monday 02.09.19
 - [Artificial Intelligence: Salaries Heading Skyward](https://medium.com/towards-artificial-intelligence/artificial-intelligence-salaries-heading-skyward-e41b2a7bba7d)
 
+### Saturday 07.09.19
+- [Neural Networks, Manifolds, and Topology](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+- [Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [A Gentle Introduction to the Rectified Linear Unit (ReLU)](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/)
+- [Deep Learning, NLP, and Representations](https://colah.github.io/posts/2014-07-NLP-RNNs-Representations/)
+- [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+- [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/)
+- [An introduction to Attention](https://towardsdatascience.com/an-introduction-to-attention-transformers-and-bert-part-1-da0e838c7cda)
+- [Attention in Neural Networks](https://towardsdatascience.com/attention-in-neural-networks-e66920838742)
+- [How to Develop LSTM Models for Time Series Forecasting](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
+- [An Intro Tutorial for Implementing Long Short-Term Memory Networks (LSTM)](https://heartbeat.fritz.ai/a-beginners-guide-to-implementing-long-short-term-memory-networks-lstm-eb7a2ff09a27)
+
+### Sunday 08.09.19
+- [An overview of gradient descent optimization algorithms](http://ruder.io/optimizing-gradient-descent/)
+- [An Introduction to AdaGrad](https://medium.com/konvergen/an-introduction-to-adagrad-f130ae871827)
 
 ### Thursday 17.09.19
 - [What is render prop](https://blog.bitsrc.io/understanding-render-props-in-react-1edde5921314)
@@ -394,3 +409,17 @@
 - [How Operating Systems Work - basic concepts](https://medium.com/cracking-the-data-science-interview/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)
 ### Wednesday 08.10.19
 - [how to use useEffect hook](https://overreacted.io/a-complete-guide-to-useeffect/)
+
+
+### Wednesday 12.11.19
+- [js observers](https://devszczepaniak.pl/o-obserwatorach-w-javascript/)
+- [Flutter Vs. React Native](https://www.codeproject.com/Articles/1280298/A-Comparison-Between-Flutter-And-React-Native) 
+  - Google released Flutter in May 2017.
+- [The Burp Suite family](https://portswigger.net/burp)
+  - SECURITY
+- [dietpi](https://dietpi.com/phpbb/viewtopic.php?t=5)
+
+### Saturday 16.11.19
+- [CSS grid](https://dev.to/mustapha/css-grid-illustrated-introduction-52l5)
+- [Nice TypeScript tutorial](https://www.valentinog.com/blog/typescript/)
+- [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/classes.html)
