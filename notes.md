@@ -423,3 +423,11 @@
 - [CSS grid](https://dev.to/mustapha/css-grid-illustrated-introduction-52l5)
 - [Nice TypeScript tutorial](https://www.valentinog.com/blog/typescript/)
 - [TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/classes.html)
+
+### Sunday 17.11.19
+- [setState and re-rendering](https://itnext.io/react-setstate-usage-and-gotchas-ac10b4e03d60)
+  - **setState()** will always lead to a re-render unless **shouldComponentUpdate()** returns false.
+- [Handling null and undefined in JavaScript](https://medium.com/javascript-scene/handling-null-and-undefined-in-javascript-1500c65d51ae)
+- [Understanding State Machines](https://www.freecodecamp.org/news/state-machines-basics-of-computer-science-d42855debc66/)
+  - In other words, neither a regular expression nor a finite state machine can be constructed that will recognize all the strings that do match the pattern.
+- [XState - library](https://xstate.js.org/docs/about/concepts.html#finite-state-machines)
