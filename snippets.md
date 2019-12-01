@@ -516,8 +516,9 @@ const renameProp = (  oldProp,    newProp,{ [oldProp]: old, ...others }) => ({
 if (Object.values(payload).some(isNull)) return
 
 map
-```javascript
+
 //rawData
+```json
 [
   '{{repeat(2)}}',
   {
@@ -541,7 +542,9 @@ map
     ]
   }
 ]
+```
 
+```javascript
 import data from './rawData';
 
 console.log(data instanceof Array);
@@ -559,3 +562,22 @@ const after = data.reduce((rows, row) => {
 
 console.log(after);
 ```
+
+React datapicker filter dates
+```javascript
+() => {
+  const [startDate, setStartDate] = useState(null);
+  //const a = ['2019-10-5','2019-10-8','2019-10-11''2019-10-15'];
+  const isinRange = date => {
+    return date.toLocaleDateString() === new Date('2019-10-15').toLocaleDateString();
+  };
+  return (
+    <DatePicker
+      selected={startDate}
+      onChange={date => setStartDate(date)}
+      filterDate={isinRange}
+      placeholderText="Select a weekday"
+    />
+  );
+};
+````
