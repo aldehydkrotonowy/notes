@@ -4,6 +4,11 @@ git log  --pretty=oneline | tail -n 10
 git branch -d branch_name ---> --delete
 git branch -D branch_name ---> --delete-force
 
+git log --pretty=format:"%h - %an, %ar : %s" | tail -n 10
+git stash show -p stash@{1}
+
+git checkout --track origin/somebranch
+
 
 git checkout HEAD~2 - You can also check out arbitrary commits by passing the commit reference instead of a branch.
 
