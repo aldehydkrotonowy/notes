@@ -8,16 +8,6 @@
 - [Middleware explained](https://stackoverflow.com/questions/35676259/understanding-middleware-and-route-handler-in-express-js)
 - [next() function what is for](https://stackoverflow.com/questions/13133071/express-next-function-what-is-it-really-for)
 
-### github repos
-
-- [Github trending repos](https://github.com/vitalets/github-trending-repos)
-- [NanoCore adblocker](https://github.com/NanoAdblocker/NanoCore)
-- [Snarkdown](https://github.com/developit/snarkdown) - Simple markdown parser
-- [redux - thunk package](https://github.com/gaearon/redux-thunk)
-- [Signale - Hackable console logger](https://github.com/klauscfhq/signale/blob/master/signale.js)
-- [React Native DOM - ](https://github.com/vincentriemer/react-native-dom) - An experimental, comprehensive port of React Native to the web.
-- [core-decorators](https://github.com/jayphelps/core-decorators.git)
-
 ### JavaScript core - Learning materials
 
 - :recycle: [**Rectiflux learning materials**](https://www.reactiflux.com/learning/#learning-current-javascript-es6) - <img src="./images/rectiflux.png" width="auto" height="20"/>
