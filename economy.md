@@ -6,18 +6,20 @@
 - [Obserwator finansowy](https://www.obserwatorfinansowy.pl/tematyka/makroekonomia/)
 - [viewswire](http://viewswire.eiu.com/)
 - [Blumberg](https://www.bloomberg.com/europe)
-- []()
-- []()
-- []()
+- [oilprice](https://oilprice.com/Finance/the-Economy)
+- [The Economic Times](https://economictimes.indiatimes.com)
+- [CNBC](https://www.cnbc.com/world/)
 - []()
 - []()
 - []()
 - []()
 
+### lista blogów do przekopania
 - [Blogs PL](http://generatorfinansowy.blogspot.com/)
-- [Kiedy jaka giełda działa](https://market24hclock.com/)
-- [podstawy inwestowania](https://appfunds.blogspot.com/2013/11/elementarz-inwestora.html)
-- [Wykresy giełdowe](https://stockcharts.com/) - trail, można założyć konto i potestować
+
+
+### wykresy
+- [investing.com](https://pl.investing.com/indices/wig-20-chart)
 
 #### Portale ogólne
 - [macronext.pl](http://www.macronext.pl/pl/)
@@ -34,23 +36,37 @@
 #### Banki
 - [EBC](https://www.ecb.europa.eu/home/html/index.en.html)
 
+#### Youtube
+- playlists
+  - [Stock Investing](https://www.youtube.com/playlist?list=PLECECA66C0CE68B1E)
+  - [Time Value of Money](https://www.youtube.com/watch?v=gkoEAPAW7eg&list=PL_KGEFWqEaTBbYDupRektHIMG0G9u-Ru-)
+- videos
+  - []()
+
+
 #### Blogi
 - [economic collaps](http://theeconomiccollapseblog.com/)
+- [pamiętnik giełdowy](http://at-trader.blogspot.com/)
 - [Dr. Ed's Blog](http://blog.yardeni.com/)
 - [zerohedge](https://www.zerohedge.com/)
 - [contra corner](http://davidstockmanscontracorner.com/)
 - [SRsrocco report](https://srsroccoreport.com/)
 - [Jim Sinclair's](https://www.jsmineset.com/)
 - [Doxa](https://slomski.us/)
+- [My personal forward guidance](http://franzlischka.blogspot.com/?view=sidebar)
+- [Contra corner](http://davidstockmanscontracorner.com/)
+- [zbiór blogów bossa.pl](https://blogi.bossa.pl/)
 
 ### tools and data 
 - [finviz](https://finviz.com/)
 - [biznesradar indeksy PL](https://www.biznesradar.pl/gielda/indeksy)
 - [Nice chart online](https://pl.tradingview.com/chart/?symbol=FX:EURUSD)
+- [Wykresy giełdowe](https://stockcharts.com/) - trail, można założyć konto i potestować
 
-### Blogs
-- [My personal forward guidance](http://franzlischka.blogspot.com/?view=sidebar)
-- [Contra corner](http://davidstockmanscontracorner.com/)
+#### inne
+- [Kiedy jaka giełda działa](https://market24hclock.com/)
+- [podstawy inwestowania](https://appfunds.blogspot.com/2013/11/elementarz-inwestora.html)
+- [XPLAIND - yield to maturity](https://xplaind.com/157707/yield-to-maturity)
 
 ### Obligacje - cena vs rentowność
 Jeśli bank centralny obniża stopy procentowe to obligacje wyemitowane po tej obniżce są niżej oprocentowane. Te obligacje, które były już na rynku mają bardziej atrakcyjne
