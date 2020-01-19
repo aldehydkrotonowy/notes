@@ -440,3 +440,6 @@
   - **Traits** are a way to add semantics to existing types without risking unintentional interference with existing code.
 - [Background: Traits](https://github.com/traitsjs/traits.js/#background-traits)
   - a trait is a concept used in object-oriented programming, which represents a set of methods that can be used to extend the functionality of a class.
+
+### Thursday 9.01.20
+- [react hooks](https://blog.logrocket.com/frustrations-with-react-hooks/)
