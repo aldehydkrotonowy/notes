@@ -32,6 +32,8 @@
 - [infosfera](http://infostrefa.com/infostrefa/pl/index/)
 - [HSBC](https://www.hsbc.com/)
 - [stockwatch](https://www.stockwatch.pl/)
+- [www.topstock.pl](https://www.topstock.pl/stock/company/analysis/KGH)
+- [pl.investing.com](https://pl.investing.com/indices/wig-basic-materials)
 
 #### Banki
 - [EBC](https://www.ecb.europa.eu/home/html/index.en.html)
