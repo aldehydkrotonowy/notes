@@ -431,3 +431,15 @@
 - [Understanding State Machines](https://www.freecodecamp.org/news/state-machines-basics-of-computer-science-d42855debc66/)
   - In other words, neither a regular expression nor a finite state machine can be constructed that will recognize all the strings that do match the pattern.
 - [XState - library](https://xstate.js.org/docs/about/concepts.html#finite-state-machines)
+
+### Friday 13.12.19
+- [How to use JavaScript Proxies for Fun and Profit](https://medium.com/dailyjs/how-to-use-javascript-proxies-for-fun-and-profit-365579d4a9f8)
+- [JS - 31 WeakMaps (WeakMap)](https://exploringjs.com/impatient-js/ch_weakmaps.html)
+- [Metaprogramming in ES6: Symbols and why they're awesome](https://www.keithcirkel.co.uk/metaprogramming-in-es6-symbols/)
+  - **Duck typing** - The idea is that you don't need a type in order to invoke an existing method on an object - if a method is defined on it, you can invoke it.
+  - **Traits** are a way to add semantics to existing types without risking unintentional interference with existing code.
+- [Background: Traits](https://github.com/traitsjs/traits.js/#background-traits)
+  - a trait is a concept used in object-oriented programming, which represents a set of methods that can be used to extend the functionality of a class.
+
+### Thursday 9.01.20
+- [react hooks](https://blog.logrocket.com/frustrations-with-react-hooks/)
