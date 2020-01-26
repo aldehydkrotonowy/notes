@@ -5,8 +5,8 @@
 - [Obserwator finansowy](https://www.obserwatorfinansowy.pl/tematyka/makroekonomia/)
 - [viewswire](http://viewswire.eiu.com/)
 - [Blumberg](https://www.bloomberg.com/europe)
-- []()
-- []()
+- [msn.com](https://www.msn.com/en-us/money)
+- [finance.yahoo](https://finance.yahoo.com/)
 - []()
 - []()
 - []()
@@ -22,6 +22,8 @@
 - [My personal forward guidance](http://franzlischka.blogspot.com/?view=sidebar)
 - [Contra corner](http://davidstockmanscontracorner.com/)
 
+### Learning
+- [Stock Price Prediction Using Python & Machine Learning](https://www.youtube.com/watch?v=QIUxPv5PJOY)
 ### Obligacje - cena vs rentowność
 Jeśli bank centralny obniża stopy procentowe to obligacje wyemitowane po tej obniżce są niżej oprocentowane. Te obligacje, które były już na rynku mają bardziej atrakcyjne
 oprocentowanie i są chętniej kupowane przez inwestorów - ich cena rośnie. 
