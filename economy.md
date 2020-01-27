@@ -43,7 +43,7 @@
   - [Stock Investing](https://www.youtube.com/playlist?list=PLECECA66C0CE68B1E)
   - [Time Value of Money](https://www.youtube.com/watch?v=gkoEAPAW7eg&list=PL_KGEFWqEaTBbYDupRektHIMG0G9u-Ru-)
 - videos
-  - []()
+  - [portfolio management - basics](https://www.youtube.com/watch?v=8TJQhQ2GZ0Y)
 
 
 #### Blogi
