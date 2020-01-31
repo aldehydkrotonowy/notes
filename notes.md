@@ -443,3 +443,11 @@
 
 ### Thursday 9.01.20
 - [react hooks](https://blog.logrocket.com/frustrations-with-react-hooks/)
+
+### Friday 31.01.20
+- [Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync)
+- [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements)
+- [Transakcje w systemach Java Enterprise](http://www.javaexpress.pl/article/show/Transakcje_w_systemach_Java_Enterprise_Wprowadzenie)
+- [Writing Your Own Custom React Hooks](https://blog.bitsrc.io/writing-your-own-custom-hooks-4fbcf77e112e)
+- [WeekMaps js](https://exploringjs.com/impatient-js/ch_weakmaps.html)
+- [Frustrations with React Hooks](https://blog.logrocket.com/frustrations-with-react-hooks/)
