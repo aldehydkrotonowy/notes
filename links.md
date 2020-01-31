@@ -137,13 +137,6 @@
 - [bulldogjob](https://bulldogjob.pl/)
 
 
-### Python [[TOP]](#top)
-- [Web app from scratch: part I](https://defn.io/2018/02/25/web-app-from-scratch-01/)
-- [Web app from scratch: part II](https://defn.io/2018/03/04/web-app-from-scratch-02//)
--	Big data
-	- [big data analysis](https://rubikscode.net/2019/06/03/guide-to-exploratory-data-analysis-with-python/)
-
-
 ### CSS [[TOP]](#top)
 - 	CSS
 	- [How to Write CSS That Works in Every Browser](https://hacks.mozilla.org/2018/03/how-to-write-css-that-works-in-every-browser-even-the-old-ones/)
@@ -344,17 +337,6 @@
 	- [Java Code Examples](https://www.programcreek.com/java-api-examples/index.php?api=javax.persistence.criteria.CriteriaQuery)
 
 
-### Python [[TOP]](#top)<a name="python"></a>
-- #### numpy
-	- [Python numpy tutorial](http://cs231n.github.io/python-numpy-tutorial/#python-tuples)
-	- [100 exercises in numpyt](http://www.labri.fr/perso/nrougier/teaching/numpy.100/)
-	- [Arrays in numpy 'ndarray'](https://docs.scipy.org/doc/numpy/reference/arrays.html)
-- #### basics
-	- [docs.python.org - data structures](https://docs.python.org/3.7/tutorial/datastructures.html)
-	- [python basics - collection of books](https://pythonbooks.revolunet.com/) :books:
-	- [DISCOVERING PYTHON & R](https://pythonandr.com/learning-resources/) :books:
-
-
 ### Tech [[TOP]](#top)<a name="tech"></a>
 - #### Tech Power Up database
 	- [GPU Specs Database](https://www.techpowerup.com/gpu-specs/)
@@ -380,12 +362,6 @@
 
 - [TLS communication protocol](https://tls.ulfheim.net/) :exclamation: - detailed description
 - [About cryptography](https://www.crypto101.io/) <img src='./images/pdf2.png' widht='auto' height='20'> :exclamation: 
-
-
-### Linux/Ubuntu
-- [ssh generation howto](https://www.ssh.com/ssh/keygen/)
-- kernel
-	- [kernel source code](https://elixir.bootlin.com/linux/v3.14/source/include/linux/syscalls.h#L175)
 
 
 ### Work [[TOP]](#top)

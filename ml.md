@@ -51,5 +51,8 @@
 	- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
 - GitHub repository
 	- [convnetjs](https://github.com/karpathy/convnetjs/blob/master/src/convnet_trainers.js) - ConvNetJS is a Javascript implementation of Neural networks
+
+### Youtube
+-[Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8)
 	
 	

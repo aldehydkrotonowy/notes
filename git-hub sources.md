@@ -1,8 +1,7 @@
 - [**Github trending repos**](https://github.com/vitalets/github-trending-repos)
 
 ### JS
-- [traitsjs](https://github.com/traitsjs/traits.js/#background-traits)
-	- Javascript library for Trait composition
+- [traitsjs](https://github.com/traitsjs/traits.js/#background-traits)	- Javascript library for Trait composition
 - [NanoCore adblocker](https://github.com/NanoAdblocker/NanoCore)
 - [Snarkdown](https://github.com/developit/snarkdown)
 	- Simple markdown parser
@@ -19,3 +18,4 @@
 	- A fine-grained micro-benchmark intended to investigate micro-architectural details of a target CPU, or to precisely benchmark small functions in a repeatable manner.
 	
 ### Other
+- [grafana](https://github.com/grafana/grafana) - The open-source platform for monitoring and observability.
