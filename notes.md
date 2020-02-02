@@ -458,3 +458,4 @@
 - [Push Notifications in JavaScript? Yes, you can!](https://itnext.io/an-introduction-to-web-push-notifications-a701783917ce)
 - [ESLint configuration and best practices](https://blog.geographer.fr/eslint-guide)
 - [You don't (may not) need loops](https://github.com/you-dont-need/You-Dont-Need-Loops/blob/master/readme.md#reduce)
+- [Functional Programming in JavaScript, Part 2: The Monoid](https://marmelab.com/blog/2018/04/18/functional-programming-2-monoid.html)
