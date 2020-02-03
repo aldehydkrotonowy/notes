@@ -404,6 +404,12 @@ export default function App() {
 
   
   console.log(tableData)
+
+  const objectList = tableData.flat();
+  const cellMap = objectList.map(cell => [cell.cellUUID, cell])
+  const toState = Object.fromEntries(cellMap);
+  console.log(toState)
+
   return (
     <div className="App">
       <h1>Hello CodeSandbox</h1>
@@ -427,4 +433,5 @@ const k = [
   [{},{},{}],
   [{},{},{}],
 ]
+
 ```
