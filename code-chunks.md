@@ -274,3 +274,157 @@ document.getElementById('x').addEventListener("change", e => plot(y) )
 
 plot(y)
 ```
+
+
+
+accent
+```js
+import React from "react";
+import uuid from 'uuid';
+import "./styles.css";
+const tstData = [
+  {
+    "index": 0,
+    "guid": "38a4c88b-9f37-4765-a86d-3153edd9dd50",
+    "isActive": false,
+    "balance": "$1,472.51",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "blue",
+    "name": "Ball Black",
+    "sizeCurve": "s-6-l",
+    "entities": [
+      {
+        "size": "XL",
+        "percent": 72
+      },
+      {
+        "size": "XL",
+        "percent": 11
+      },
+      {
+        "size": "S",
+        "percent": 95
+      },
+      {
+        "size": "S",
+        "percent": 86
+      },
+      {
+        "size": "L",
+        "percent": 98
+      },
+      {
+        "size": "XL",
+        "percent": 44
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "guid": "d0ce68ce-b78c-46d2-8005-162c63cde8e5",
+    "isActive": true,
+    "balance": "$1,880.03",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "green",
+    "name": "Mclean Everett",
+    "sizeCurve": "s-6-l",
+    "entities": [
+      {
+        "size": "XXX",
+        "percent": 23
+      },
+      {
+        "size": "S",
+        "percent": 13
+      },
+      {
+        "size": "XXX",
+        "percent": 23
+      },
+      {
+        "size": "S",
+        "percent": 61
+      },
+      {
+        "size": "XXX",
+        "percent": 5
+      },
+      {
+        "size": "L",
+        "percent": 48
+      },
+      {
+        "size": "L",
+        "percent": 31
+      },
+      {
+        "size": "S",
+        "percent": 73
+      }
+    ]
+  }
+]
+
+const prepareRow = ({fromObj, orderUUID,rowUUID}) => {
+  return Object.entries(fromObj)
+    .map(([key,value]) => {
+      return {
+        field:key,
+        value,
+        orderUUID,
+        rowUUID,
+        cellUUID: `f:${orderUUID}-row:${rowUUID}-col=${key}`
+      }
+    })
+  }
+
+export default function App() {
+
+  const tableData = tstData.reduce((acc,group,parentIndex) => {
+    const orderUUID= parentIndex;
+    const rowUUID = 0;
+
+    const parentRow = prepareRow({fromObj:group,orderUUID,rowUUID});
+
+    const colorRows = group.entities.map((entity, entityIndex)=>{
+      const colorRow = prepareRow({fromObj:entity,rowUUID:rowUUID+entityIndex+1,orderUUID});
+      return colorRow;
+    })
+
+    const rowGroup = [];
+    rowGroup.push(parentRow);
+    // console.log(parentRow,colorRows)
+    colorRows.map(cr => rowGroup.push(cr));
+
+    acc.push(rowGroup)
+    return acc;
+  },[]).flat();
+
+  
+  console.log(tableData)
+  return (
+    <div className="App">
+      <h1>Hello CodeSandbox</h1>
+      <h2>Start editing to see some magic happen!</h2>
+    </div>
+  );
+}
+
+const a = [[[{oko:'tdte'}]], []];
+console.log(a[0][0][0].oko)
+const o = {
+  parent: {
+    rowId: {
+      cellID: {}
+    }
+  }
+}
+
+const k = [
+  [{},{},{}],
+  [{},{},{}],
+  [{},{},{}],
+]
+```
