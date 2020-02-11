@@ -106,3 +106,11 @@
   }
 }
 ```
+
+```json
+"devDependencies": {
+  "eslint": "^6.1.0",
+  "eslint-config-airbnb-base": "^14.0.0",
+  "eslint-plugin-import": "^2.20.0" (peer dependency)
+}
+```
