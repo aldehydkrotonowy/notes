@@ -4,6 +4,7 @@
 - [eslint - facebook configuration](https://github.com/facebook/fbjs/tree/master/packages/eslint-config-fbjs-opensource)
 - [eslint - google configuration](https://github.com/google/eslint-config-google)
 - [eslint - airbnb configuration](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)
+- [Mirage JS is an API mocking library](https://miragejs.com/)
 
 
 ### other js libraries
