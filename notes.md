@@ -459,3 +459,14 @@
 - [ESLint configuration and best practices](https://blog.geographer.fr/eslint-guide)
 - [You don't (may not) need loops](https://github.com/you-dont-need/You-Dont-Need-Loops/blob/master/readme.md#reduce)
 - [Functional Programming in JavaScript, Part 2: The Monoid](https://marmelab.com/blog/2018/04/18/functional-programming-2-monoid.html)
+
+
+### Sunday 01.03.20
+- [productivity](https://guzey.com/productivity/)
+- [10 Useful Web APIs for 2020](https://blog.bitsrc.io/10-useful-web-apis-for-2020-8e43905cbdc5)
+- [A Guide to Console Commands](https://css-tricks.com/a-guide-to-console-commands/)
+- [How To Use The HTML Drag-And-Drop API In React](https://www.smashingmagazine.com/2020/02/html-drag-drop-api-react/)
+- [How To Make A Drag-and-Drop File Uploader With Vanilla JavaScript](https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/)
+- [hooks - usereducer](https://reactjs.org/docs/hooks-reference.html#usereducer)
+- [Intro to PWAs and Service Workers](https://dev.to/thisdotmedia/intro-to-pwa-and-service-workers-15d4)
+- [22 PWA Interview Questions Every Developer Should Know in 2020](https://dev.to/fullstackcafe/22-pwa-interview-questions-every-developer-should-know-in-2020-3jfm)

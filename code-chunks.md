@@ -446,3 +446,14 @@ const getAddCircleIcon = () => {
   return AddCircleIconRef;
 };
 ````
+var info = text => console.log('%c%s', `
+  background: white;
+  border: 3px solid red;
+  color: red;
+  font-size: 50px;
+  margin: 40px;
+  padding: 20px;
+`, text);
+
+info('ole')
+```
