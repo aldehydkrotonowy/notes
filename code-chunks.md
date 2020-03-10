@@ -435,3 +435,14 @@ const k = [
 ]
 
 ```
+
+
+```javascript
+const getAddCircleIcon = () => {
+  const AddCircleIconRef = React.forwardRef((props, ref) => (
+    <AddCircleIcon {...props} ref={ref} />
+  ));
+  AddCircleIconRef.displayName = "AddCircleIcon";
+  return AddCircleIconRef;
+};
+````
