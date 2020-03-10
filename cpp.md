@@ -19,7 +19,7 @@
 - [IBM Knowledge Center C++](https://www.ibm.com/support/knowledgecenter/SSLTBW_2.2.0/com.ibm.zos.v2r2.cbclx01/allocation_and_deallocation.htm)
 - [C++ and Data Structures & Algorithms Cheat Sheet](https://github.com/gibsjose/cpp-cheat-sheet)
 - [C++ Network Library](https://github.com/glynos/cpp-netlib)
-
+- [Find a peak element](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)
 
 ### keywords
 - pointers to fuctions
