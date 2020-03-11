@@ -470,3 +470,9 @@
 - [hooks - usereducer](https://reactjs.org/docs/hooks-reference.html#usereducer)
 - [Intro to PWAs and Service Workers](https://dev.to/thisdotmedia/intro-to-pwa-and-service-workers-15d4)
 - [22 PWA Interview Questions Every Developer Should Know in 2020](https://dev.to/fullstackcafe/22-pwa-interview-questions-every-developer-should-know-in-2020-3jfm)
+
+### Tuesday 10.03.20
+- [React Native Starter Kits Review for 2020](https://blog.bitsrc.io/react-native-starter-kits-review-for-2020-f683b3607a6e)
+- [How to Write and Design User-Friendly Error Messages](https://medium.com/thinking-design/how-to-write-design-user-friendly-error-messages-87d0207bb902)
+- [Build Your Own JavaScript Testing Framework](https://blog.bitsrc.io/build-your-own-javascript-testing-framework-377e6583c870)
+- [Vanilla Two-Way Binding in JavaScript](https://medium.com/better-programming/js-vanilla-two-way-binding-5a29bc86c787)
