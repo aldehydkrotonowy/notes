@@ -457,3 +457,14 @@ var info = text => console.log('%c%s', `
 
 info('ole')
 ```
+
+
+```javascript
+  [prev, next]
+  const sortedByPlannedDeliveryDateAsc = Object.keys(entitiesCollection).sort((next, prev) => {
+    return  1; i_next > i_prev 
+    return -1; i_next < i_prev (swap)
+    return  0; do nothing
+
+  })
+  ```
