@@ -16,5 +16,6 @@
 - [moment](https://github.com/moment/moment)
 - [axios](https://github.com/axios/axios)
 - [uuid](https://github.com/uuidjs/uuid#readme)
+- [ShellJS](https://github.com/shelljs/shelljs) - Unix shell commands for Node.js
 
 
