@@ -21,6 +21,40 @@
 - [C++ Network Library](https://github.com/glynos/cpp-netlib)
 - [Find a peak element](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)
 
+### StackOverflow
+- [How can I generate an ELF file with GCC?](https://stackoverflow.com/questions/21689261/how-can-i-generate-an-elf-file-with-gcc)
+- [Makefiles, how can I use them?](https://stackoverflow.com/questions/20145132/makefiles-how-can-i-use-them)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
 ### keywords
 - pointers to fuctions
 ```c++
@@ -119,3 +153,6 @@ Usage : As we know, an internally linked variable is passed by copy. Thus, if a 
 External Linkage: An identifier implementing external linkage is visible to every translation unit. Externally linked identifiers are shared between translation units and are considered to be located at the outermost level of the program. In practice, this means that you must define an identifier in a place which is visible to all, such that it has only one visible definition. It is the default linkage for globally scoped variables and functions. Thus, all instances of a particular identifier with external linkage refer to the same identifier in the program. The keyword extern implements external linkage.
 
 When we use the keyword extern, we tell the linker to look for the definition elsewhere. Thus, the declaration of an externally linked identifier does not take up any space. Extern identifiers are generally stored in initialized/uninitialized or text segment of RAM.
+
+
+
