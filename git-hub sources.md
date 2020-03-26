@@ -16,6 +16,7 @@
 ### C++
 - [uarch-bench](https://github.com/travisdowns/uarch-bench)
 	- A fine-grained micro-benchmark intended to investigate micro-architectural details of a target CPU, or to precisely benchmark small functions in a repeatable manner.
+- [RE2, a regular expression library.](https://github.com/google/re2)
 	
 ### Other
 - [grafana](https://github.com/grafana/grafana) - The open-source platform for monitoring and observability.
