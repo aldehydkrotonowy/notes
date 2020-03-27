@@ -13,6 +13,9 @@
 ### CPP projects
 - [50+ C/C++ Projects with Source Code](https://www.codewithc.com/c-projects-with-source-code/)
 
+### Chromium code search
+- [cs.chromium.org](https://cs.chromium.org/chromium/src/storage/browser/blob/blob_memory_controller.cc?q=CalculateBlobStorageLimitsImpl&sq=package:chromium&l=74)
+
 ### links
 - [Getting started with llvm](https://riptutorial.com/llvm)
 - [What Is Static Analysis](https://www.perforce.com/blog/sca/what-static-analysis)

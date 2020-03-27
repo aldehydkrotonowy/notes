@@ -480,3 +480,6 @@
 ### Monday 23.03.20
 - [15 Sites for Programming Exercises](https://programmingzen.com/15-sites-for-programming-exercises/)
 - [The 10 most popular coding challenge websites for 2020](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)
+
+### Thursday 26.03.20
+- [props children cloning](https://frontarm.com/james-k-nelson/passing-data-props-children/)
