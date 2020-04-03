@@ -11,14 +11,24 @@
 ### Advanced
 
 - [C++ Weekly - Ep 1 ChaiScript_Parser Initialization Refactor](https://www.youtube.com/watch?v=EJtqHLvAIZE&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
+- [Boost C++ library](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/coroutine2/overview.html)
+
+### Corutines 
+- [YOUR FIRST COROUTINE - part 1](https://blog.panicsoftware.com/your-first-coroutine/);
+- [COROUTINES INTRODUCTION - part 2](https://blog.panicsoftware.com/coroutines-introduction/)
+- [Help understanding of the C++ Coroutines](https://github.com/luncliff/coroutine)
+- [C++ links: Coroutines](https://gist.github.com/MattPD/9b55db49537a90545a90447392ad3aeb#file-cpp-std-coroutines-draft-md)
 
 ### CPP projects
 
 - [50+ C/C++ Projects with Source Code](https://www.codewithc.com/c-projects-with-source-code/)
 - [Google Test, Google's C++ test framework](https://github.com/google/googletest)
+- [Quantum ](https://github.com/bloomberg/quantum) - C++ framework build on top of the Boost coroutine library
+
 
 ### Chromium code search
 - [cs.chromium.org](https://cs.chromium.org/chromium/src/storage/browser/blob/blob_memory_controller.cc?q=CalculateBlobStorageLimitsImpl&sq=package:chromium&l=74)
+- [blob_memory_controller.cc](https://source.chromium.org/chromium/chromium/src/+/master:storage/browser/blob/blob_memory_controller.cc;bpv=0?originalUrl=https:%2F%2Fcs.chromium.org%2F)
 
 ### links
 
