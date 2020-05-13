@@ -38,6 +38,10 @@
 - [C++ and Data Structures & Algorithms Cheat Sheet](https://github.com/gibsjose/cpp-cheat-sheet)
 - [C++ Network Library](https://github.com/glynos/cpp-netlib)
 - [Find a peak element](https://www.geeksforgeeks.org/find-a-peak-in-a-given-array/)
+- [C++ Simple Programs And Examples](http://www.codebind.com/cpp/cpp-programs-examples/)
+- [C++ Algorithms, Problems & Programming Examples](https://www.sanfoundry.com/1000-cpp-algorithms-problems-programming-examples/)
+- [C++ kurs PL](https://www.fuw.edu.pl/~werner/pmn/CPP_HTML/CPP_files/PRG2CPP.html)
+- [Elements of programming](http://elementsofprogramming.com/eop.pdf) :book:
 
 ### StackOverflow
 
@@ -177,3 +181,20 @@ Usage : As we know, an internally linked variable is passed by copy. Thus, if a 
 External Linkage: An identifier implementing external linkage is visible to every translation unit. Externally linked identifiers are shared between translation units and are considered to be located at the outermost level of the program. In practice, this means that you must define an identifier in a place which is visible to all, such that it has only one visible definition. It is the default linkage for globally scoped variables and functions. Thus, all instances of a particular identifier with external linkage refer to the same identifier in the program. The keyword extern implements external linkage.
 
 When we use the keyword extern, we tell the linker to look for the definition elsewhere. Thus, the declaration of an externally linked identifier does not take up any space. Extern identifiers are generally stored in initialized/uninitialized or text segment of RAM.
+
+
+### Others
+MSYS2
+Krótki opis instalacji (w razie wątpliwości lub problemów skonsultuj się z manualem powyżej):
+
+- Zainstaluj MSYS2 do katalogu w ścieżce bez spacji (WAŻNE, bo inaczej będziesz miał problemy na każdym kroku)
+- Uruchom msys2_shell.bat
+- Zaktualizuj bazę pakietów pacman -Sy
+- Zaktualizuj główne pakiety pacman -S --needed filesystem msys2-runtime bash libreadline libiconv libarchive libgpgme libcurl pacman ncurses libintl
+- Zamknij okno konsoli.
+- Uruchom autorebase.bat.
+- Uruchom ponownie msys2_shell.bat
+- Zaktualizuj resztę pakietów pacman -Su
+- Gotowe! Masz podstawowe środowisko MSYS2. Teraz możesz instalować pozostałe pakiety.
+
+instalacja pakietów: *pacman -S nazwa-pakietu*, Szukanie pakietów: *pacman -Ss nazwa-pakietu*, Usuwanie pakietów: *pacman -R nazwa-pakietu*, Aktualizacja pakietow: *pacman -Su*, Aktualizacja bazy pakietów: *pacman -Sy*

@@ -483,3 +483,6 @@
 
 ### Thursday 26.03.20
 - [props children cloning](https://frontarm.com/james-k-nelson/passing-data-props-children/)
+
+### Wednesday 13.05.20
+- [Cross-Site Request Forgery (CSRF)](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html#introduction)

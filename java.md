@@ -1,9 +1,15 @@
 ### Links
 - [Spring Data JPA - Interface-based Projections](https://www.logicbig.com/tutorials/spring-framework/spring-data/interface-based-projections.html)
 - [Lombok annotation](https://stormit.pl/lombok/#requiredargsconstructor)
+- [Java code snippets](https://www.codota.com/code/java/classes/org.springframework.security.web.csrf.CookieCsrfTokenRepository)
 
 
+### Hibernate
+- [Chapter 2. Mapping Entities](https://docs.jboss.org/hibernate/annotations/3.5/reference/en/html/entity.html)
 
+
+### Annotations
+- [Spring Data JPA @Query](https://www.baeldung.com/spring-data-jpa-query)
 
 
 
