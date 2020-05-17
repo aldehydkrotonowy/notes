@@ -17,5 +17,7 @@
 - [axios](https://github.com/axios/axios)
 - [uuid](https://github.com/uuidjs/uuid#readme)
 - [ShellJS](https://github.com/shelljs/shelljs) - Unix shell commands for Node.js
-
-
+- [big](https://github.com/MikeMcl/big.js/)
+- [bignumber](https://github.com/MikeMcl/bignumber.js/)
+- [decimal.js](https://github.com/MikeMcl/decimal.js/)
+- [Pdf.jsx](https://gist.github.com/atolkachiov/dd2e257f669b1a5ca06e4f4514326d3b)
