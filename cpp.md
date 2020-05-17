@@ -9,10 +9,10 @@
 - [Makefile - tutorial](https://www.youtube.com/watch?v=GExnnTaBELk)
 
 ### Advanced
-
+- [MISRA](https://www.misra.org.uk/MISRAHome/Whoarewe/tabid/67/Default.aspx)
 - [C++ Weekly - Ep 1 ChaiScript_Parser Initialization Refactor](https://www.youtube.com/watch?v=EJtqHLvAIZE&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
 - [Boost C++ library](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/coroutine2/overview.html)
-
+- [Przydatne narzędzia przy sprawdzaniu i rozwijaniu kodu C/C++(i nie tylko)](https://github.com/qarmin/Instrukcje-i-Tutoriale/blob/master/AnalizatoryCC%2B%2B.md#przydatne-narz%C4%99dzia-przy-sprawdzaniu-i-rozwijaniu-kodu-cci-nie-tylko)
 ### Corutines 
 - [YOUR FIRST COROUTINE - part 1](https://blog.panicsoftware.com/your-first-coroutine/);
 - [COROUTINES INTRODUCTION - part 2](https://blog.panicsoftware.com/coroutines-introduction/)
@@ -80,6 +80,10 @@
 ### keywords
 
 - pointers to fuctions
+1. **cppcheck** generuje dużo śmieciowych warningów (przynajmniej gdy go używałem)
+2. **valgrind8** zawsze prawdę ci powie i to narzędzie jest godne polecenia niemniej może być kłopotliwe w użyciu na niektórych platformach (np problem z offsetami na malince)
+3. **scan-build** wiele przegapić może, choć ładne raporty generuje
+4. **coverity** jest rzeczywiście dobre (piszę o komercyjnej wersji), każdy początkujący programista powinien przetrzepać swój projekt tym narzędziem a wiele przemyśleń może zyskać.
 
 ### C++
 

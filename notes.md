@@ -486,3 +486,8 @@
 
 ### Wednesday 13.05.20
 - [Cross-Site Request Forgery (CSRF)](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html#introduction)
+
+### Sunday 17.05.20
+- [Everything You Need to Know to Get Started with Microservices](https://dev.to/microtica/everything-you-need-to-know-to-get-started-with-microservices-5243)
+- [Job Control: the Bash Feature You Only Think You Don't Need](https://www.linuxjournal.com/content/job-control-bash-feature-you-only-think-you-dont-need)
+- [Creating Morphing Animations with CSS clip-path](https://blog.bitsrc.io/creating-morphing-animations-with-css-clip-path-3c3bf5e4335f)
