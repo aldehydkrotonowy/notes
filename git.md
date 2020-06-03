@@ -22,6 +22,8 @@ git checkout HEAD~2 - You can also check out arbitrary commits by passing the co
 6. git push --force
 - [amending](https://help.github.com/en/articles/changing-a-commit-message)
 
+git log --follow -p -- <file> - Show the entire history of a file (including history beyond renames):
+
 ### GitHub tutorials
 - [10 Common Git Problems and How to Fix Them](https://citizen428.net/10-common-git-problems-and-how-to-fix-them-e8d809299f08)
 - [how to use git nice pictures](https://rachelcarmena.github.io/2018/12/12/how-to-teach-git.html)

@@ -444,5 +444,53 @@
 ### Thursday 9.01.20
 - [react hooks](https://blog.logrocket.com/frustrations-with-react-hooks/)
 
+### Friday 31.01.20
+- [Introducing Background Sync](https://developers.google.com/web/updates/2015/12/background-sync)
+- [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements)
+- [Transakcje w systemach Java Enterprise](http://www.javaexpress.pl/article/show/Transakcje_w_systemach_Java_Enterprise_Wprowadzenie)
+- [Writing Your Own Custom React Hooks](https://blog.bitsrc.io/writing-your-own-custom-hooks-4fbcf77e112e)
+- [WeekMaps js](https://exploringjs.com/impatient-js/ch_weakmaps.html)
+- [Frustrations with React Hooks](https://blog.logrocket.com/frustrations-with-react-hooks/)
+
+### Saturdayy 01.02.20
+- [node and event loop](https://blog.soshace.com/advanced-node-js-a-hands-on-guide-to-event-loop-child-process-and-worker-threads-in-node-js/) - child_process, worker thread
+- [Node.js multithreading:](https://blog.logrocket.com/node-js-multithreading-what-are-worker-threads-and-why-do-they-matter-48ab102f8b10/)
+- [Push Notifications in JavaScript? Yes, you can!](https://itnext.io/an-introduction-to-web-push-notifications-a701783917ce)
+- [ESLint configuration and best practices](https://blog.geographer.fr/eslint-guide)
+- [You don't (may not) need loops](https://github.com/you-dont-need/You-Dont-Need-Loops/blob/master/readme.md#reduce)
+- [Functional Programming in JavaScript, Part 2: The Monoid](https://marmelab.com/blog/2018/04/18/functional-programming-2-monoid.html)
+
+
+### Sunday 01.03.20
+- [productivity](https://guzey.com/productivity/)
+- [10 Useful Web APIs for 2020](https://blog.bitsrc.io/10-useful-web-apis-for-2020-8e43905cbdc5)
+- [A Guide to Console Commands](https://css-tricks.com/a-guide-to-console-commands/)
+- [How To Use The HTML Drag-And-Drop API In React](https://www.smashingmagazine.com/2020/02/html-drag-drop-api-react/)
+- [How To Make A Drag-and-Drop File Uploader With Vanilla JavaScript](https://www.smashingmagazine.com/2018/01/drag-drop-file-uploader-vanilla-js/)
+- [hooks - usereducer](https://reactjs.org/docs/hooks-reference.html#usereducer)
+- [Intro to PWAs and Service Workers](https://dev.to/thisdotmedia/intro-to-pwa-and-service-workers-15d4)
+- [22 PWA Interview Questions Every Developer Should Know in 2020](https://dev.to/fullstackcafe/22-pwa-interview-questions-every-developer-should-know-in-2020-3jfm)
+
+### Tuesday 10.03.20
+- [React Native Starter Kits Review for 2020](https://blog.bitsrc.io/react-native-starter-kits-review-for-2020-f683b3607a6e)
+- [How to Write and Design User-Friendly Error Messages](https://medium.com/thinking-design/how-to-write-design-user-friendly-error-messages-87d0207bb902)
+- [Build Your Own JavaScript Testing Framework](https://blog.bitsrc.io/build-your-own-javascript-testing-framework-377e6583c870)
+- [Vanilla Two-Way Binding in JavaScript](https://medium.com/better-programming/js-vanilla-two-way-binding-5a29bc86c787)
+
+### Monday 23.03.20
+- [15 Sites for Programming Exercises](https://programmingzen.com/15-sites-for-programming-exercises/)
+- [The 10 most popular coding challenge websites for 2020](https://www.freecodecamp.org/news/the-10-most-popular-coding-challenge-websites-of-2016-fb8a5672d22f/)
+
+### Thursday 26.03.20
+- [props children cloning](https://frontarm.com/james-k-nelson/passing-data-props-children/)
+
+### Wednesday 13.05.20
+- [Cross-Site Request Forgery (CSRF)](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html#introduction)
+
+### Sunday 17.05.20
+- [Everything You Need to Know to Get Started with Microservices](https://dev.to/microtica/everything-you-need-to-know-to-get-started-with-microservices-5243)
+- [Job Control: the Bash Feature You Only Think You Don't Need](https://www.linuxjournal.com/content/job-control-bash-feature-you-only-think-you-dont-need)
+- [Creating Morphing Animations with CSS clip-path](https://blog.bitsrc.io/creating-morphing-animations-with-css-clip-path-3c3bf5e4335f)
+
 ### Wednesday 3.06.20
 - [Cache API in JavaScript](https://medium.com/javascript-dots/cache-api-in-javascript-644380391681)

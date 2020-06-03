@@ -226,3 +226,245 @@ io.on('connection', (socket) => {
 
 });
 ```
+
+
+
+```js
+///https://github.com/victorqribeiro/plot/blob/master/js/main.js
+const canvas = document.getElementById('canvas');
+canvas.width = w = innerWidth;
+canvas.height = h = innerHeight;
+const ctx = canvas.getContext('2d');
+const w2 = w>>1, h2 = h>>1;
+
+const plot = y => {
+	ctx.clearRect(0,0,w,h)
+	ctx.save()
+	ctx.translate(w2,h2)
+	ctx.beginPath()
+	ctx.moveTo(-w2,0)
+	ctx.lineTo(w2,0)
+	ctx.strokeStyle = "gray"
+	ctx.stroke()
+	ctx.fillText("x",w2-10,10)
+	ctx.beginPath()
+	ctx.moveTo(0,-h2)
+	ctx.lineTo(0,h2)
+	ctx.stroke()
+	ctx.fillText("y",10,-h2+10)
+	ctx.beginPath()
+	for(let i = -w2; i < w2; i++)
+		if( i == -w2 )
+			ctx.moveTo(i,-y(i));
+		else
+			ctx.lineTo(i,-y(i));
+	ctx.strokeStyle = 'black'
+	ctx.stroke()
+	ctx.restore()
+}
+
+const y = x => eval(document.getElementById('x').value) // x is an input element
+
+document.getElementById('x').addEventListener("keydown", e => {
+	if(e.keyCode == 13)
+		plot(y)
+})
+
+document.getElementById('x').addEventListener("change", e => plot(y) )
+
+plot(y)
+```
+
+
+
+accent
+```js
+import React from "react";
+import uuid from 'uuid';
+import "./styles.css";
+const tstData = [
+  {
+    "index": 0,
+    "guid": "38a4c88b-9f37-4765-a86d-3153edd9dd50",
+    "isActive": false,
+    "balance": "$1,472.51",
+    "picture": "http://placehold.it/32x32",
+    "age": 36,
+    "eyeColor": "blue",
+    "name": "Ball Black",
+    "sizeCurve": "s-6-l",
+    "entities": [
+      {
+        "size": "XL",
+        "percent": 72
+      },
+      {
+        "size": "XL",
+        "percent": 11
+      },
+      {
+        "size": "S",
+        "percent": 95
+      },
+      {
+        "size": "S",
+        "percent": 86
+      },
+      {
+        "size": "L",
+        "percent": 98
+      },
+      {
+        "size": "XL",
+        "percent": 44
+      }
+    ]
+  },
+  {
+    "index": 1,
+    "guid": "d0ce68ce-b78c-46d2-8005-162c63cde8e5",
+    "isActive": true,
+    "balance": "$1,880.03",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "green",
+    "name": "Mclean Everett",
+    "sizeCurve": "s-6-l",
+    "entities": [
+      {
+        "size": "XXX",
+        "percent": 23
+      },
+      {
+        "size": "S",
+        "percent": 13
+      },
+      {
+        "size": "XXX",
+        "percent": 23
+      },
+      {
+        "size": "S",
+        "percent": 61
+      },
+      {
+        "size": "XXX",
+        "percent": 5
+      },
+      {
+        "size": "L",
+        "percent": 48
+      },
+      {
+        "size": "L",
+        "percent": 31
+      },
+      {
+        "size": "S",
+        "percent": 73
+      }
+    ]
+  }
+]
+
+const prepareRow = ({fromObj, orderUUID,rowUUID}) => {
+  return Object.entries(fromObj)
+    .map(([key,value]) => {
+      return {
+        field:key,
+        value,
+        orderUUID,
+        rowUUID,
+        cellUUID: `f:${orderUUID}-row:${rowUUID}-col=${key}`
+      }
+    })
+  }
+
+export default function App() {
+
+  const tableData = tstData.reduce((acc,group,parentIndex) => {
+    const orderUUID= parentIndex;
+    const rowUUID = 0;
+
+    const parentRow = prepareRow({fromObj:group,orderUUID,rowUUID});
+
+    const colorRows = group.entities.map((entity, entityIndex)=>{
+      const colorRow = prepareRow({fromObj:entity,rowUUID:rowUUID+entityIndex+1,orderUUID});
+      return colorRow;
+    })
+
+    const rowGroup = [];
+    rowGroup.push(parentRow);
+    // console.log(parentRow,colorRows)
+    colorRows.map(cr => rowGroup.push(cr));
+
+    acc.push(rowGroup)
+    return acc;
+  },[]).flat();
+
+  
+  console.log(tableData)
+
+  const objectList = tableData.flat();
+  const cellMap = objectList.map(cell => [cell.cellUUID, cell])
+  const toState = Object.fromEntries(cellMap);
+  console.log(toState)
+
+  return (
+    <div className="App">
+      <h1>Hello CodeSandbox</h1>
+      <h2>Start editing to see some magic happen!</h2>
+    </div>
+  );
+}
+
+const a = [[[{oko:'tdte'}]], []];
+console.log(a[0][0][0].oko)
+const o = {
+  parent: {
+    rowId: {
+      cellID: {}
+    }
+  }
+}
+
+const k = [
+  [{},{},{}],
+  [{},{},{}],
+  [{},{},{}],
+]
+
+```
+
+
+```javascript
+const getAddCircleIcon = () => {
+  const AddCircleIconRef = React.forwardRef((props, ref) => (
+    <AddCircleIcon {...props} ref={ref} />
+  ));
+  AddCircleIconRef.displayName = "AddCircleIcon";
+  return AddCircleIconRef;
+};
+````
+var info = text => console.log('%c%s', `
+  background: white;
+  border: 3px solid red;
+  color: red;
+  font-size: 50px;
+  margin: 40px;
+  padding: 20px;
+`, text);
+
+info('ole')
+```
+
+
+```javascript
+  [prev, next]
+  const sortedByPlannedDeliveryDateAsc = Object.keys(entitiesCollection).sort((next, prev) => {
+    return  1; i_next > i_prev 
+    return -1; i_next < i_prev (swap)
+    return  0; do nothing
+
+  })
+  ```
