@@ -443,3 +443,6 @@
 
 ### Thursday 9.01.20
 - [react hooks](https://blog.logrocket.com/frustrations-with-react-hooks/)
+
+### Wednesday 3.06.20
+- [Cache API in JavaScript](https://medium.com/javascript-dots/cache-api-in-javascript-644380391681)
