@@ -14,6 +14,10 @@
 - [C++ Weekly - Ep 1 ChaiScript_Parser Initialization Refactor](https://www.youtube.com/watch?v=EJtqHLvAIZE&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
 - [Boost C++ library](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/coroutine2/overview.html)
 - [Working Draft, Standard for Programming Language C++](https://eel.is/c++draft/)
+- [MISRA](https://www.misra.org.uk/MISRAHome/Whoarewe/tabid/67/Default.aspx)
+- [C++ Weekly - Ep 1 ChaiScript_Parser Initialization Refactor](https://www.youtube.com/watch?v=EJtqHLvAIZE&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
+- [Boost C++ library](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/coroutine2/overview.html)
+- [Przydatne narzędzia przy sprawdzaniu i rozwijaniu kodu C/C++(i nie tylko)](https://github.com/qarmin/Instrukcje-i-Tutoriale/blob/master/AnalizatoryCC%2B%2B.md#przydatne-narz%C4%99dzia-przy-sprawdzaniu-i-rozwijaniu-kodu-cci-nie-tylko)
 
 ### Corutines 
 - [YOUR FIRST COROUTINE - part 1](https://blog.panicsoftware.com/your-first-coroutine/);
@@ -24,6 +28,48 @@
 ### CPP projects
 
 - [50+ C/C++ Projects with Source Code](https://www.codewithc.com/c-projects-with-source-code/)
+
+lesson 1
+
+#### function pointers
+
+declaration
+
+```c++
+int (*fcnPtr)();
+int (*const fcnPtr)();
+```
+
+assigning functin to function pointer
+
+```c++
+int foo();
+double goo();
+int hoo(int x);
+
+int (*fcnPtr1)(){ foo };
+double (*fcnPtr4)(){ goo };
+int (*fcnPtr3)(int){ hoo };
+
+//calls
+(*fcnPtr)(5); //explicit dereference
+fcnPtr(5); //implicite dereference
+```
+
+### C++ 20
+
+- [07.2019 Cologne Report](https://botondballo.wordpress.com/2019/07/26/trip-report-c-standards-meeting-in-cologne-july-2019/)
+- [02.2019 Kona Report](https://botondballo.wordpress.com/2019/03/20/trip-report-c-standards-meeting-in-kona-february-2019/)
+
+* char8_t – is not an alias to other data types.
+* constexpr
+  - try...catch can be written as constexpr
+  - dynamic_cast and typied can be called in constexpr
+  - std::is_constant_evaluated() - returns true if the function is currently calculated at the compilation stage
+* std :: bind_front
+* std :: assume_aligned
+* Ranges
+* Coroutines
 - [Google Test, Google's C++ test framework](https://github.com/google/googletest)
 - [Quantum ](https://github.com/bloomberg/quantum) - C++ framework build on top of the Boost coroutine library
 
@@ -82,6 +128,10 @@
 ### keywords
 
 - pointers to fuctions
+1. **cppcheck** generuje dużo śmieciowych warningów (przynajmniej gdy go używałem)
+2. **valgrind8** zawsze prawdę ci powie i to narzędzie jest godne polecenia niemniej może być kłopotliwe w użyciu na niektórych platformach (np problem z offsetami na malince)
+3. **scan-build** wiele przegapić może, choć ładne raporty generuje
+4. **coverity** jest rzeczywiście dobre (piszę o komercyjnej wersji), każdy początkujący programista powinien przetrzepać swój projekt tym narzędziem a wiele przemyśleń może zyskać.
 
 ### C++
 
