@@ -5,5 +5,5 @@ in cmd (admin)
 
 then 
 
-`taskkill /PID PORT_NUMBER /F`
+`taskkill /PID PROCESS_PID /F`
 - [soruce](https://stackoverflow.com/questions/39632667/how-do-i-kill-the-process-currently-using-a-port-on-localhost-in-windows)

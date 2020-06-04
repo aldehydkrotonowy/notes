@@ -7,11 +7,13 @@
 - [CMake Tutorials - 2. Add 3rd party library with find_package](https://www.youtube.com/watch?v=oBcDcVq1qnA)
 - [How To install newest version of CMake on Linux](https://www.youtube.com/watch?v=_yFPO1ofyF0&list=PLK6MXr8gasrGmIiSuVQXpfFuE1uPT615s)
 - [Makefile - tutorial](https://www.youtube.com/watch?v=GExnnTaBELk)
-
+- [Let there be constants!](https://mariusbancila.ro/blog/2019/09/10/let-there-be-constants/)
+- [C++20 IS FEATURE COMPLETE](https://hackaday.com/2019/07/30/c20-is-feature-complete-heres-what-changes-are-coming/)
 ### Advanced
-
+- [OBJECTS, THEIR LIFETIMES AND POINTERS](https://blog.panicsoftware.com/objects-their-lifetimes-and-pointers/)
 - [C++ Weekly - Ep 1 ChaiScript_Parser Initialization Refactor](https://www.youtube.com/watch?v=EJtqHLvAIZE&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
 - [Boost C++ library](https://www.boost.org/doc/libs/1_65_0/libs/coroutine2/doc/html/coroutine2/overview.html)
+- [Working Draft, Standard for Programming Language C++](https://eel.is/c++draft/)
 
 ### Corutines 
 - [YOUR FIRST COROUTINE - part 1](https://blog.panicsoftware.com/your-first-coroutine/);
@@ -182,6 +184,12 @@ External Linkage: An identifier implementing external linkage is visible to ever
 
 When we use the keyword extern, we tell the linker to look for the definition elsewhere. Thus, the declaration of an externally linked identifier does not take up any space. Extern identifiers are generally stored in initialized/uninitialized or text segment of RAM.
 
+### Concept
+**Concepts** are named Boolean predicates on template parameters, evaluated at compile time.
+or
+A **concept** is a set of requirements on a set of template arguments.
+
+A concept may be associated with a template (class template, function template, or member function of a class template), in which case it serves as a constraint: it limits the set of arguments that are accepted as template parameters.
 
 ### Others
 MSYS2

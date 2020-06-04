@@ -82,3 +82,7 @@ public class ExampleClient {
   }
 }
 ```
+
+
+### Lombork
+@RequiredArgsConstructor - Generates a constructor with required arguments. Required arguments are final fields and fields with constraints such as @NonNull.
