@@ -9,6 +9,12 @@
 - [Makefile - tutorial](https://www.youtube.com/watch?v=GExnnTaBELk)
 ### Advanced
 - [C++ Weekly - Ep 1 ChaiScript_Parser Initialization Refactor](https://www.youtube.com/watch?v=EJtqHLvAIZE&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
+	
+### Youtube
+- [Tech Talk: C++ Advanced Topics in Templates](https://www.youtube.com/watch?v=X30OwlsMWak)
+	-- variadic parameter type
+
+
 
 ### CPP projects
 - [50+ C/C++ Projects with Source Code](https://www.codewithc.com/c-projects-with-source-code/)
@@ -155,4 +161,6 @@ External Linkage: An identifier implementing external linkage is visible to ever
 When we use the keyword extern, we tell the linker to look for the definition elsewhere. Thus, the declaration of an externally linked identifier does not take up any space. Extern identifiers are generally stored in initialized/uninitialized or text segment of RAM.
 
 
+
+### [C++ Type Traits](https://www.drdobbs.com/cpp/c-type-traits/184404270)
 
