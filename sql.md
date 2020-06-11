@@ -32,3 +32,14 @@ table location_country;
 table si_input_licence;
 \\
 ```
+
+```sql
+SELECT oa.order_id, array_agg(oa.area_id)
+FROM order_item_area oa
+LEFT JOIN "order" o ON o.id = oa.order_id
+LEFT JOIN STYLE st ON st.id = o.style_id
+WHERE 
+st.model = '7971D'
+AND oa.included = TRUE
+GROUP BY oa.order_id
+```

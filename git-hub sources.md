@@ -1,21 +1,16 @@
 - [**Github trending repos**](https://github.com/vitalets/github-trending-repos)
 
 ### JS
-- [traitsjs](https://github.com/traitsjs/traits.js/#background-traits)	- Javascript library for Trait composition
+
+- [traitsjs](https://github.com/traitsjs/traits.js/#background-traits) - Javascript library for Trait composition
 - [NanoCore adblocker](https://github.com/NanoAdblocker/NanoCore)
-- [Snarkdown](https://github.com/developit/snarkdown)
-	- Simple markdown parser
+- [Snarkdown](https://github.com/developit/snarkdown) - Simple markdown parser
 - [redux - thunk package](https://github.com/gaearon/redux-thunk)
 - [Signale - Hackable console logger](https://github.com/klauscfhq/signale/blob/master/signale.js)
-- [React Native DOM - ](https://github.com/vincentriemer/react-native-dom)
-	- An experimental, comprehensive port of React Native to the web.
+- [React Native DOM - ](https://github.com/vincentriemer/react-native-dom) - An experimental, comprehensive port of React Native to the web.
 - [core-decorators](https://github.com/jayphelps/core-decorators.git)
-- [react-fns](https://github.com/jaredpalmer/react-fns) 
-	- collection of imperative Browser API's turned into declarative React components
+- [react-fns](https://github.com/jaredpalmer/react-fns) - collection of imperative Browser API's turned into declarative React components
 
-### C++
-- [uarch-bench](https://github.com/travisdowns/uarch-bench)
-	- A fine-grained micro-benchmark intended to investigate micro-architectural details of a target CPU, or to precisely benchmark small functions in a repeatable manner.
-	
 ### Other
+
 - [grafana](https://github.com/grafana/grafana) - The open-source platform for monitoring and observability.
