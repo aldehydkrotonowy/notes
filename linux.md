@@ -18,6 +18,10 @@ sudo update-alternatives --install /usr/bin/python3 python /usr/bin/python3.6 1
 sudo update-alternatives --install /usr/bin/python3 python /usr/bin/python3.7 2
 pip freeze 
 
+
+- zip pass
+fcrackzip -b -c 1 -l 4 -u "file name.zip"
+
 ### Linux/Ubuntu
 - [kernel source code](https://elixir.bootlin.com/linux/v3.14/source/include/linux/syscalls.h#L175)
 - [ssh generation howto](https://www.ssh.com/ssh/keygen/)
