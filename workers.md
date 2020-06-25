@@ -19,3 +19,40 @@ So Web Workers are handy to run expensive scripts without causing the user inter
 | Instances    | Many per tab | One for all tabs |
 | Lifespan     | Same as tab  | Independent      |
 | Intended use | Parallelism  | Offline support  |
+
+
+
+
+### Other notes
+
+- [Spec - webworkers](https://html.spec.whatwg.org/multipage/workers.html#workers)
+
+##### Web Workers can be divided into
+	- Shared Webworkers
+	- Dedicated Webworkers
+
+##### Features in WW
+	- available
+		- The navigator object
+		- The location object (read-only)
+		- XMLHttpRequest
+		- setTimeout()/clearTimeout() and setInterval()/clearInterval()
+		- The Application Cache
+		- Importing external scripts using the importScripts() method
+		- Spawning other web workers
+	- not available
+		- The DOM (it's not thread-safe)
+		- The window object
+		- The document object
+		- The parent object
+
+
+
+##### Tips
+:pencil: - for passing large amount of data to WW use Transferable Objects
+
+##### Dict
+:o: - Web IDL - interface definition language
+:o: - Platform objects are objects that implement an interface. [source](https://heycam.github.io/webidl/#dfn-platform-object)
+:o: - Transferable Objects - [source](https://developers.google.com/web/updates/2011/12/Transferable-Objects-Lightning-Fast)
+:o: - structured clone algorithm - algorithm used to copy `ArrayBuffer` instead of serializing `postMessage()` [source](https://developers.google.com/web/updates/2011/09/Workers-ArrayBuffer)

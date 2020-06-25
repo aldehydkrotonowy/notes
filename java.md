@@ -2,7 +2,12 @@
 - [Spring Data JPA - Interface-based Projections](https://www.logicbig.com/tutorials/spring-framework/spring-data/interface-based-projections.html)
 - [Lombok annotation](https://stormit.pl/lombok/#requiredargsconstructor)
 - [Java code snippets](https://www.codota.com/code/java/classes/org.springframework.security.web.csrf.CookieCsrfTokenRepository)
-
+- [DAO czy Repository? Jaką warstwę dostępu do danych wykorzystywać?](https://bykowski.pl/dao-czy-repository-jaka-warstwe-dostepu-do-danych-wykorzystywac/)
+- [Hibernate - Szybki wstęp](https://www.javappa.com/kurs-spring/materialy-spring-hibernate-poczatek)
+- [@EqualsAndHashCode - annotation](https://projectlombok.org/features/EqualsAndHashCode)
+- [Aggregate Functions - postgreSQL](https://www.postgresql.org/docs/9.5/functions-aggregate.html)
+- [Constructor Injection in Spring with Lombok](https://www.baeldung.com/spring-injection-lombok)
+- [Introduction to Project Lombok](https://www.baeldung.com/intro-to-project-lombok)
 
 ### Hibernate
 - [Chapter 2. Mapping Entities](https://docs.jboss.org/hibernate/annotations/3.5/reference/en/html/entity.html)
@@ -11,7 +16,8 @@
 ### Annotations
 - [Spring Data JPA @Query](https://www.baeldung.com/spring-data-jpa-query)
 
-
+### Gradle
+- [Creating New Gradle Builds](https://guides.gradle.org/creating-new-gradle-builds/)
 
 
 

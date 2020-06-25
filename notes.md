@@ -494,3 +494,11 @@
 
 ### Wednesday 3.06.20
 - [Cache API in JavaScript](https://medium.com/javascript-dots/cache-api-in-javascript-644380391681)
+
+### Monday 15.06.20
+- [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+
+### Tuesday 23.06.20
+- [Rollup vs Webpack](https://medium.com/jsdownunder/rollup-vs-webpack-javascript-bundling-in-2018-b35758a2268)
+- [Uint8Array to string in Javascript](https://stackoverflow.com/questions/8936984/uint8array-to-string-in-javascript)
