@@ -502,3 +502,6 @@
 ### Tuesday 23.06.20
 - [Rollup vs Webpack](https://medium.com/jsdownunder/rollup-vs-webpack-javascript-bundling-in-2018-b35758a2268)
 - [Uint8Array to string in Javascript](https://stackoverflow.com/questions/8936984/uint8array-to-string-in-javascript)
+
+### Wednesday 08.07.20
+- [JavaScript Internals: Under The Hood of a Browser](https://medium.com/better-programming/javascript-internals-under-the-hood-of-a-browser-f357378cc922)
