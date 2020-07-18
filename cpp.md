@@ -11,6 +11,7 @@
 - [Makefile - tutorial](https://www.youtube.com/watch?v=GExnnTaBELk)
 - [Let there be constants!](https://mariusbancila.ro/blog/2019/09/10/let-there-be-constants/)
 - [C++20 IS FEATURE COMPLETE](https://hackaday.com/2019/07/30/c20-is-feature-complete-heres-what-changes-are-coming/)
+
 ### Advanced
 - [OBJECTS, THEIR LIFETIMES AND POINTERS](https://blog.panicsoftware.com/objects-their-lifetimes-and-pointers/)
 - [C++ Weekly - Ep 1 ChaiScript_Parser Initialization Refactor](https://www.youtube.com/watch?v=EJtqHLvAIZE&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)

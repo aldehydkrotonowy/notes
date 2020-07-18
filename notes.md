@@ -497,3 +497,14 @@
 - [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
 - [Create diagrams with code using Graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
 - [What Is The Best Deno Web Framework?](https://dev.to/craigmorten/what-is-the-best-deno-web-framework-2k69)
+
+### Monday 15.06.20
+- [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+
+### Tuesday 23.06.20
+- [Rollup vs Webpack](https://medium.com/jsdownunder/rollup-vs-webpack-javascript-bundling-in-2018-b35758a2268)
+- [Uint8Array to string in Javascript](https://stackoverflow.com/questions/8936984/uint8array-to-string-in-javascript)
+
+### Wednesday 08.07.20
+- [JavaScript Internals: Under The Hood of a Browser](https://medium.com/better-programming/javascript-internals-under-the-hood-of-a-browser-f357378cc922)

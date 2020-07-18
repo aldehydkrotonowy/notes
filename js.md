@@ -1,3 +1,8 @@
+## Pinned
+- [ECMAScript proposals](https://github.com/tc39/proposals)
+- [Ecma Standard v11](https://www.ecma-international.org/ecma-262/11.0/index.html#sec-intro)
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts#26-asyncawait)
+
 ### Frameworks
 
 - [Razzle](https://github.com/jaredpalmer/razzle) - Razzle not only works with React, but also Reason, Elm, Vue, Angular...
