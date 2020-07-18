@@ -56,3 +56,11 @@ cp iwlwifi-*.ucode /lib/firmware
        capabilities: pm msi pciexpress msix bus_master cap_list ethernet physical wireless
        configuration: broadcast=yes driver=iwlwifi driverversion=5.3.0-59-generic **firmware=46.6bf1df06.0** ip=192.168.0.103 latency=0 link=yes multicast=yes wireless=IEEE 802.11
        resources: irq:24 memory:fe200000-fe203fff
+
+
+
+### terminal
+- [zsh and powerlevel9k](https://www.youtube.com/watch?v=iwH1XqVjZOE)
+- [terminal configs](https://github.com/Powerlevel9k/powerlevel9k/wiki/Show-Off-Your-Config)
+
+change terminal to zsh **chsh -s $(which zsh)**

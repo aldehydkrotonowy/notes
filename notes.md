@@ -494,3 +494,6 @@
 
 ### Wednesday 3.06.20
 - [Cache API in JavaScript](https://medium.com/javascript-dots/cache-api-in-javascript-644380391681)
+- [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+- [Create diagrams with code using Graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
+- [What Is The Best Deno Web Framework?](https://dev.to/craigmorten/what-is-the-best-deno-web-framework-2k69)

@@ -1,5 +1,7 @@
-### CMake
+### Webs & blogs
+- [Andrzej's C++ blog ](https://akrzemi1.wordpress.com/)
 
+### CMake
 - [CMake Tutorial For Beginners - Episode 1](https://www.youtube.com/watch?v=wl2Srog-j7I)
   - what is CMake and CDash
 - [Introduction to CMake - Part 01](https://www.youtube.com/watch?v=wCvv8EVuPo0)
@@ -12,7 +14,7 @@
 ### Advanced
 - [OBJECTS, THEIR LIFETIMES AND POINTERS](https://blog.panicsoftware.com/objects-their-lifetimes-and-pointers/)
 - [C++ Weekly - Ep 1 ChaiScript_Parser Initialization Refactor](https://www.youtube.com/watch?v=EJtqHLvAIZE&list=PLs3KjaCtOwSZ2tbuV1hx8Xz-rFZTan2J1)
-	
+- [Translation units and linkage - MS](https://docs.microsoft.com/en-us/cpp/cpp/program-and-linkage-cpp?view=vs-2019)
 ### Youtube
 - [Tech Talk: C++ Advanced Topics in Templates](https://www.youtube.com/watch?v=X30OwlsMWak)
 	-- variadic parameter type
