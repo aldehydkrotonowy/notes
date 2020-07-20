@@ -505,3 +505,4 @@
 
 ### Wednesday 08.07.20
 - [JavaScript Internals: Under The Hood of a Browser](https://medium.com/better-programming/javascript-internals-under-the-hood-of-a-browser-f357378cc922)
+- [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
