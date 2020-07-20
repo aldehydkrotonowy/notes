@@ -30,3 +30,6 @@ struct Programmer : Animal {
 	Resource acquisition is initialization (inicjowanie przy pozyskaniu zasobu), w skrócie RAII – popularny wzorzec projektowy w C++ i D. Technika łączy przejęcie i zwolnienie zasobu z inicjowaniem i usuwaniem zmiennych.
 - [Auto_ptr](https://en.wikipedia.org/wiki/Auto_ptr)
 	auto_ptr is a class template that was available in previous versions of the C++ Standard Library (declared in the <memory> header file), which provides some basic RAII features for C++ raw pointers. The C++11 standard made auto_ptr deprecated (it was fully removed in C++17), it has been replaced by the **unique_ptr** class.
+
+
+	**static_cast** can perform conversions between pointers to related classes, not only from the derived class to its base, but also from a base class to its derived. This ensures that at least the classes are compatible if the proper object is converted, but no safety check is performed during runtime to check if the object being converted is in fact a full object of the destination type. Therefore, it is up to the programmer to ensure that the conversion is safe. On the other side, the overhead of the type-safety checks of dynamic_cast is avoided.[Polymorphism - Stack Overflow](https://stackoverflow.com/questions/2032361/whats-polymorphic-type-in-c)
