@@ -508,7 +508,20 @@
 
 ### Wednesday 08.07.20
 - [JavaScript Internals: Under The Hood of a Browser](https://medium.com/better-programming/javascript-internals-under-the-hood-of-a-browser-f357378cc922)
+<<<<<<< HEAD
 
 ### Sunday 19.07.20
 - [Subtyping and coercion in Rust](http://featherweightmusings.blogspot.com/2014/03/subtyping-and-coercion-in-rust.html)
 - [Git Submodules vs Git Subtrees](https://martowen.com/2016/05/01/git-submodules-vs-git-subtrees/)
+=======
+- [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
+
+### Friday 24.07.20
+- [ghidra](https://ghidra-sre.org)
+- [ghidra - git](https://github.com/NationalSecurityAgency/ghidra)
+- [Build your own React](https://pomb.us/build-your-own-react/)
+- [Send data between tabs with JavaScript](https://dev.to/dcodeyt/send-data-between-tabs-with-javascript-2oa)
+- [Obsługa płatności online w React + Stripe](https://www.youtube.com/watch?v=MjMh62ZXlOw)
+- [5 lessons from 50 days of CSS art](https://dev.to/s_aitchison/5-lessons-from-50-days-of-css-art-2ae1)
+- [Brython (Browser Python)](https://github.com/brython-dev/brython)
+>>>>>>> 467c6fa3cc1dadcac6dfb55b009dbab9e199ec9e
