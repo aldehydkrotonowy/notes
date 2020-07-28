@@ -42,4 +42,29 @@ WHERE
 st.model = '7971D'
 AND oa.included = TRUE
 GROUP BY oa.order_id
+
+
 ```
+ubuntu:
+sudo apt install postgresql postgresql-contrib
+sudo systemctl status postgresql
+
+HOWTO create user
+	- to login in gui type in terminal
+		$$ sudo -u postgres psql postgres
+		\du - display users
+		CREATE USER user CREATEDB PASSWORD 'pass'
+	- now you can login in pgAdmin as user with pass on localhost
+
+"Again purely for convenience, Postgres still accepts commands using the old terminology, such as **CREATE USER** and **CREATE GROUP** which are both aliases for **CREATE ROLE**."
+
+[postgresql-contrib - list of utils](https://www.postgresql.org/docs/current/contrib.html)
+
+Firstly, it is important to understand that for most Unix distributions, the default Postgres user neither requires nor uses a password for authentication. Instead, depending how Postgres was originally installed and what version you are using, the default authentication method will either be ident or peer.
+
+**ident authentication** uses the operating system’s identification server running at TCP port 113 to verify the user’s credentials.
+
+**peer authentication** on the other hand, is used for local connections and verifies that the logged in username of the operating system matches the username for the Postgres database.
+
+[Login and Connect as Default User](https://chartio.com/resources/tutorials/how-to-set-the-default-user-password-in-postgresql/)
+[Getting Started with PostgreSQL](https://www3.ntu.edu.sg/home/ehchua/programming/sql/PostgreSQL_GetStarted.html)
