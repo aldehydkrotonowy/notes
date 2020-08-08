@@ -518,3 +518,11 @@
 - [Obsługa płatności online w React + Stripe](https://www.youtube.com/watch?v=MjMh62ZXlOw)
 - [5 lessons from 50 days of CSS art](https://dev.to/s_aitchison/5-lessons-from-50-days-of-css-art-2ae1)
 - [Brython (Browser Python)](https://github.com/brython-dev/brython)
+
+### Monday 27.07.20
+- [Anti reverse engineering](https://www.pelock.com/pl/artykuly/anti-reverse-engineering-wirusy-kontra-antywirusy?p2=53a)
+- [How to Implement Login with Google in NestJS](https://levelup.gitconnected.com/how-to-implement-login-with-google-in-nest-js-81b0c584c987)
+
+### Thursday 30.07.20
+- [Arrow functions are disrupting React.Components](https://blog.usejournal.com/arrow-functions-are-disrupting-react-components-63662d35f97b)
+- [Arrow functions in React](https://medium.com/@oleg008/arrow-functions-in-react-f782d11460b4)
