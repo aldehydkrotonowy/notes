@@ -5,7 +5,7 @@
 - [eslint - google configuration](https://github.com/google/eslint-config-google)
 - [eslint - airbnb configuration](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb)
 - [Mirage JS is an API mocking library](https://miragejs.com/)
-
+- [motionia.js](https://github.com/abhiprojectz/motionia)
 
 ### other js libraries
 - [GreenSock Animation Platform (GSAP) ](https://greensock.com/get-started/)

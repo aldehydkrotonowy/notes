@@ -18,3 +18,6 @@
 
 ### blogs
 - [Javascript Jeep](https://medium.com/@jagathishsaravanan)
+
+### Others
+- [hackaday](https://hackaday.com/)

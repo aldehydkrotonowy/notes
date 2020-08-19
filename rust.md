@@ -7,6 +7,14 @@ if something wrong try:
 
 To get started you need Cargo's bin directory (%USERPROFILE%.cargo\bin) in your PATH
 
+
+#### Other commands
+cargo init projectName
+cargo run
+cargo build
+cargo build --release
+
+
 ### Rust sourcecode
 - [small rust-webserver](https://github.com/juli1/rust-webserver/tree/master/src) :gem:
 
@@ -15,3 +23,6 @@ To get started you need Cargo's bin directory (%USERPROFILE%.cargo\bin) in your 
 
 ### Official Rust Community Book
 - [The Rust Programming Language](https://doc.rust-lang.org/stable/book/) :recycle: :book:
+- [Tech Empower Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
+
+### rust-notes

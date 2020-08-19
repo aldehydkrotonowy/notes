@@ -1,23 +1,24 @@
 {
+  "editor.wordWrap": "off",
   "workbench.colorCustomizations": {
     "statusBar.background": "#124066",
     "statusBar.noFolderBackground": "#212121",
     "statusBar.debuggingBackground": "#263238",
     // Color of the editor selection.
-    "editor.selectionBackground": "#443636",
-    "editorLineNumber.foreground": "#09ff01",
+    "editor.selectionBackground": "#4e1818",
+    "editorLineNumber.foreground": "#01ff67",
     // Color for regions with the same content as the selection.
-    "editor.selectionHighlightBackground": "#1090a157",
+    "editor.selectionHighlightBackground": "#ac0000",
     // Color of the current search match.
-    "editor.findMatchBackground": "#528815",
+    "editor.findMatchBackground": "#9c1b1b",
     // Color of the other search matches.
-    "editor.findMatchHighlightBackground": "#3404c5b7",
+    // "editor.findMatchHighlightBackground": "#054610b7",
     // Background color of a symbol during read-access,
     // for example when reading a variable.
-    "editor.wordHighlightBackground": "#253a1c",
+    // "editor.wordHighlightBackground": "#310f4d",
     // Background color of a symbol during write-access,
     // for example when writing to a variable.
-    "editor.wordHighlightStrongBackground": "#151e7ca8",
+    "editor.wordHighlightStrongBackground": "#08171ba8",
     "editorBracketMatch.border": "#c40909",
     "terminal.foreground": "#94a39a",
     "terminal.background": "#383737",
@@ -25,25 +26,104 @@
     "panel.border": "#f80404",
     "panel.background": "#202020",
     "panelTitle.activeBorder": "#00ff",
-    "tab.activeBackground": "#1f80dbaa",
-    "tab.border": "#014c74",
-    "panelTitle.activeForeground": "#0272f1",
-    "panelTitle.inactiveForeground": "#383737"
+    "tab.activeBackground": "#093055aa",
+    "tab.border": "#014c74"
+    // "panelTitle.activeForeground": "#0272f1",
+    // "panelTitle.inactiveForeground": "#383737",
   },
-  "workbench.colorTheme": "XhiTheme Color",
-  "workbench.iconTheme": "ayu",
-  "vim.easymotion": true,
-  "vim.startInInsertMode": true,
-  "vim.leader": "\\",
-  "vim.easymotionMarkerForegroundColorOneChar": "#12ff45",
+  // "editor.semanticHighlighting.enabled": true,
   "editor.tabSize": 2,
-  "editor.renderWhitespace": "all",
-  "editor.insertSpaces": true,
-  "editor.lineNumbers": "on",
   "window.zoomLevel": -1,
   "zenMode.fullScreen": true,
   "zenMode.hideTabs": false,
+  "php.validate.executablePath": "C:/xampp/php/php.exe",
+  "editor.lineNumbers": "on",
+  "editor.formatOnSave": false,
+  "workbench.settings.editor": "json",
+  "editor.renderWhitespace": "all",
+  "vim.startInInsertMode": true,
+  "vim.easymotion": true,
+  "vim.leader": "\\",
+  "vim.easymotionMarkerForegroundColorOneChar": "#12ff45",
   "vim.useCtrlKeys": false,
-  "editor.formatOnSave": true,
+  "vim.insertModeKeyBindings": [
+    {
+      "before": [
+        "j",
+        "j"
+      ],
+      "after": [
+        "<Esc>"
+      ]
+    }
+  ],
+  "vim.normalModeKeyBindings": [
+    {
+      "before": [
+        " "
+      ],
+      "after": [
+        "<leader>",
+        "<leader>",
+        "<leader>",
+        "b",
+        "d",
+        "w"
+      ]
+    }
+  ],
+  "workbench.colorTheme": "Tron Legacy",
+  "git.enableSmartCommit": true,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": false,
+    "strings": true
+  },
+  "editor.suggestSelection": "first",
+  // "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "workbench.iconTheme": "ayu",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "editor.formatOnPaste": true,
+  "editor.formatOnType": true,
+  // "eslint.autoFixOnSave": true,
+  // "eslint.alwaysShowStatus": true,
+  // "enableTelemetry": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "todohighlight.isEnable": true,
+  "editor.snippetSuggestions": "top",
+  "editor.tokenColorCustomizations": {
+    "comments": "#28ad00"
+  },
+  "explorer.compactFolders": false,
+  "coloredRegions.namedColors": {
+    "favorite": "rgba(79, 44, 115, 0.1)",
+    "green":"rgba(27, 163, 156, 0.1)",
+    "jade": "rgba(0, 177, 106, 0.1)",
+    "malachite": "rgba(0, 230, 64, 0.1)",
+    "mariner": "rgba(44, 130, 201, 0.1)",
+    "irishBlue": "rgba(0, 181, 204, 0.1)",
+    "pink": "rgba(219, 10, 91, 0.1)"
+  },
+  "json.maxItemsComputed": 15000,
+  "cSpell.userWords": [
+    "JSESSIONID"
+  ],
+  // "editor.fontFamily": "Hasklig, monospace",
+  "editor.fontFamily": "'Fira Code'",
+  // "editor.fontFamily": "'Fira Code Medium'",
+  // "editor.fontFamily": "'Fira Code Retina', monospace",
+  // "editor.fontFamily": "'Fira Code SemiBold'",
+  // "editor.fontFamily": "'Monoid'",
+  // "editor.fontFamily": "'DejaVu Sans Code'",
+  // "editor.fontFamily": "'Iosevka Extended'",
+  // "editor.fontFamily": "'Iosevka Bold Extended'",
+  // "editor.fontFamily": "'Iosevka Regular'",
+  // "editor.fontFamily": "'Iosevka Bold Regular'",
+  // "editor.fontFamily": "'Consolas', monospace",
+  // "editor.fontFamily": "'Courier New', monospace",
+  "editor.fontLigatures": true,
   "editor.fontSize": 12,
-  "workbench.view.alwaysShowHeaderActions": true,
+  "editor.fontWeight": "400",
+  "editor.lineHeight": 19,
+}

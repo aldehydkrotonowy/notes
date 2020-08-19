@@ -9,3 +9,6 @@ or
 
 sudo chown -R $(whoami) ~/.npm
 sudo chown -R $(whoami) ~/.config
+
+
+npm audit | grep -E "(High | Critical)" -B3 -A10 > file.txt

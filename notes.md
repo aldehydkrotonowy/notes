@@ -494,3 +494,40 @@
 
 ### Wednesday 3.06.20
 - [Cache API in JavaScript](https://medium.com/javascript-dots/cache-api-in-javascript-644380391681)
+- [how to manage HTML DOM with vanilla JavaScript only?](https://htmldom.dev/)
+- [Create diagrams with code using Graphviz](https://ncona.com/2020/06/create-diagrams-with-code-using-graphviz/)
+- [What Is The Best Deno Web Framework?](https://dev.to/craigmorten/what-is-the-best-deno-web-framework-2k69)
+
+### Monday 15.06.20
+- [Grid for layout, Flexbox for components](https://ishadeed.com/article/grid-layout-flexbox-components/)
+- [33 Concepts Every JavaScript Developer Should Know](https://github.com/leonardomso/33-js-concepts)
+
+### Tuesday 23.06.20
+- [Rollup vs Webpack](https://medium.com/jsdownunder/rollup-vs-webpack-javascript-bundling-in-2018-b35758a2268)
+- [Uint8Array to string in Javascript](https://stackoverflow.com/questions/8936984/uint8array-to-string-in-javascript)
+
+### Wednesday 08.07.20
+- [JavaScript Internals: Under The Hood of a Browser](https://medium.com/better-programming/javascript-internals-under-the-hood-of-a-browser-f357378cc922)
+
+### Sunday 19.07.20
+- [Subtyping and coercion in Rust](http://featherweightmusings.blogspot.com/2014/03/subtyping-and-coercion-in-rust.html)
+- [Git Submodules vs Git Subtrees](https://martowen.com/2016/05/01/git-submodules-vs-git-subtrees/)
+- [Ten modern layouts in one line of CSS](https://web.dev/one-line-layouts/)
+
+### Friday 24.07.20
+- [ghidra](https://ghidra-sre.org)
+- [ghidra - git](https://github.com/NationalSecurityAgency/ghidra)
+- [Build your own React](https://pomb.us/build-your-own-react/)
+- [Send data between tabs with JavaScript](https://dev.to/dcodeyt/send-data-between-tabs-with-javascript-2oa)
+- [Obsługa płatności online w React + Stripe](https://www.youtube.com/watch?v=MjMh62ZXlOw)
+- [5 lessons from 50 days of CSS art](https://dev.to/s_aitchison/5-lessons-from-50-days-of-css-art-2ae1)
+- [Brython (Browser Python)](https://github.com/brython-dev/brython)
+
+### Monday 27.07.20
+- [Anti reverse engineering](https://www.pelock.com/pl/artykuly/anti-reverse-engineering-wirusy-kontra-antywirusy?p2=53a)
+- [How to Implement Login with Google in NestJS](https://levelup.gitconnected.com/how-to-implement-login-with-google-in-nest-js-81b0c584c987)
+
+### Thursday 30.07.20
+- [Arrow functions are disrupting React.Components](https://blog.usejournal.com/arrow-functions-are-disrupting-react-components-63662d35f97b)
+- [Arrow functions in React](https://medium.com/@oleg008/arrow-functions-in-react-f782d11460b4)
+
