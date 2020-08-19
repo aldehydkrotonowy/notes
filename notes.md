@@ -531,3 +531,5 @@
 - [Arrow functions are disrupting React.Components](https://blog.usejournal.com/arrow-functions-are-disrupting-react-components-63662d35f97b)
 - [Arrow functions in React](https://medium.com/@oleg008/arrow-functions-in-react-f782d11460b4)
 
+### Wednesday 19.08.20
+- [An Introduction to Existential Types](https://medium.com/@stephenebly/an-introduction-to-existential-types-25c130ba61a4)
