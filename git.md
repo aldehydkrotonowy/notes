@@ -50,3 +50,6 @@ git outputs parents according to their number: the first (leftmost) hash is for 
  Merge: 9901923 d28790d
  ...
  ```
+
+
+ there is file `.attributes` containing *** text=clrf** - in this case i had to add **git config --global core.autocrlf input** to my global config file because git saw all files as modified --> [core.autocrlf docs](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)

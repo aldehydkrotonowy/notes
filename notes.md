@@ -533,3 +533,12 @@
 
 ### Wednesday 19.08.20
 - [An Introduction to Existential Types](https://medium.com/@stephenebly/an-introduction-to-existential-types-25c130ba61a4)
+
+### Wednesday 26.08.20
+- [Persistent data structure](https://en.wikipedia.org/wiki/Persistent_data_structure)
+- [In Rust, ordinary vectors are values](http://smallcultfollowing.com/babysteps/blog/2018/02/01/in-rust-ordinary-vectors-are-values/)
+
+### Monday 14.09.20
+- [Use Hooks + Context, not React + Redux](https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux/)
+- [How to useContext in React?](https://www.robinwieruch.de/react-usecontext-hook)
+- [React State Management](https://www.robinwieruch.de/react-state)
