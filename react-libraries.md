@@ -21,3 +21,4 @@
 - [bignumber](https://github.com/MikeMcl/bignumber.js/)
 - [decimal.js](https://github.com/MikeMcl/decimal.js/)
 - [Pdf.jsx](https://gist.github.com/atolkachiov/dd2e257f669b1a5ca06e4f4514326d3b)
+- [Generator based control flow goodness for nodejs and the browser](https://github.com/tj/co)
