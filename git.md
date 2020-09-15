@@ -30,8 +30,26 @@ git log --follow -p -- <file> - Show the entire history of a file (including his
 - [Up your Git game and clean up your history](https://dev.to/christopherkade/up-your-git-game-and-clean-up-your-history-4j3j)
 
 
+git revert -m 1 [commit-hash]
+
 ### rename local and remote branch
 git checkout <old_name>					- Start by switching to the local branch which you want to rename:
 git branch -m <new_name>				- Rename the local branch by typing:
 git push origin -u <new_name>			- Push the <new_name> local branch and reset the upstream branch:
 git push origin --delete <old_name>		- Delete the <old_name> remote branch:
+
+
+
+$ git log --pretty=%P -n 1 <commit>
+$ git show -s --pretty=%P <commit>
+
+git outputs parents according to their number: the first (leftmost) hash is for the first parent, and so on.
+```js
+ $ git log -1 395f65d
+ commit 395f65d438b13fb1fded88a330dc06c3b0951046
+ Merge: 9901923 d28790d
+ ...
+ ```
+
+
+ there is file `.attributes` containing *** text=clrf** - in this case i had to add **git config --global core.autocrlf input** to my global config file because git saw all files as modified --> [core.autocrlf docs](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)

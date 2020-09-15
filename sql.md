@@ -42,6 +42,12 @@ WHERE
 st.model = '7971D'
 AND oa.included = TRUE
 GROUP BY oa.order_id
+```
+
+```sql
+select * from static_input_licence_country silc where si_licence_id in (select id from static_input_licence sil where season_id = 225);
+update static_input_licence_country set is_blocked = false;
+```
 
 
 ```

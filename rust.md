@@ -26,3 +26,4 @@ cargo build --release
 - [Tech Empower Web Framework Benchmarks](https://www.techempower.com/benchmarks/)
 
 ### rust-notes
+- [In Rust, ordinary vectors are values](http://smallcultfollowing.com/babysteps/blog/2018/02/01/in-rust-ordinary-vectors-are-values/)
