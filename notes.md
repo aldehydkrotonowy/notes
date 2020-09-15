@@ -542,3 +542,7 @@
 - [Use Hooks + Context, not React + Redux](https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux/)
 - [How to useContext in React?](https://www.robinwieruch.de/react-usecontext-hook)
 - [React State Management](https://www.robinwieruch.de/react-state)
+
+### Tuesday 15.09.20
+- [React router v5 hooks](https://reacttraining.com/blog/react-router-v5-1/#uselocation)
+- [React Top-Level API](https://www.w3resource.com/react/react-top-level-api.php)
