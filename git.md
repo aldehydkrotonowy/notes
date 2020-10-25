@@ -53,3 +53,9 @@ git outputs parents according to their number: the first (leftmost) hash is for 
 
 
  there is file `.attributes` containing *** text=clrf** - in this case i had to add **git config --global core.autocrlf input** to my global config file because git saw all files as modified --> [core.autocrlf docs](https://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/)
+
+
+
+
+ ### git squash
+-[squash-commits-into-one](https://www.internalpointers.com/post/squash-commits-into-one-git)
