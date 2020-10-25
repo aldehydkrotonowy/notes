@@ -542,3 +542,6 @@
 - [Use Hooks + Context, not React + Redux](https://blog.logrocket.com/use-hooks-and-context-not-react-and-redux/)
 - [How to useContext in React?](https://www.robinwieruch.de/react-usecontext-hook)
 - [React State Management](https://www.robinwieruch.de/react-state)
+
+### Saturday 24.10.20
+- [Alternatives for Redux](https://blog.bitsrc.io/redux-react-alternatives-c1733793a339)
