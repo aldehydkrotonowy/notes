@@ -25,6 +25,7 @@ fcrackzip -b -c 1 -l 4 -u "file name.zip"
 ### Linux/Ubuntu
 - [kernel source code](https://elixir.bootlin.com/linux/v3.14/source/include/linux/syscalls.h#L175)
 - [ssh generation howto](https://www.ssh.com/ssh/keygen/)
+- [Problem with flickering chrome](https://www.linuxslaves.com/2018/09/ways-to-fix-google-chrome-screen-flickering-ubuntu-linux.html)
 
 
 for driver installation just copy files
@@ -64,3 +65,5 @@ cp iwlwifi-*.ucode /lib/firmware
 - [terminal configs](https://github.com/Powerlevel9k/powerlevel9k/wiki/Show-Off-Your-Config)
 
 change terminal to zsh **chsh -s $(which zsh)**
+
+
