@@ -67,3 +67,22 @@ cp iwlwifi-*.ucode /lib/firmware
 change terminal to zsh **chsh -s $(which zsh)**
 
 
+
+walka z vpn
+
+
+- [Connecting Ubuntu To Windows Shares And DFS Trees](http://mattslay.com/connecting-ubuntu-to-windows-shares-and-dfs-trees/)
+- [Windows hostnames are not resolved](https://askubuntu.com/questions/93302/windows-hostnames-are-not-resolved)
+- [samba](https://linuxconfig.org/how-to-configure-samba-server-share-on-ubuntu-20-04-focal-fossa-linux)
+ftp://192.168.1.1/Toshiba175/Gajdzik/
+smb://192.168.1.200/home/norbert/samba"
+arrakis
+
+sudo service smbd stop
+sudo service smbd start
+
+sudo /etc/init.d/winbind stop
+sudo /etc/init.d/samba restart
+sudo /etc/init.d/winbind start
+
+

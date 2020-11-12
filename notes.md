@@ -549,3 +549,7 @@
 
 ### Saturday 24.10.20
 - [Alternatives for Redux](https://blog.bitsrc.io/redux-react-alternatives-c1733793a339)
+
+### Saturday 07.11.20
+- [A programmer's view on digital images: the essentials](https://www.collabora.com/news-and-blog/blog/2016/02/16/a-programmers-view-on-digital-images-the-essentials/#:~:text=The%20usual%20way%20to%20store,row%20has%20coordinates%200%2C0.)
+- [Image Stride](https://docs.microsoft.com/en-us/windows/win32/medfound/image-stride?redirectedfrom=MSDN)
