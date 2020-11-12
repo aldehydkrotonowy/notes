@@ -1,4 +1,4 @@
-1. Comparison sorts. A comparison sort cannot perform better than O(n log n).
+- Comparison sorts. A comparison sort cannot perform better than O(n log n).
   - Quicksort
   - Merge Sort
   - In-place merge sort
@@ -23,5 +23,4 @@
   - Gnomesort
   - UnShuffle sort
   - Odd-even sort
-
-2. Non-comparison sorts
+- Non-comparison sorts
