@@ -14,3 +14,4 @@
 ### Other
 
 - [grafana](https://github.com/grafana/grafana) - The open-source platform for monitoring and observability.
+- [papers-we-love](https://github.com/papers-we-love)
