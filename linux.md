@@ -85,4 +85,4 @@ sudo /etc/init.d/winbind stop
 sudo /etc/init.d/samba restart
 sudo /etc/init.d/winbind start
 
-
+apt-cache policy <packageName> - check version before install

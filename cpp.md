@@ -90,3 +90,7 @@
 ### [C++ Type Traits](https://www.drdobbs.com/cpp/c-type-traits/184404270)
 
 instalacja pakietów: *pacman -S nazwa-pakietu*, Szukanie pakietów: *pacman -Ss nazwa-pakietu*, Usuwanie pakietów: *pacman -R nazwa-pakietu*, Aktualizacja pakietow: *pacman -Su*, Aktualizacja bazy pakietów: *pacman -Sy*
+
+
+
+clang++ -Wall -std=c++11 test.cc -o test
