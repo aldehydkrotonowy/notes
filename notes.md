@@ -553,3 +553,8 @@
 ### Saturday 07.11.20
 - [A programmer's view on digital images: the essentials](https://www.collabora.com/news-and-blog/blog/2016/02/16/a-programmers-view-on-digital-images-the-essentials/#:~:text=The%20usual%20way%20to%20store,row%20has%20coordinates%200%2C0.)
 - [Image Stride](https://docs.microsoft.com/en-us/windows/win32/medfound/image-stride?redirectedfrom=MSDN)
+
+### Sunday 13.12.20
+- [Please stop using classes in JavaScript](https://everyday.codes/javascript/please-stop-using-classes-in-javascript/)
+- [Algorithm - Looping in a spiral](https://stackoverflow.com/questions/398299/looping-in-a-spiral)
+- [papers-we-love](https://github.com/papers-we-love)
