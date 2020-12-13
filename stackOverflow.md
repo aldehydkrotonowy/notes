@@ -5,3 +5,5 @@
 	Essentially, you cannot access response body from an opaque request.
 - [Uint8Array to string in Javascript](https://stackoverflow.com/questions/8936984/uint8array-to-string-in-javascript)
 - [axios and preflight request](https://stackoverflow.com/questions/50591482/why-axios-cause-access-control-allow-origin-error)
+- [PropType for ref](https://stackoverflow.com/questions/48007326/what-is-the-correct-proptype-for-a-ref-in-react)
+- [React useReducer: How to combine multiple reducers?](https://stackoverflow.com/questions/59200785/react-usereducer-how-to-combine-multiple-reducers)

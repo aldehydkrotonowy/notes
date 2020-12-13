@@ -10,7 +10,7 @@
 - [React Native DOM - ](https://github.com/vincentriemer/react-native-dom) - An experimental, comprehensive port of React Native to the web.
 - [core-decorators](https://github.com/jayphelps/core-decorators.git)
 - [react-fns](https://github.com/jaredpalmer/react-fns) - collection of imperative Browser API's turned into declarative React components
-
+- [Hygienic Macros for JavaScript](https://github.com/sweet-js/sweet-core)
 ### Other
 
 - [grafana](https://github.com/grafana/grafana) - The open-source platform for monitoring and observability.
