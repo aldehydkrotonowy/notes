@@ -468,3 +468,39 @@ info('ole')
 
   })
   ```
+
+
+  ```js
+  (async function() {
+  const asyncFunctions = [resolveInTwoSeconds, resolveInThreeSeconds, resolveInFiveSeconds];
+  // outputs 2 after 2 seconds
+  // outputs 3 after 5 seconds
+  // outputs 5 after 8 seconds
+  await asyncFunctions.reduce(async (previousPromise, nextAsyncFunction) => {
+    await previousPromise;
+    const result = await nextAsyncFunction();
+    console.log(result);
+  }, Promise.resolve());
+})();
+```
+
+```js
+(async function() {
+  const asyncFunctionsInBatches = [
+    [resolveInTwoSeconds, resolveInTwoSeconds],
+    [resolveInThreeSeconds, resolveInThreeSeconds],
+    [resolveInFiveSeconds, resolveInFiveSeconds],
+  ];
+
+  // Outputs [2, 2] after two seconds
+  // Outputs [3, 3] after five seconds
+  // Outputs [5, 5] after eight seconds
+  await asyncFunctionsInBatches.reduce(async (previousBatch, currentBatch, index) => {
+    await previousBatch;
+    console.log(`Processing batch ${index}...`);
+    const currentBatchPromises = currentBatch.map(asyncFunction => asyncFunction())
+    const result = await Promise.all(currentBatchPromises);
+    console.log(result);
+  }, Promise.resolve());
+})();
+```
