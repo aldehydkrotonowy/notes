@@ -546,3 +546,7 @@
 ### Tuesday 15.09.20
 - [React router v5 hooks](https://reacttraining.com/blog/react-router-v5-1/#uselocation)
 - [React Top-Level API](https://www.w3resource.com/react/react-top-level-api.php)
+
+### Tuesday 29.09.20
+- [Webmentions](https://dev.to/dailydevtips1/goodbye-comments-welcome-webmentions-499g)
+- [](https://github.com/muesli/duf)
