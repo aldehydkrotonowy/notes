@@ -25,6 +25,7 @@ fcrackzip -b -c 1 -l 4 -u "file name.zip"
 ### Linux/Ubuntu
 - [kernel source code](https://elixir.bootlin.com/linux/v3.14/source/include/linux/syscalls.h#L175)
 - [ssh generation howto](https://www.ssh.com/ssh/keygen/)
+- [Problem with flickering chrome](https://www.linuxslaves.com/2018/09/ways-to-fix-google-chrome-screen-flickering-ubuntu-linux.html)
 
 
 for driver installation just copy files
@@ -64,3 +65,24 @@ cp iwlwifi-*.ucode /lib/firmware
 - [terminal configs](https://github.com/Powerlevel9k/powerlevel9k/wiki/Show-Off-Your-Config)
 
 change terminal to zsh **chsh -s $(which zsh)**
+
+
+
+walka z vpn
+
+
+- [Connecting Ubuntu To Windows Shares And DFS Trees](http://mattslay.com/connecting-ubuntu-to-windows-shares-and-dfs-trees/)
+- [Windows hostnames are not resolved](https://askubuntu.com/questions/93302/windows-hostnames-are-not-resolved)
+- [samba](https://linuxconfig.org/how-to-configure-samba-server-share-on-ubuntu-20-04-focal-fossa-linux)
+ftp://192.168.1.1/Toshiba175/Gajdzik/
+smb://192.168.1.200/home/norbert/samba"
+arrakis
+
+sudo service smbd stop
+sudo service smbd start
+
+sudo /etc/init.d/winbind stop
+sudo /etc/init.d/samba restart
+sudo /etc/init.d/winbind start
+
+apt-cache policy <packageName> - check version before install
