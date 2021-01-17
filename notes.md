@@ -630,3 +630,4 @@
 
 - [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 - [Lerna and Yarn Workspaces is a Perfect Match](https://doppelmutzi.github.io/monorepo-lerna-yarn-workspaces/)
+- [Step by Step Guide to create a Typescript Monorepo with Yarn Workspaces and Lerna](https://blog.usejournal.com/step-by-step-guide-to-create-a-typescript-monorepo-with-yarn-workspaces-and-lerna-a8ed530ecd6d)

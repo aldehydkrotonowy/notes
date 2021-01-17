@@ -135,5 +135,9 @@
   //   "pink": "rgba(219, 10, 91, 0.1)"
   // },
   //---------------------------------------------
-  "json.maxItemsComputed": 15000
+  "json.maxItemsComputed": 15000,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+},
+"editor.rulers": [160]
 }
