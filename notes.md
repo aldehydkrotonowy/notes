@@ -558,3 +558,7 @@
 - [Please stop using classes in JavaScript](https://everyday.codes/javascript/please-stop-using-classes-in-javascript/)
 - [Algorithm - Looping in a spiral](https://stackoverflow.com/questions/398299/looping-in-a-spiral)
 - [papers-we-love](https://github.com/papers-we-love)
+
+### Saturday 16.01.21
+- [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
+- [Lerna and Yarn Workspaces is a Perfect Match](https://doppelmutzi.github.io/monorepo-lerna-yarn-workspaces/)
