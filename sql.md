@@ -74,3 +74,10 @@ Firstly, it is important to understand that for most Unix distributions, the def
 
 [Login and Connect as Default User](https://chartio.com/resources/tutorials/how-to-set-the-default-user-password-in-postgresql/)
 [Getting Started with PostgreSQL](https://www3.ntu.edu.sg/home/ehchua/programming/sql/PostgreSQL_GetStarted.html)
+
+
+
+
+this is about mongodb
+mongodump -h [host] --ssl --sslAllowInvalidCertificates -d [database] -u [username] -p [password] -o .dump
+mongorestore -h localhost:3001 -d [database] .dump/[database]
