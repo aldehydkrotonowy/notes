@@ -13,11 +13,6 @@ In Rust we have three types of macros:
 - cargo run
 - cargo build
 - cargo build --release
-### Notes section
-- [Procedural macro](https://blog.rust-lang.org/2018/12/21/Procedural-Macros-in-Rust-2018.html)
-In Rust we have three types of macros: 
-- [rust and web](http://www.arewewebyet.org/) - Are we web yet? Yes! And it's freaking fast!
-- [Web Frameworks - list](http://www.arewewebyet.org/topics/frameworks/#pkg-rocket) - list of frameworks for serwer and browser 
 
 - ### Rust sourcecode
   - [small rust-webserver](https://github.com/juli1/rust-webserver/tree/master/src) :gem:
@@ -47,3 +42,8 @@ In Rust we have three types of macros:
   - [Actic web](https://actix.rs/) - is a powerful, pragmatic, and extremely fast web framework for Rust
 - #### GUI 
   - [Iced](https://github.com/hecrj/iced) - cross-platform GUI library for Rust
+  - [crochet](https://github.com/raphlinus/crochet) - exploration into a possible next-generation reactive UI
+  - [Conrod](https://github.com/PistonDevelopers/conrod) - An easy-to-use, 2D GUI library written entirely in Rust.
+
+### Nicely explained
+- [modules,crates](https://fasterthanli.me/articles/rust-modules-vs-files)
