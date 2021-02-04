@@ -38,8 +38,10 @@ cargo build --release
 In Rust we have three types of macros: 
 - [rust and web](http://www.arewewebyet.org/) - Are we web yet? Yes! And it's freaking fast!
 - [Web Frameworks - list](http://www.arewewebyet.org/topics/frameworks/#pkg-rocket) - list of frameworks for serwer and browser 
-
-#Rust web Frameworks
-- **Tide** - A minimal and pragmatic Rust web application framework built for rapid development
-- **Warp** - serve the web at warp speeds
-- **Actic web** - is a powerful, pragmatic, and extremely fast web framework for Rust
+### Rust Tools
+- #### web frameworks
+  - [Tide](https://github.com/http-rs/tide) - A minimal and pragmatic Rust web application framework built for rapid development
+  - [Warp](https://github.com/seanmonstar/warp) - serve the web at warp speeds
+  - [Actic web](https://actix.rs/) - is a powerful, pragmatic, and extremely fast web framework for Rust
+- #### GUI 
+  - [Iced](https://github.com/hecrj/iced) - cross-platform GUI library for Rust
