@@ -44,6 +44,10 @@ In Rust we have three types of macros:
   - [Iced](https://github.com/hecrj/iced) - cross-platform GUI library for Rust
   - [crochet](https://github.com/raphlinus/crochet) - exploration into a possible next-generation reactive UI
   - [Conrod](https://github.com/PistonDevelopers/conrod) - An easy-to-use, 2D GUI library written entirely in Rust.
+  - [druid](https://github.com/linebender/druid) - Druid is an experimental Rust-native UI toolkit
 
 ### Nicely explained
 - [modules,crates](https://fasterthanli.me/articles/rust-modules-vs-files)
+
+### Blogs
+- [raphlinus](https://raphlinus.github.io/)
