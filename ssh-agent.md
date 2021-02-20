@@ -38,10 +38,13 @@ ssh-rsa ssh-keygen -t rsa (this is the default)
     ecdsa-sha2-nistp521	ssh-keygen -t ecdsa -b 521
 
 trzeba dodać host do C:\Program Files\Git\etc\ssh\ssh_config takie coś
+```sh
 Host github.com
-Hostname github.com
-IdentityFile ~/.ssh/plik.pub
-User git
+        User git
+        Hostname github.com
+        PreferredAuthentications publickey
+        IdentityFile /home/user/.ssh/id_rsa
+```
 
 ```sh
 # -E Specifies the hash algorithm for displaying key fingerprints.
@@ -59,14 +62,14 @@ agent_load_env
 
 # agent_run_state: 0=agent running w/ key; 1=agent w/o key; 2= agent not running
 agent_run_state=$(ssh-add -l >| /dev/null 2>&1; echo $?)
-echo 'kukuryu4 agent_run_state' $agent_run_state
+echo 'agent_run_state' $agent_run_state
 if [ ! "$SSH_AUTH_SOCK" ] || [ $agent_run_state = 2 ]; then
   echo "Initialising new SSH agent..."
   agent_start
-  ssh-add ~/.ssh/aldehydkrotonowy/dellAcce
+  ssh-add ~/.ssh/[FILE_NAME_PLACEHOLDER]
 elif [ "$SSH_AUTH_SOCK" ] && [ $agent_run_state = 1 ]; then
-  echo "ssh-agent is running bu has no identities. Adding dellAcce identity"
-  ssh-add ~/.ssh/aldehydkrotonowy/dellAcce
+  echo "ssh-agent is running bu has no identities. Adding identity"
+  ssh-add ~/.ssh/[FILE_NAME_PLACEHOLDER]
 else
  echo "ssh-agent is setup and ready"
  echo "checking"
