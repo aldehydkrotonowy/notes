@@ -561,3 +561,11 @@
 - [Please stop using classes in JavaScript](https://everyday.codes/javascript/please-stop-using-classes-in-javascript/)
 - [Algorithm - Looping in a spiral](https://stackoverflow.com/questions/398299/looping-in-a-spiral)
 - [papers-we-love](https://github.com/papers-we-love)
+
+### Sunday 17.04.21
+- [HTTP methods](https://httptoolkit.tech/blog/http-search-method/)
+- [html boilerplate with explanation](https://www.matuzo.at/blog/html-boilerplate/)
+- [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/)
+
+## Sunday 25.10.21
+- [architectures of asynchronous JavaScript](https://www.youtube.com/watch?v=C4ZuJQ_5Ik0)
