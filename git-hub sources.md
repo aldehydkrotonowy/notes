@@ -15,3 +15,5 @@
 
 - [grafana](https://github.com/grafana/grafana) - The open-source platform for monitoring and observability.
 - [papers-we-love](https://github.com/papers-we-love)
+- [free books](https://github.com/EbookFoundation/free-programming-books)
+- [Build your own xxx](https://github.com/danistefanovic/build-your-own-x) x = Web Server, template engine, ... (many more)

@@ -638,5 +638,9 @@
 
 
 ## Sunday 25.10.21
-- [architectures of asynchronous JavaScript](https://www.youtube.com/watch?v=C4ZuJQ_5Ik0)
+- [architectures of asynchronous JavaScript](https://www.youtube.com/watch?v=C4ZuJQ_5Ik0) /JS, async/
 
+### Saturday 02.05.2021
+- [Starting a TypeScript Project in 2021](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/) /Typescript/
+- [Working With Strings in Modern JavaScript](https://www.baseclass.io/guides/string-handling-modern-js) /JS, strings/
+- []() /CSS/
