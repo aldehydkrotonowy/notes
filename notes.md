@@ -644,3 +644,8 @@
 - [Starting a TypeScript Project in 2021](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/) /Typescript/
 - [Working With Strings in Modern JavaScript](https://www.baseclass.io/guides/string-handling-modern-js) /JS, strings/
 
+### Wednesday 13.05.2021
+- [stores in angular](https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/) /Angular, Angular-store/
+- [Ngrx Store - An Architecture Guide](https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/) /Angular, Angular-store/
+- [ngrx.io architecture](https://ngrx.io/guide/data/architecture-overview) /Angular, Angular-store/
+- [introduction  to reactive programing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 

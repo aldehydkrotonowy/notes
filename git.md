@@ -58,3 +58,7 @@ there is file `.attributes` containing **\* text=clrf** - in this case i had to 
 - [squash-commits-into-one](https://www.internalpointers.com/post/squash-commits-into-one-git)
 - [git core.autocrlf](https://stackoverflow.com/questions/3206843/how-line-ending-conversions-work-with-git-core-autocrlf-between-different-operat)
 - [git replacing LF with CRLF](https://stackoverflow.com/questions/1967370/git-replacing-lf-with-crlf)
+
+### git cheatsheet
+- [Git pretty](http://justinhileman.info/article/git-pretty/)
+- [Git commands](https://overapi.com/git)
