@@ -631,21 +631,29 @@
 - [Commits are snapshots, not diffs](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
 - [Lerna and Yarn Workspaces is a Perfect Match](https://doppelmutzi.github.io/monorepo-lerna-yarn-workspaces/)
 - [Step by Step Guide to create a Typescript Monorepo with Yarn Workspaces and Lerna](https://blog.usejournal.com/step-by-step-guide-to-create-a-typescript-monorepo-with-yarn-workspaces-and-lerna-a8ed530ecd6d)
+
 ### Sunday 17.04.21
+
 - [HTTP methods](https://httptoolkit.tech/blog/http-search-method/)
 - [html boilerplate with explanation](https://www.matuzo.at/blog/html-boilerplate/)
 - [The Cursed Computer Iceberg Meme](https://suricrasia.online/iceberg/)
 
-
-## Sunday 25.10.21
-- [architectures of asynchronous JavaScript](https://www.youtube.com/watch?v=C4ZuJQ_5Ik0) /JS, async/
-
 ### Saturday 02.05.2021
+
 - [Starting a TypeScript Project in 2021](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/) /Typescript/
 - [Working With Strings in Modern JavaScript](https://www.baseclass.io/guides/string-handling-modern-js) /JS, strings/
 
 ### Wednesday 13.05.2021
+
 - [stores in angular](https://blog.angular-university.io/angular-2-redux-ngrx-rxjs/) /Angular, Angular-store/
 - [Ngrx Store - An Architecture Guide](https://blog.angular-university.io/angular-ngrx-store-and-effects-crash-course/) /Angular, Angular-store/
 - [ngrx.io architecture](https://ngrx.io/guide/data/architecture-overview) /Angular, Angular-store/
-- [introduction  to reactive programing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) 
+- [introduction to reactive programing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+
+## Sunday 25.08.2021
+
+- [architectures of asynchronous JavaScript](https://www.youtube.com/watch?v=C4ZuJQ_5Ik0) /JS, async/
+
+### Sunday 19.09.2021
+
+- [A GPIO driver in Rust](https://lwn.net/Articles/863459/)
